@@ -1,0 +1,631 @@
+@relation train
+
+@attribute sentence string 
+@attribute org.luima.types.reasoning.LegalRuleSentence {0, 1}
+
+@data 
+
+"DECISION [fn-1].",0
+"GOLKIEWICZ, Chief Special MasterI. PROCEDURAL BACKGROUND.",0
+"On October 31, 2003, petitioner, Charlene Sawyer, filed a petition pursuant to the National Vaccine Injury Compensation Program [fn-2] (“the Act” or “the Program”) alleging that her injuries, including pain, numbness/tingling through her right hand, wrist, arm and upper arm/shoulder area are the result of the tetanus vaccination she received on November 3, 2000.",0
+"Petition (“Pet.”) at 2-3.",0
+"On April 16, 2004, respondent filed a Rule 4 Report contesting the sufficiency of the evidence and concluding that compensation is not appropriate in this case.",0
+"Respondent’s Report (“R. Report”), filed Apr. 20, 2004.",0
+"To resolve outstanding factual questions and elicit expert testimony, a hearing was held on June 14, 2005.",0
+"Petitioner, Charlene Sawyer, and her husband, Michael Sawyer, testified as fact witnesses.",0
+"Petitioner also presented Donald Wamsley, M.D., as an expert witness.",0
+"Respondent presented Vinay Chaudhry, M.D., as an expert witness.",0
+"Following the hearing, the undersigned issued an order on July 22, 2005 directing petitioner to file all outstanding information related to this case, specifically the prescription records from 1997 to the present.",0
+"On August 22, 2005, petitioner filed all of her available prescription records for the period of January 1997 to June 2005.",0
+"See Petitioner’s Supplemental Exhibit 15, filed Aug. 22, 2005.",0
+"On September 16, 2005, the undersigned issued an order instructing the parties to file supplemental briefing applying and analyzing the Court of Appeals for the Federal Circuit’s opinion in Althen v. Secretary of HHS [fn-3] to the medical information and factual evidence presented in this case.",0
+"See Order, filed Sep. 16, 2005.",0
+"On October 21, 2005, respondent filed a response to the September 16, 2005 Order.",0
+"See Respondent’s Post-Hearing Memorandum Explaining Why The Federal Circuit’s Holding in Althen v. HHS Does Not Control The Outcome of This Case (“R. Post-Hearing”), filed Oct. 21, 2005.",0
+"On October 31, 2005, petitioner filed her response to the September 16, 2005 Order.",0
+"See Petitioner’s Post- Hearing Brief Applying Althen To This Case (“P. Post-Hearing”), filed Oct. 31, 2005.",0
+"The record is now closed and the case is ripe for decision.",0
+"After reviewing the entire record, and for the reasons set forth below, the court finds petitioner has failed to carry the burden of proof required under the Act, and thus is not entitled to compensation.",0
+"A full discussion follows.",0
+"II.",0
+"FACTUAL BACKGROUND.",0
+"The following is a condensed version of the facts as they appear in the medical records.",0
+"The facts in this case are generally undisputed.",0
+"Petitioner, Charlene Sawyer, cut her finger while at work on November 3, 2000.",0
+"She was instructed by her employer to go to the urgent care center for medical attention.",0
+"Charlene received the tetanus vaccine on November 3, 2000, which was injected into her right upper arm/shoulder area.",0
+"P. Ex. 1 at 1.",0
+"The vaccine was administered at Doctor’s Urgent Care Office in Kettering, OH. Id. On November 4, 2000, Charlene noticed pus bumps and felt warmth at the injection site.",0
+"P. Ex. 7 at 2.",0
+"She returned to the urgent care center on November 6, 2000 and was diagnosed with inflammation to the injection site.",0
+"P. Ex. 1 at 2.",0
+"On November 8, 2000 she was diagnosed by her family physician with right arm cellulitis and myositis and was prescribed pain medication.",0
+"P. Ex. 2 at 1.",0
+"On November 15, 2000, Charlene returned to her physician where she complained of thumb and finger tingling and right shoulder tenderness and tingling.",0
+"P. Ex. 2 at 3.",0
+"Her physician noted that the abrasion was healing and that her right arm cellulitis and myositis was resolving.",0
+"Id. Charlene returned to her physician on December 20, 2000 with right arm pain.",0
+"It was noted that there was a knot present and her arm was tender.",0
+"She was diagnosed with right upper extremity parasthesia and an EMG was ordered of the right upper extremity.",0
+"Id. at 5.",0
+"Charlene’s February 5, 2001 EMG report of her right arm was normal, that is it failed to reveal any evidence of neuropathy, myopathy, or motor neuron disease.",0
+"P. Ex. 3 at 1.",0
+"It was also noted that she was asymptomatic.",0
+"Id. On February 19, 2001, Charlene saw her physician for a two month re-check.",0
+"Her records state that she did not have any complaints and her right arm parasthesia was improving.",0
+"P. Ex. 2 at 11.",0
+"On May 11, 2001, Charlene was seen by her physician for left knee pain caused by hitting her knee on something at her work.",0
+"P. Ex. 13 at 157.",0
+"She mentioned that her right upper arm was still bothering her.",0
+"It was noted that she complained of prickling and that the arm is sometimes swollen, but there was no notation that her arm was examined.",0
+"Id. On August 13, 2001, Charlene was seen by her physician because her right arm continued to bother her with complaints of numbness and swelling, but there was no notation of swelling at her visit.",0
+"P. Ex. 2 at 12.",0
+"She was diagnosed with right shoulder pain and right upper extremity parasthesia.",0
+"Charlene saw her physician on December 21, 2001 for continued right arm pain.",0
+"P. Ex. 13 at 176.",0
+"On February 4, 2002, Charlene was referred to James B. Hoover, M.D. by the Dayton Service Office of the Bureau of Workers’ Compensation.",0
+"P. Ex. 10 at 16.",0
+"The report stated there was no obvious joint swelling, heat or redness of the upper extremities although Charlene complained of pain.",0
+"Id. at 17.",0
+"Dr. Hoover noted there is no loss of sensation or sensory loss, no loss of movement, or any objective evidence of nerve disorder to provide an impairment rating under AMA guidelines.",0
+"Id. at 17-18.",0
+"On March 26, 2002, Charlene was examined by Bhaskar Reddy, M.D., an independent medical examiner, for her worker’s compensation claim.",0
+"P. Ex. 4.",0
+"Dr. Reddy’s report noted that she continues to be treated for her right arm pain with pain medication and muscle relaxants.",0
+"Id. at 2.",0
+"The examination of the right shoulder/arm revealed swelling in the upper arm, tenderness over the deltoid and upper arm muscles, no motor deficits in the right upper extremity, and no sensory impairment.",0
+"Id. Deep tendon reflexes were normal.",0
+"Id. Because of some minor impairment in her range of motion, Dr. Reddy found that Charlene qualified for 10% Whole Person Impairment (WPI) for her worker’s compensation claim.",0
+"Id.. On May 13, 2002 and June 11, 2002, Charlene saw her physician for continued right arm pain.",0
+"P. Ex. 13 at 184, 194.",0
+"At her June 11, 2002 visit she was given a neurology consult.",0
+"On January 20, 2003, Charlene was seen by Donald Wamsley, M.D., a neurologist.",0
+"P. Ex. 5 at 21.",0
+"An MRI of her cervical spine showed no evidence of herniated discs and revealed no evidence of damage to nerves in the right arm.",0
+"Id. at 3, 20.",0
+"Charlene was referred to Townsend Smith, M.D., a pain specialist, on March 31, 2003.",0
+"P. Ex. 6.",0
+"Dr. Smith diagnosed her with right arm neuralgia, status post trauma, and myofascial pain syndrome for her right arm.",0
+"Id. at 2.",0
+"Dr. Smith noted that if an EMG showed no evidence of a specific nerve injury, it is likely that Charlene had a soft tissue muscular irritation at the time of her tetanus injection which has been slow to resolve.",0
+"Id. Another EMG was conducted on Charlene on April 23, 2003 which was normal.",0
+"P. Ex. 5 at 9.",0
+"The medical records indicate that from January 20, 2003 to November 30, 2004 Charlene continued to see Dr. Wamsley for her right arm pain and continued to take pain medication.",0
+"P. Ex. 5, P. Ex. 13 at 244-248.",0
+"III.",0
+"DISCUSSION.",0
+"Causation in Vaccine Act cases can be established in one of two ways: either through the statutorily prescribed presumption of causation or by proving causation-in-fact.",1
+"Petitioners must prove one or the other in order to recover under the Act.",0
+"According to §13(a)(1)(A), claimants must prove their case by a preponderance of the evidence.",0
+"[fn-4]For presumptive causation claims, the Vaccine Injury Table lists certain injuries and conditions which, if found to occur within a prescribed time period, create a rebuttable presumption that the vaccine caused the injury or condition.",1
+"Charlene’s alleged injury, right arm pain, is not an injury listed on the Vaccine Injury Table and thus does not benefit from the Act’s presumed causation.",0
+"Id. Thus, petitioner must prove that the vaccine in-fact caused her injury, a so-called “off-Table” case.",1
+"To demonstrate entitlement to compensation in an off-Table case, petitioners must affirmatively demonstrate by a preponderance of the evidence that the vaccination in question more likely than not caused the injury alleged.",1
+"See, e.g., Bunting v. Secretary of HHS, 931 F.2d 867, 872 (Fed. Cir. 1991);",0
+"Hines v. Secretary of HHS, 940 F.2d 1518, 1525 (Fed. Cir. 1991);",0
+"Grant v. Secretary of HHS, 956 F.2d 1144, 1146, 1148 (Fed. Cir. 1992).",0
+"See also §§11(c)(1)(C)(ii)(I) and (II).",0
+"To meet this preponderance of the evidence standard, “[petitioners must] show a medical theory causally connecting the vaccination and the injury.” Grant, 956 F.2d at 1148 (citations omitted);",1
+"Shyface v. Secretary of HHS, 165 F.3d 1344, 1353 (Fed. Cir. 1999).",0
+"A persuasive medical theory is shown by “proof of a logical sequence of cause and effect showing that the vaccination was the reason for the injury.” Hines, 940 F.2d at 1525;",1
+"Grant, 956 F.2d at 1148;",0
+"Jay v. Secretary of HHS, 998 F.2d 979, 984 (Fed. Cir. 1993);",0
+"Hodges v. Secretary of HHS, 9 F.3d 958, 961 (Fed. Cir. 1993);",0
+"Knudsen v. Secretary of HHS, 35 F.3d 543, 548 (Fed. Cir. 1994).",0
+"Furthermore, the logical sequence of cause and effect must be supported by “[a] reputable medical or scientific explanation” which is “evidence in the form of scientific studies or expert medical testimony.” Grant, 956 F.2d at 1148;",1
+"Jay, 998 F.2d at 984;",0
+"Hodges, 9 F.3d at 960.",0
+"[fn-5] See also H.R. Rep. No. 99-908, Pt. 1, at 15 (1986), reprinted in 1986 U.S.C.C.A.N. 6344.",0
+"While petitioners need not show that the vaccine was the sole or even predominant cause of the injury, petitioners bear the burden of establishing “that the vaccine was not only a but-for cause of the injury but also a substantial factor in bringing about the injury.” Shyface, 165 F.3d at 1352-53.",1
+"Petitioners do not meet their affirmative obligation to show actual causation by simply demonstrating an injury which bears similarity to a Table injury or to the Table time periods.",1
+"Grant, 956 F.2d at 1148.",0
+"See also H.R. Rep. No. 99-908, Pt. 1, at 15 (1986), reprinted in 1986 U.S.C.C.A.N. 6344.",0
+"Nor do petitioners satisfy this burden by merely showing a proximate temporal association between the vaccination and the injury.",1
+"Grant, 956 F.2d at 1148 (quoting Hasler v. United States, 718 F.2d 202, 205 (6th Cir. 1983), cert. denied, 469 U.S. 817 (1984) (stating “inoculation is not the cause of every event that occurs within the ten day period [following it]. . . .",0
+"Without more, this proximate temporal relationship will not support a finding of causation”));",0
+"Hodges, 9 F.3d at 960.",0
+"Finally, petitioners do not demonstrate actual causation by solely eliminating other potential causes of the injury.",1
+"Grant, 956 F.2d at 1149-50;",0
+"Hodges, 9 F.3d at 960.",0
+"In Althen v. Secretary of HHS, 418 F.3d 1274,1278 (Fed. Cir. 2005), the Court of Appeals for the Federal Circuit reiterated that petitioner’s burden is to produce “preponderant evidence” demonstrating: “(1) a medical theory causally connecting the vaccination and the injury;",0
+"The Federal Circuit concluded that to support petitioners theory of causation, there is no requirement in the Vaccine Act’s preponderant evidence standard that petitioners submit “objective confirmation,” such as medical literature.",1
+"Id. at 1279.",0
+"The Federal Circuit explained that requiring medical literature “prevents the use of circumstantial evidence envisioned by the preponderance standard and negates the system created by Congress, in which close calls regarding causation are resolved in favor of the injured claimants.” Id. at 1280 (citing Knudsen, 35 F.3d 543, 549 (Fed. Cir. 1994)); see also Capizzano v. Secretary of HHS, 440 F.3d 1317, 1325 (Fed. Cir. 2006).",1
+"Moreover, the Federal Circuit stated, “The purpose of the Vaccine Act’s preponderance standard is to allow the finding of causation in a field bereft of complete and direct proof of how vaccines affect the human body.” Id.The Federal Circuit affirmed Althen’s three-part test in Capizzano v. Secretary of HHS and most recently in Pafford v. Secretary of HHS, No. 05-5106, slip op.",1
+"The panel in Pafford, however, explained that the three prongs in Althen “must cumulatively show that the vaccination was a ‘but-for’ cause of the harm, rather than just an insubstantial contributor in, or one among several possible causes of, the harm.” Pafford, No. 05-5106, slip op. at 5.",1
+"However, the legal requirement that a petitioner support her proposed causation theory with a “sound and reliable medical or scientific explanation” is undisturbed.",1
+"Knudsen, 35 F. 3d 543, 548 (Fed. Cir. 1994); see also Grant, 956 F.2d at 1148 (“A reputable or scientific explanation must support this logical sequence of cause and effect.”).",0
+"Thus, when considering the evidence in a case, the special master is to “consider all relevant and reliable evidence, governed by the principles of fundamental fairness to both parties.” Vaccine Rule 8(c); see also DeBazan at n12 ( “A special master assuredly should apply the factors enumerated in Daubert in addressing the reliability of an expert witness’s testimony regarding causation.” citing Terran v. Secretary of HHS, 41 Fed. Cl. 330, 336 (1998));",1
+"The undersigned weighs the evidence presented in this case against the above legal standards.",0
+"The issue in this case is whether the tetanus vaccination Charlene received on November 3, 2000 was the cause of her right arm injuries.",0
+"The undersigned finds that it did not.",0
+"A complete discussion follows.",0
+"A. THE EXPERTS` OPINIONS.",0
+"THE EXPERTS` REPORTS.",0
+"DR. WAMSLEY [fn-6].",0
+"In petitioner’s expert report, Dr. Wamsley opines that Charlene’s right arm pain “was caused by the tetanus injection since the time frame was appropriate.” P. Ex. 5 at 2.",0
+"Dr. Wamsley states that when Charlene was presented to him on January 20, 2003, she was complaining of a history of right upper extremity pain for three years, and she received the tetanus vaccination three years prior.",0
+"Id. Dr. Wamsley states that Charlene was still in pain as of her last visit on December 22, 2003 and continues to take pain medication.",0
+"Id. Dr. Wamsley believes that “to a reasonable degree of medical probability” Charlene’s right arm pain and the complications involved are the result of the administration of the tetanus vaccination on November 3, 2000.",0
+"Id. at 3.",0
+"He believes she continues to suffer injuries as a result of this.",0
+"Id. Dr. Wamsley’s prognosis is that Charlene will be stable.",0
+"Id. Dr. Wamsley states this will be a chronic problem for Charlene and will require treatment for the rest of her life.",0
+"Id. An EMG and MRI of Charlene were found to be normal.",0
+"Id.Petitioner filed a supplemental expert report in which Dr. Wamsley opines that Charlene’s right arm pain “began within a reasonable period of time to feel that this was secondary to the tetanus shot.” P. Ex. 11.",0
+"Dr. Wamsley discusses three different etiologies with regard to Charlene’s injuries.",0
+"Id. Dr. Wamsley opines that the third etiology he discusses is more likely than not the cause of Charlene’s injuries.",0
+"Id. Dr. Wamsley states that “the immune reaction may also be local enough that the inflammatory response did create inflammation in the nerve and cause pain without actual nerve destruction, even though no definitive antibodies are produced and there is no cross reaction.” Id.DR. CHAUDHRY [fn-7].",0
+"In respondent’s expert report, Dr. Chaudhry opines that there is no evidence to suggest nerve injury nor is there evidence of injury to the muscle.",0
+"R. Ex. B (Responsive Expert Report of Vinay Chaudhry, M.D.), filed Sep. 17, 2004, at 2.",0
+"Dr. Chaudhry states that while there is subjective complaint of pain, there is no objective sensory loss, motor loss, atrophy, discoloration, or change of reflexes.",0
+"Id. Dr. Chaudhry notes that two separate nerve conduction studies and two EMG examinations were normal.",0
+"Id. Thus, Dr. Chaudhry concludes that subjective presence of pain without any evidence of nerve, muscle, plexus, or musculoskeletal injury does not qualify for compensation under the Vaccine Injury Table.",0
+"Id. Although Charlene did not plead or pursue a Table case, Dr. Chaudhry noted that under the Table, only a diagnosis of brachial plexitis could be compensated.",0
+"However, such a diagnosis requires evidence of atrophy, weakness, loss of sensation, and nerve conduction and EMG evidence of nerve damage.",0
+"Id. None of this evidence is present in this case.",0
+"Id.2.",0
+"THE HEARING TESTIMONY.",0
+"DR. WAMSLEY.",0
+"At the June 14, 2005 hearing, Dr. Wamsley opined that the cause of Charlene’s injuries is, to a reasonable degree of medical certainty, “a neuritis, an inflammation of the nerve brought on by the [tetanus] shot that she received. . . .” Transcript (“Tr.”) at 67.",0
+"Dr. Wamsley testified that at her first visit in his office on January 20, 2003, Charlene related to him her history regarding the treatment and evaluation of her right arm pain prior to this visit.",0
+"Id. at 62-63.",0
+"After taking her history, Dr. Wamsley testified that he evaluated Charlene and noted that she had severe upper extremity pain.",0
+"Dr. Wamsley testified that he was “very concerned, and [] had never seen it before.” Id. at 64.",0
+"Dr. Wamsley consulted a pain specialist, Dr. Townsend Smith, because of the severe pain and because he was concerned that Charlene may have reflex sympathetic dystrophy.",0
+"Id. Dr. Smith evaluated Charlene, but did not think she had reflex sympathetic dystrophy.",0
+"Id. Dr. Wamsley testified that another EMG was performed on Charlene, and he saw no evidence of definitive nerve damage or permanent nerve damage.",0
+"Id. at 64-65.",0
+"However, Charlene continued to complain of right arm pain.",0
+"Id. at 65.",0
+"Dr. Wamsley testified that he prescribed Neurontin for treatment of the pain.",0
+"Id. He further testified that even though there was only a subjective complaint of pain, her complaints were consistent and he had no reason to believe that Charlene was making it up.",0
+"Id.Dr. Wamsley testified that he diagnosed Charlene with neuritis through a differential diagnosis method.",0
+"Tr. at 65-66.",0
+"He testified that he arrived at this conclusion “through her clinical history, the presentation, [and] complaining of shooting pain. . . .” Id. at 66.",0
+"Dr. Wamsley further noted that because the EMGs showed no evidence of nerve damage, neuropathy could generally be ruled out.",0
+"Id. at 66.",0
+"Further, Dr. Wamsley testified, the MRI of her cervical spine ruled out the possibility of nerve damage in her neck region.",0
+"Id. The EMG also did not show any evidence of radiculopathy or nerve damage in the neck.",0
+"Id. Dr. Wamsley testified that he took no other steps to arrive at his diagnosis.",0
+"Id. He then used “more of a process of elimination” to rule out other illnesses that could have caused this injury such as diabetes.",0
+"Id. at 66-67.",0
+"After making his diagnosis, Dr. Wamsley testified that he did not discuss further his opinion with Dr. Smith as to the cause of Charlene’s pain, i.e., the fact that Dr. Smith’s diagnosis was a soft tissue muscular irritation as opposed to neuritis.",0
+"Id. at 127.",0
+"He further testified that Dr. Smith did not re-evaluate or perform further examinations on Charlene.",0
+"Id.Dr. Wamsley next testified as to his supplemental expert report (P. Ex. 11) filed on August 2, 2004.",0
+"Tr. at 68.",0
+"Dr. Wamsley described the three mechanisms or etiologies of how a tetanus shot could have caused Charlene’s symptoms.",0
+"Id. The first mechanism Dr. Wamsley described is the trauma itself of the needle hitting the nerve and causing nerve damage.",0
+"Id. The second mechanism is that there was a local inflammatory reaction that physically damaged the nerve secondary to an immune reaction that would produce antibodies to the nerve or some part of the nerve that would damage the nerve.",0
+"Id. The third mechanism is a local inflammatory process and the chemicals involved caused inflammation in the nerve – irritating the nerve.",0
+"Id. Because Charlene’s EMGs showed no evidence of nerve damage, Dr. Wamsley ruled out the first two etiologies.",0
+"Id. at 69.",0
+"Dr. Wamsley testified that with the third etiology, one could have a normal EMG and normal nerve conduction studies and have no other symptoms other than pain.",0
+"Id. Despite having testified that he “had never seen it before, Tr. at 64, Dr. Wamsley opined that Charlene fit into the clinical description for the third etiology.",0
+"Id. at 70.",0
+"Dr. Wamsley testified that he believed Charlene’s swelling is probably consistent with the third etiology and that there was some sort of reaction that could have cross-reacted or left chemicals over the nerve which would have irritated the nerve.",0
+"Id. He stated that Charlene’s complaints and symptoms are consistent with the third mechanism.",0
+"Id. at 74-75.",0
+"Further, Charlene’s evaluation and her test results are consistent with what one would expect to see with the third mechanism.",0
+"Id. at 75.",0
+"Dr. Wamsley also testified that no further follow-up tests or evaluation could confirm his opinion.",0
+"Id.The undersigned questioned Dr. Wamsley about his theory that the injury was caused by an immune reaction that caused the inflammation of the nerve.",0
+"Tr. at 132.",0
+"Dr. Wamsley testified that it was not the antibodies itself causing the damage, but “certain other chemicals” which are released which cause nerve inflammation, and when there is an antibody response a cascade occurs which releases chemicals such as cytokines, interleukins, and interferons which are all released as part of the process.",0
+"Id. 132-133.",0
+"The undersigned next questioned Dr. Wamsley about his March 24, 2003 letter (P. Ex. 5 at 19) in which he states that it was not the medication in the vaccination, but “more the actual fact she got a shot.” Id. at 133.",0
+"The undersigned took this to mean that it was the needle itself hitting the nerve which caused nerve damage which in turn would show up on an EMG.",0
+"Id. at 133-134.",0
+"Dr. Wamsley testified that the statement in the letter is consistent with his opinion that it was not the tetanus toxoid, but the chemicals which were released.",0
+"Id. at 134-135.",0
+"Dr. Wamsley testified further that any type of vaccination, not just the tetanus vaccination, would have caused the cascade process which released the chemicals.",0
+"Id. at 135-136.",0
+"Next, the undersigned questioned Dr. Wamsley about his May 10, 2004 letter (P. Ex. 5 at 31), which states that it was not the injection itself, “but it is more of the tetanus toxoid that she received,” which seems inconsistent with his testimony that it was not the tetanus toxoid.",0
+"Id. at 136.",0
+"Dr. Wamsley stated that he meant the tetanus toxoid initiated the inflammatory response.",0
+"Id. at 136-137.",0
+"Dr. Wamsley testified that he agreed with the undersigned that he used the words “tetanus toxoid” in two different ways in his two letters.",0
+"Id. at 138.",0
+"Dr. Wamsley next testified that he was still concerned that Charlene could have reflex sympathetic dystrophy (RSD) even though Dr. Smith did not think this was indicated.",0
+"Tr. at 71.",0
+"He testified that he did not know how a vaccination could be related to reflex sympathetic dystrophy.",0
+"Id. Dr. Wamsley thought that Dr. Smith would know more about this and whether an irritation to the nerve could cause the type of pain Charlene is experiencing.",0
+"Id.Dr. Wamsley was questioned about whether his opinion was based on just the temporal relationship.",0
+"Tr. at 72.",0
+"Dr. Wamsley testified that he did rely on the temporal relation and also that he could find no other etiology for Charlene’s condition.",0
+"Id. He also testified that all three etiologies previously discussed are medically plausible following a vaccination.",0
+"Id. Dr. Wamsley based his opinion on his training, experience, and knowledge.",0
+"Id. He stated that there is “no complete documentation or research involved in these.” Id. Dr. Wamsley testified that he came to these conclusions by working out what types of mechanisms could cause nerve injury and that the three etiologies he discussed are ones that he knows well and all three can cause nerve injury or irritation.",0
+"Id. Dr. Wamsley also testified that it would be reasonable for someone with Charlene’s condition to have some days that are less painful than others, but it should generally be a constant pain.",0
+"Id. at 72-73.",0
+"Dr. Wamsley testified that it is medically and scientifically plausible for someone to have pain even without nerve injury.",0
+"Id. at 118.",0
+"He further testified that he was not aware of the period between February 2001 and August 2001 when Charlene did not receive treatment for her complaints, but that such a gap in treatment did not impact his opinion.",0
+"Id. at 119.",0
+"Further, the fact that Charlene was without complaints on her February 19, 2001 visit to Dr. Long-Prentice does not affect his opinion as to the source of the pain because he based his “decision on what I found on my clinical findings.” Id. at 121.",0
+"Consistent with his expert report, Dr. Wamsley testified that Charlene’s condition would be permanent.",0
+"Tr. at 74.",0
+"He stated that the pain medication she takes gives her some relief, but not complete relief, and that he does not see any improvement in Charlene’s condition.",0
+"Id. at 73.",0
+"He stated that if someone with Charlene’s injury did not improve in twelve months, they would not get better.",0
+"Id. at 78-79.",0
+"Dr. Wamsley further testified that movement could exacerbate Charlene’s symptoms, but that “movement definitely would not make it worse.” Id. at 74.",0
+"As to the time frame regarding Charlene’s pain as it relates to the tetanus vaccination, Dr. Wamsley did not have the exact time frame documented.",0
+"Tr. at 75.",0
+"He did not know whether Charlene initially reported her symptoms to any health care provider within days or weeks of her vaccination, but he thought it was within weeks.",0
+"Id. Dr. Wamsley testified that upon listening to Charlene’s testimony at the hearing that she experienced pain within twenty four hours of her receiving the vaccination, the time frame is appropriate with the third etiology.",0
+"Dr. Wamsley states that he has never seen any definitive weakness in Charlene, only subjective weakness.",0
+"Id. at 78.",0
+"He stated that the weakness is secondary to pain.",0
+"Id. He has not observed any muscle atrophy.",0
+"Id. On cross-examination, Dr. Wamsley testified that he is not board certified in any specialty.",0
+"Tr. at 81.",0
+"Dr. Wamsley responded that he did not have any of Charlene’s medical records when he first saw her in January 2003.",0
+"Id. Respondent’s counsel asked Dr. Wamsley if he ever reviewed Charlene’s medical records from any other physician during the course of her treatment.",0
+"Id. at 85.",0
+"Dr. Wamsley testified that he has never reviewed any of Charlene’s prior medical records, and that he still had not reviewed Dr. Long-Prentice’s (Charlene’s family physician) records at the time of the hearing.",0
+"Id. Dr. Wamsley also had not reviewed any of Charlene’s pre-vaccination medical records.",0
+"Id.Dr. Wamsley next testified that he has never been able to locate the nerve or the source of Charlene’s right arm pain.",0
+"Tr. at 86.",0
+"He checked for pain and tested for strength and sensation, both of which were intact.",0
+"Id. Dr. Wamsley was questioned about whether there was a way to determine if it was nerve damage that caused Charlene’s pain, and Dr. Wamsley stated that there was no way to determine which nerve caused the pain, but this is not unusual.",0
+"Id. The undersigned asked Dr. Wamsley to clarify if there was a test to determine if in fact the nerve is irritated, and if one could do a test to determine which nerve.",0
+"Dr. Wamsley replied that there is no test.",0
+"Id. at 87-88.",0
+"Dr. Wamsley testified that there are no clinical findings pointing to a nerve because the nerve is irritated and not damaged.",0
+"Id. at 87.",0
+"Thus, Dr. Wamsley makes his findings based on a clinical diagnosis based on Charlene’s clinical history and her description of her symptomatology.",0
+"Id.Respondent’s counsel questioned Dr. Wamsley about his initial consultation with Charlene in January 2003.",0
+"Dr. Wamsley testified that he wrote his evaluation in a letter dated January 20, 2003 (P. Ex. 5 at 21), but that he did not provide a diagnosis.",0
+"Tr. at 88-89.",0
+"He stated that Charlene “did present unusually” and that he was trying to rule out possibilities by ordering tests.",0
+"Id. at 90.",0
+"Dr. Wamsley testified that some of the possibilities he considered were RSD, neuritis, radiculopathy or something pressing on it, or neuropathy.",0
+"Id. at 89-90.",0
+"Dr. Wamsley next testified that he never reviewed Charlene’s first EMG or knew about the assessment made for Charlene based on the results of the EMG.",0
+"Id. at 91.",0
+"Respondent’s counsel questioned why he never reviewed the EMG.",0
+"Dr. Wamsley testified that because Dr. Smith recommended a second EMG, he just used that EMG as his basis.",0
+"Id. He also stated that he never received the first EMG and that he did not think a review of that EMG, which respondent’s counsel pointed out was much closer in time to when Charlene first experienced her symptoms, would be of any benefit to his diagnosis.",0
+"Id. Dr. Wamsley further stated that he still had not reviewed her first EMG from February 2001, although he wished he had.",0
+"Id. Respondent’s counsel then presented a copy of Charlene’s February 2001 EMG to Dr. Wamsley, which he then reviewed.",0
+"Id. Respondent’s counsel asked Dr. Wamsley if there was any indication from the EMG that Charlene had any symptoms.",0
+"Dr Wamsley replied that the EMG stated Charlene is asymptomatic and that based on his brief review, the EMG was normal.",0
+"Id. at 92-93.",0
+"The undersigned questioned Dr. Wamsley as to how this EMG impacted his opinion, and Dr. Wamsley testified that it did not change his opinion.",0
+"Id. at 93.",0
+"He testified that he documented the fact that Charlene told him she was in pain and that he “can only trust what the patient history gives me.",0
+"And that was my impression of the history she gave me.” Id. at 94.",0
+"The undersigned questioned Dr. Wamsley about Dr. Long-Prentice’s notes from February 19, 2001 (P. Ex. 2 at 11).",0
+"Tr. at 94.",0
+"Dr. Wamsley read the notes into the record which stated that Charlene visited her physician for a two month check up and that she was without complaints and that overall she was improving.",0
+"Id. The undersigned pointed out that this is another example which indicated that Charlene is improving.",0
+"Id. at 95.",0
+"Respondent’s counsel then questioned Dr. Wamsley about Charlene’s February 2003 visit.",0
+"Id. at 96.",0
+"Dr. Wamsley testified that Charlene was in no acute distress and that her strength is five out of five and good in both arms.",0
+"Id. at 96- 97.",0
+"The undersigned asked Dr. Wamsley to describe the strength test he performed.",0
+"Id. at 97.",0
+"Dr. Wamsley stated that he had Charlene hold her arms out and that because it looked normal he did not feel he needed to go into anymore detail.",0
+"Id. at 98.",0
+"The undersigned asked that with this strength test, if one had inflammation of the nerve in the shoulder, just putting ones arms out would indicate whether there was something wrong.",0
+"Id. Dr. Wamsley testified that the testing could be completely normal as long as the nerve was not permanently damaged.",0
+"Id. The undersigned pointed out that if a person had shoulder inflammation and was asked to raise their arms out, would that not cause pain.",0
+"Id. at 99.",0
+"Dr. Wamsley testified that it would cause pain, but not weakness and that weakness and pain are different.",0
+"Id. Weakness, he stated, is indicative of nerve damage.",0
+"Id. The undersigned pointed out that his notation in his February 2001 notes did not state that there was any objective indication of pain when he was testing for strength, and Dr. Wamsley stated that that was correct.",0
+"Id. at 100.",0
+"Respondent’s counsel asked Dr. Wamsley to clarify his July 2004 opinion.",0
+"Tr. at 100.",0
+"Dr. Wamsley testified that he believed that it was not the injection itself, i.e., the needle cutting the nerve that caused trauma to the nerve.",0
+"Id. at 101.",0
+"He testified that it was the tetanus vaccine itself which caused an immune reaction that caused inflammation in the nerve.",0
+"Id. Dr. Wamsley stated that he was not sure which nerve was damaged, but if pressed to choose a nerve, it would be the radial nerve.[fn-8] Id. at 103.",0
+"However, Dr. Wamsley later testified that his medical notes state that he believed the pain is likely radiating along Charlene’s radial nerve.",0
+"Id. at 128.",0
+"Respondent’s counsel questioned Dr. Wamsley that such pain along Charlene’s right deltoid area would be more consistent with an axillary nerve.",0
+"Id. Dr. Wamsley testified that Charlene could be experiencing referred pain from the radial nerve up into Charlene’s right deltoid area.",0
+"Id. Therefore, there is the possibility that it is an axillary nerve.",0
+"Id. However, Dr. Wamsley testified that the pain may be referred or “may not even be nerve pain.",0
+"This may be some musculoskeletal pain.” Id. at 130.",0
+"He also testified that he has had other cases of patients with nerve inflammation lasting for over three years and that there may not be actual nerve injury or permanent nerve damage in the patient.",0
+"Id. Respondent’s counsel asked Dr. Wamsley if there was any medical literature to support this hypothesis;",0
+"Dr. Wamsley testified that he did not know of any.",0
+"Id. Dr. Wamsley further testified that a patient could have nerve inflammation for five or ten years without ever causing destruction to the nerve itself which would lead to an objective identifiable condition on an EMG.",0
+"Id. at 103-104.",0
+"The undersigned asked Dr. Wamsley what was causing the irritation of the nerve, and Dr. Wamsley replied that he did not know.",0
+"Tr. at 105.",0
+"Dr. Wamsley also testified that he did not know why nerves become inflamed.",0
+"The undersigned pointed out that Dr. Wamsley’s opinion is that the nerve was inflamed by the vaccination, and then asked why would the inflammation continue.",0
+"Dr. Wamsley testified that the stimulation of the nerve is what is causing the continuing inflammation.",0
+"Id. He further testified that there is something going on in the nerve which is stimulating the nerve, but he did not know what it was.",0
+"Id. Dr. Wamsley stated that he would most liken such nerve inflammation to trigeminal neuralgia which is a severe pain of the nerve in the face caused by a vessel pressing on the nerve.",0
+"Id. at 106.",0
+"He also stated that he does not necessarily agree with the hypothesis of vessels pressing on the nerve and instead believes that “nerves just get inflamed.” Id. Respondent’s counsel next questioned Dr. Wamsley’s efforts to rule out other causes.",0
+"Tr. at 106.",0
+"Dr. Wamsley testified that he did not think a myelogram test is better than an MRI because it would not offer any more information regarding the inflammation of the nerve.",0
+"[fn-9] Id. at 107.",0
+"He also did not order a Lyme disease test, but he testified that this was not his area.",0
+"Id. However, Dr. Wamsley later testified that since there was no description of tick bites or any reason for Charlene to have Lyme, even though it was not documented in her medical records, this was why he did not check for Lyme and that he does not generally check for Lyme titers because it does not tend to be useful in his practice.",0
+"Id. at 131.",0
+"Dr. Wamsley testified that he ordered an MRI of Charlene’s head because Charlene was concerned about multiple sclerosis (MS) even though Dr. Wamsley did not see any symptomatology that would point towards MS. Id. at 108.",0
+"He testified that multiple scattered abnormal small foci of signal in the white matter were indicated, but the findings are not typical for MS. Id. at 109.",0
+"However, Dr. Wamsley testified that the findings in the MRI are not sufficient to rule out a diagnosis of MS, and that he did no further follow-up tests to rule out MS. Id. at 109, 114.",0
+"Dr. Wamsley reiterated the basis for his opinion that the vaccine caused Charlene’s injuries which is the following: I would agree that the temporal relation, the lack of nerve damage, the lack of any clinical physical findings consistent with any nerve damage, and the lack of another etiology for this problem, I guess is what we mainly said.",0
+"I mean, it doesn’t appear to be a radiculopathy, it doesn’t appear to be a neuropathy.",0
+"It doesn’t appear to be secondary to anything else.",0
+"Id. at 112.",0
+"However, Dr. Wamsley acknowledged that he never reviewed Charlene’s medical records prior to her vaccination.",0
+"Id. Respondent’s counsel asked how he could rule out a pre-existing medical condition if he had not reviewed any prior medical records.",0
+"Id. Dr. Wamsley testified that Charlene never complained of pain prior to the vaccine and that he based his opinion on the patient’s history.",0
+"Id.Dr. Wamsley also testified as to Dr. Smith’s diagnosis of Charlene.",0
+"Tr. at 110.",0
+"Dr. Smith’s diagnosis stated that if there was no evidence of specific nerve injury, then his suspicion is that Charlene had a soft tissue muscular irritation which has been slow to resolve.",0
+"Id. Respondent’s counsel questioned Dr. Wamsley about whether there was evidence of specific nerve injury, and Dr. Wamsley testified that other than Charlene’s “clinical symptomatology pointing towards the irritation” there is no indication from the medical record that Charlene has a nerve injury.",0
+"Id. The undersigned questioned why Dr. Wamsley did not agree with Dr. Smith’s diagnosis that Charlene’s injury is a muscular irritation.",0
+"Id. at 113.",0
+"Dr. Wamsley testified that he believed Dr. Smith’s use of neuralgia and neuritis as interchangeable.",0
+"Id. He further testified that Dr. Smith listed several diagnoses.",0
+"However, upon further questioning by the undersigned, Dr. Wamsley did not state why he did not believe Charlene’s injury was a muscular irritation, and conceded that he and Dr. Smith had different diagnoses.",0
+"Id. at 114.",0
+"DR. WAMSLEY.",0
+"Dr. Chaudhry testified that he saw no evidence of a nerve injury based on Charlene’s medical records and the testimony presented at the hearing.",0
+"Tr. at 144.",0
+"Dr. Chaudhry testified that he did not doubt that Charlene has right arm pain, but there is no evidence of nerve damage or injury or anything nerve related as the primary origin of the pain.",0
+"Id. at 145, 177.",0
+"He further testified that the pain does not come from a neuritis, as Dr. Wamsley opined, because a neuritis, which is inflammation to a nerve, “requires far more evidence than what we’ve heard today.” Id. at 146.",0
+"Dr. Chaudhry further states that Charlene’s pain is not in a certain distribution of the nerve because the pain is in the shoulder, arm, and forearm with some tingling in the fingers.",0
+"Id. Thus, he testified, the pain does not follow a radial nerve distribution.",0
+"Id. Dr. Chaudhry acknowledges that soon after Charlene’s vaccination the medical records describe swelling and inflammation for which she was prescribed steroids.",0
+"Id. However, there is no further description in Charlene’s medical records of itis [fn-10] and no further clinical evidence.",0
+"Id. Such evidence, Dr. Chaudhry testified, would include a blood test such as a sed rate [fn-11] or CRP which would show inflammatory markers in the blood.",0
+"Id.Dr. Chaudhry testified that his medical opinion is that Charlene had an immediate hyper- sensitivity reaction to the tetanus vaccine in the first two to three weeks following the vaccination.",0
+"Tr. at 148.",0
+"He further testified that she was treated appropriately for the inflammation, pus, redness, and swelling with steroids and antibiotics, and that such an acute reaction is well documented in the medical literature.",0
+"Id. Dr. Chaudhry testified that this type of reaction should last for a few weeks to two months at the most, and that it appears from the medical records that Charlene was improving.",0
+"Id. at 148-149.",0
+"He further testified that immediately after Charlene’s vaccination, she experienced an inflammatory reaction – likely a soft tissue cellulitis – but that there is no evidence of continuing inflammation.",0
+"Id. at 154.",0
+"Dr. Chaudhry then testified that he could not determine whether the pain Charlene has in her right arm is related to the pain she experienced in November 2000 when she received the vaccination.",0
+"Id. at 156.",0
+"Dr. Chaudhry stated that he could not make this determination because signs of inflammation were well documented soon after vaccination, but after a few weeks there is no objective documentation, only subjective symptomatology.",0
+"Id. He further testified that there is no evidence that her initial reaction to the vaccination is related to her right arm pain.",0
+"Id. at 157.",0
+"Thus, while Dr. Chaudhry recognized that Charlene suffered a localized reaction to the vaccination, he did not recognize the arm pain as one of the symptoms of that reaction.",0
+"In addition, based upon the medical records, Dr. Chaudhry testified that the Charlene’s symptoms from the localized reaction were improving and that there was no objective evidence of a continuing inflammation.",0
+"Lastly, Dr. Chaudhry testified that a persistent inflammatory reaction for four years without causing objective atrophy in muscles, even disuse, sensory loss, motor loss, is just not even plausible.",0
+"Id. at 163.",0
+"Further, Dr. Chaudhry testified that there is no precedent for such a condition.",0
+"Id.Next, Dr. Chaudhry testified that he disagreed with Dr. Wamsley approach to diagnosing Charlene.",0
+"Tr. at 160.",0
+"He testified that performing a myelogram with a CAT scan would have been helpful because he had seen patients with normal MRIs, with abnormal myelograms followed by a CAT scan.",0
+"Id. Dr. Chaudhry testified that the MRI conducted on Charlene was inconclusive because it did not show nerve damage in the nerve root.",0
+"Id. at 185.",0
+"By doing a myelogram followed by a CAT scan, “sometimes a tiny nerve root could be lined up by this dye, and pick up the answer a little better.” Id. Also, Dr. Chaudhry suggested that perhaps conducting an MRI of Charlene’s shoulder or looking for the history of the brain lesions found in the MRI would have aided the diagnosis.",0
+"Id. at 186.",0
+"Further, taking spinal fluid would have been helpful.",0
+"Id. In other words, according to Dr. Chaudhry, had he been Charlene’s treating doctor he would have asked for other opinions and conducted the aforementioned tests.",0
+"Id. Respondent’s counsel then questioned Dr. Chaudhry as to Dr. Wamsley’s medical theory of causation.",0
+"Tr. at 164.",0
+"Dr. Chaudhry testified that he knows of no medical literature which supports this theory, and further, in his eighteen years of practice, he has never seen this happen and no one has ever brought this theory to his attention in teaching his courses.",0
+"Id. at 165.",0
+"He testified that according to Dr. Wamsley’s theory, the inflammatory reaction would have to have been so great as to cause nerve damage because the nerves go much deeper than superficial tissue.",0
+"Id. at 165-166.",0
+"Dr. Chaudhry also testified that it could not be a radial nerve which was damaged, as Dr. Wamsley opined, because a radial nerve should not involve the finger, the shoulder or the back.",0
+"Id. at 166.",0
+"Dr. Chaudhry testified that Charlene has complained of consistent right shoulder pain and this would involve an axillary nerve.",0
+"Id. at 170.",0
+"Dr. Chaudhry reiterated that it is very unlikely to have persistent nerve inflammation for several years without seeing objective evidence of nerve damage such as sensory loss, motor loss, reflex changes, or EMG changes.",0
+"Id.On cross-examination, Dr. Chaudhry testified that if in fact there was nerve inflammation one would expect to see objective evidence.",0
+"Tr. at 177-178.",0
+"He testified that “99.9 percent of the time, inflammation in the nerve should cause sensory loss, weakness.” Id. at 178.",0
+"Therefore, since there is no evidence of that in Charlene’s condition, “to say it’s nerve inflammation without causing anything for us to see would be extremely rare.” Id. Additionally, Dr. Chaudhry testified that one might see systemic reactions in the body depending on which nerve was inflamed such as fever, weight loss, loss of appetite, and general feelings of being unwell, and if indeed there is something inflammatory in the body one would expect to see a systemic reaction.",0
+"Id. at 178-179.",0
+"Further, Dr. Chaudhry testified that if the inflammation was severe enough to cause nerve damage, one should be able to see signs of inflammation at the site of the damage.",0
+"Id. at 179.",0
+"Petitioner’s counsel asked Dr. Chaudhry if there were any tests or other evaluations to confirm Dr. Wamsley’s opinion.",0
+"Tr. at 186.",0
+"Dr. Chaudhry testified that the theory of antibodies and a cross reaction along with inflammation in the nerve causing pain without actual nerve destruction may or may not be testable, however one could certainly test the theory that there is inflammation in the body.",0
+"Id. at 188.",0
+"Dr. Chaudhry reiterated what some of those tests were including the sed rate, checking the CRP, a reactive protein in the blood, to see if there is inflammatory change, or doing an MRI of the shoulder region to check for localized inflammation.",0
+"Id. at 186-187.",0
+"However, Dr. Chaudhry testified that there is no medical literature to support Dr. Wamsley’s opinion.",0
+"Id. at 187.",0
+"Dr. Chaudhry next testified as to the different areas of pain that Charlene complained of.",0
+"Tr. 189.",0
+"Dr. Chaudhry testified that the medical records indicate the initial source of pain was in her upper right arm around the area of the shot.",0
+"Id. at 189-190.",0
+"However, later the medical records indicate different areas of pain including Charlene’s shoulder, neck, and sometimes the fingers.",0
+"Id. at 190.",0
+"Finally, Dr. Chaudhry addressed Dr. Wamsley’s opinion that one can have referred pain from region to another.",0
+"Id. at 192.",0
+"Dr. Chaudhry agreed that one could have referred pain, but pains like local inflammation restrict themselves to the same spot.",0
+"Id. at 191.",0
+"Nevertheless, even if one had referred pain the predominant pain should still be the site of origin of where the pain is.",0
+"Id. at 192.",0
+"B. WEIGHING THE EXPERTS` OPINIONS.",0
+"Dr. Wamsley’s medical theory of this case is that the tetanus vaccine Charlene received on November 3, 2000 caused an inflammatory response which created inflammation in the nerve and irritated the nerve, without actual nerve destruction, and is thus the cause of her continued right arm pain.",0
+"In contrast, Dr. Chaudhry, while agreeing that Charlene suffered a localized reaction to the vaccination, did not find any evidence to suggest nerve injury or nerve damage, nor is there any evidence to suggest continuing inflammation in Charlene’s right arm.",0
+"After considering the entire record, including the experts’ testimony, the undersigned finds fault with Dr. Wamsley’s theory of the case and with Dr. Wamsley’s testimony.",0
+"In essence, Dr. Wamsley is not a credible, reliable expert.",0
+"The undersigned first addresses the credibility of petitioner’s expert.",0
+"[fn-12] While the undersigned does not solely judge an expert’s credibility based upon the length and breadth of his curriculum vitae (CV), the dearth of achievement and information in Dr. Wamsley’s CV as compared to the CV of Dr. Chaudhry is striking.",0
+"[fn-13] Such a comparison is particularly relevant in this case because Dr. Wamsley bases his opinion solely on his training, experience, and knowledge.",0
+"See Tr. at 72.",0
+"A one page CV was filed for Dr. Wamsley.",0
+"P. Ex. 12.",0
+"At the hearing, Dr. Wamsley testified that the information contained in this CV regarding his training, experience, and publications was his complete CV. Tr. at 80.",0
+"According to his CV, Dr. Wamsley has been in practice since 1993, he is not board certified in neurology or any specialty, he does not have any publications, he has no teaching responsibilities, and he does not conduct any research.",0
+"P. Ex. 12.",0
+"Dr. Chaudhry is Professor of Neurology at Johns Hopkins University School of Medicine, is Director of Neurology at Johns Hopkins Hospital, and is Co-Director of Neurology EMG Laboratory, and is on active staff at Johns Hopkins Hospital, among others.",0
+"R. Ex. F at 1.",0
+"Dr. Chaudhry testified that he is board certified in neurology, clinical neurophysiology, and EMG.",0
+"Tr. at 141.",0
+"Dr. Chaudhry testified that he spends fifty percent of his time at Johns Hopkins seeing patients, twenty percent of his time is spent teaching, twenty percent is spent in his administrative role, and ten percent is spent doing clinical trials which is separate from his clinical practice.",0
+"Id. at 141-142.",0
+"Dr. Chaudhry testified that he specializes in the field of neuromuscular diseases including motor neurons, and the majority of patients he sees have peripheral neuropathies, which is nerve damage or injury, such as inflammatory problems.",0
+"Id. at 143.",0
+"Additionally, Dr. Chaudhry has published numerous peer-reviewed articles on his research.",0
+"R. Ex. F at 3-12.",0
+"Based upon their experiences as set forth in the CVs, the undersigned finds Dr. Chaudhry far more knowledgeable and more qualified in the field of neurology.",0
+"This finding was confirmed by Dr. Chaudhry’s persuasive testimony and Dr. Wamsley’s highly speculative, unsupported testimony.",0
+"Second, the undersigned was not at all impressed with Dr. Wamsley’s testimony nor with his methodology to make a diagnosis.",0
+"Dr. Wamsley testified at the hearing that he had never reviewed Charlene’s medical records or her first EMG test results prior to submitting his medical expert report or opining on his theory of the case, and that he still had not reviewed any of her medical records prior to the hearing.",0
+"Further, Dr. Wamsley testified that he did not have the date of Charlene’s vaccination nor did he document the date of onset.",0
+"Dr. Wamsley testified that he relied solely on Charlene’s oral history that she gave him at her initial visit in order to make his diagnosis, to provide a medical theory of the case, and to rule out other causes.",0
+"Based upon my eighteen years of experience hearing expert testimony under the Program, this is a first.",0
+"All credible experts have testified that reviewing past treatment and test records is an essential component to rendering further treatment and to giving a medical opinion.",0
+"It borders on unbelievable that Dr. Wamsley would opine on causation involving a condition he had “never seen [] before,” Tr. at 64, based upon his clinical experience, without having reviewed any of the critical medical records and tests.",0
+"While taking medical history from a patient in order to make a diagnosis is routine, it is unheard of not to review past medical records in order to confirm or refute a diagnosis, especially in a case where there is no objective evidence to point to an injury.",0
+"Dr. Wamsley testified that he observed no objective evidence of an injury when he first examined Charlene.",0
+"He testified that he saw no inflammation in her right arm, no objective weakness, and no loss of range of motion.",0
+"Tr. at 78, 84-86.",0
+"Subsequently, Dr. Wamsley conducted an EMG on Charlene to determine if there was any nerve damage, and Dr. Wamsley testified that the results of the EMG were within normal limits.",0
+"Id. at 84.",0
+"Further, Dr. Wamsley did not follow up with Dr. Smith, who reached a different diagnosis, to reconcile the differing diagnoses.",0
+"Dr. Wamsley testified that he arrived at his diagnosis “through [Charlene’s] clinical history, the presentation, [and] complaining of shooting pain going down her arm. . . .” Tr. at 66.",0
+"However, Dr. Wamsley previously testified that the only history he had for Charlene was the history she gave to him.",0
+"The undersigned does not doubt that Charlene gave him an accurate history of what she remembered, however she saw Dr. Wamsley for the first time over two years after she received the tetanus vaccination.",0
+"It is possible, even likely, that she did not relate her entire clinical history.",0
+"For example, as previously noted Dr. Wamsley did not know and did not document the date of Charlene’s vaccination or the onset of her symptoms, Dr. Wamsley was unaware of the gap in treatment for her right arm from February 2001 to August 2001, Dr. Wamsley was unaware that Charlene’s physician noted that Charlene was improving on her February 19, 2001 visit, and Dr. Wamsley was unaware of the assessment from Charlene’s February 5, 2001 EMG which stated she was asymptomatic.",0
+"Lastly, Dr. Wamsley’s professional interaction with Dr. Smith is to say the least confusing.",0
+"Dr. Wamsley testified that after evaluating Charlene and finding severe upper extremity pain, he was “very concerned, and [] had never seen it before.” Tr. at 64.",0
+"Because of the pain and the belief that Charlene may have reflex sympathetic dystrophy, he consulted Dr. Smith, a pain specialist.",0
+"Id. Dr. Wamsley testified that he did not know how a vaccine could be related to RSD, but he thought that Dr. Smith would know more about it and whether a nerve could cause the type of pain being experienced by Charlene.",0
+"Tr. at 71.",0
+"Dr. Smith diagnosed muscular irritation.",0
+"Wamsley testified that he disagreed with Dr. Smith’s diagnosis of muscular irritation.",0
+"However, Dr. Wamsley did not state why he ruled out Dr. Smith’s diagnosis.",0
+"Further, Dr. Wamsley did not consult Dr. Smith after the second EMG was conducted (which Dr. Smith recommended) nor did he refer Charlene to Dr. Smith for a follow-up examination.",0
+"Tr. at 127.",0
+"Thus, Dr. Wamsley ignored the information and opinion from Dr. Smith, the doctor who, in Dr. Wamsley’s words, would know more about RSD and whether Charlene’s pain could be due to an irritation of the nerve.",0
+"If the Supreme Court’s Daubert’s test of reliability has any meaning, it is to screen unsupported testimony such as Dr. Wamsley’s in this case.",0
+"In sum, Dr. Wamsley is not a credible expert.",0
+"Third, in conjunction with his lack of credibility, it is no surprise that Dr. Wamsley’s theory of the case is unpersuasive and unreliable.",0
+"In addition to the fact that there is no objective evidence in the medical record which supports his theory, Dr. Wamsley’s testimony regarding his theory is seemingly contradictory, he does not present a convincing medical theory which connects the tetanus vaccination to Charlene’s current right arm pain, and he cites no medical literature or provides any other indicia of reliability to support his theory.",0
+"Dr. Wamsley opined that there were three possible etiologies which could have caused Charlene’s injury, which Dr. Wamsley believes is an irritated nerve, and that he believed that the third etiology was the most likely culprit.",0
+"This third etiology, as previously described, is a local inflammatory process caused when there is an antibody response to a vaccination which releases chemicals such as cytokines, interleukins, and interferons, and these chemicals irritated and inflamed the nerve.",0
+"Tr. at 132-133.",0
+"While this is the theory Dr. Wamsley presented as the cause of injury, his testimony and written opinions are inconsistent.",0
+"At the hearing, the undersigned questioned Dr. Wamsley as to how he could reconcile two of his written opinions in which one apparently states that it was the shot itself, i.e., the needle which damaged the nerve and the other, written a year later, which states that it was the tetanus toxoid which irritated the nerve and the testimony he gave at the hearing in which Dr. Wamsley testified that it was not the tetanus toxoid, but the chemical cascade that was released as part of the antibody response.",0
+"Id. at 131- 135.",0
+"Dr. Wamsley’s testimony at the hearing that it was the chemical response and not the tetanus vaccine itself further undermined his credibility as a witness because of the change in his written opinion, i.e., it was the tetanus toxoid to the testimony he gave, i.e., it was the chemical cascade.",0
+"Dr. Wamsley did not state in any of his written opinions that it was the chemical cascade that he believed is the cause of the nerve irritation.",0
+"The remainder of Dr. Wamsley’s testimony further undermined the reliability of his medical theory.",0
+"Dr. Wamsley testified that when he first examined Charlene, he had never seen her condition before.",0
+"Tr. at 64.",0
+"Nevertheless, he is somehow able to opine to a reasonable degree of medical certainty that it was the tetanus vaccination which caused her condition.",0
+"The undersigned questions how Dr. Wamsley is able to come to this conclusion when he testified that he has never seen it before.",0
+"Dr. Wamsley did not have the exact time frame documented as to when Charlene was vaccinated and when her pain began, and he did not know that Charlene began experiencing symptoms within twenty four hours of her vaccination.",0
+"Nevertheless, Dr. Wamsley testified that upon learning at the hearing that Charlene had symptoms within twenty four hours, Dr. Wamsley stated that the time frame is appropriate with the third etiology.",0
+"Id. at 78.",0
+"Dr. Wamsley has never been able to locate the nerve or source of Charlene’s pain.",0
+"Id. at 86.",0
+"Nevertheless, Dr. Wamsley testified that he believes that it is a radial nerve which is irritated.",0
+"However, when respondent’s counsel asked him whether it would be more consistent for such pain along the right deltoid area to be associated with an axillary nerve, Dr. Wamsley testified that Charlene could be experiencing referred pain.",0
+"Dr. Wamsley also does not know what is causing the nerve irritation or why nerves become inflamed.",0
+"As noted previously Dr. Wamsley testified that he believes that “nerves just get inflamed.” See page 12 supra.",0
+"Dr. Wamsley also testified that Charlene may not have nerve pain, but it could instead be musculoskeletal pain.",0
+"Tr. at 130.",0
+"Finally, Dr. Wamsley testified that he was still concerned that Charlene could have reflex sympathetic dystrophy (RSD), and that he did not know how a vaccine could be related to this disorder.",0
+"Id. at 71.",0
+"Thus, the undersigned is left to wonder why Dr. Wamsley believes that it is more likely than not Charlene’s injury is nerve-related or related to the vaccine if Dr. Wamsley is still concerned that Charlene could have RSD or that she has musculoskeletal pain.",0
+"Dr. Wamsley’s testimony failed at any level to constitute a reliable medical theory; instead it appeared to be a conglomeration of medical conceivabilities based loosely on neurologic principles.",0
+"Dr. Wamsley’s testimony failed the Daubert test of reliability, failed the probability test since his testimony was purely conjectural, see Snowbank, and was highly unpersuasive.",0
+"In contrast, Dr. Chaudhry’s testimony that the source of Charlene’s right arm pain is not a nerve injury caused by the tetanus vaccination is far more persuasive and more credible.",0
+"First, based upon review of Charlene’s medical records and the testimony at the hearing, Dr. Chaudhry testified that there is no evidence of a nerve injury or nerve damage.",0
+"Additionally, Charlene’s immediate reaction to the tetanus vaccination would have lasted only two months at the most, and it is documented in the medical records that Charlene was improving.",0
+"Dr. Chaudhry then testified that there is no further documentation of observed inflammation in Charlene’s right arm after February 2001.",0
+"Second, Dr. Chaudhry testified that he knows of no medical literature which supports Dr. Wamsley’s theory of the case, nor has he ever seen this in a patient or heard of this theory in his eighteen years of practice.",0
+"Third, if in fact Charlene had an inflamed or irritated nerve of the type so severe as to last for several years, one would expect to find actual nerve damage.",0
+"Dr. Chaudhry testified that MRIs are pretty sensitive, and if Dr. Wamsley’s theory is that there is inflammation or swelling in the upper arm, a MRI should show the inflammation or swelling.",0
+"Tr. at 187.",0
+"Fourth, if the nerve was as severely irritated or inflamed, as Dr. Wamsley suggests, one would expect to see other evidence of nerve damage such as sensory loss, motor loss, or reflex changes.",0
+"Fifth, Dr. Chaudhry testified that it could not be a radial nerve which was damaged because a radial nerve should not involve the finger, the shoulder, or the back – areas where Charlene has complained of pain.",0
+"In fact, pain in the shoulder would involve the axillary nerve.",0
+"There was also notation of neck pain which would be beyond a radial nerve distribution.",0
+"Dr. Chaudhry testified “[i]f it’s the neck, one has to worry still about radicular pattern, which is nerve roots being damaged.” Id. at 170.",0
+"Further, Dr. Chaudhry testified that if a radial nerve was damaged, one would see a wrist drop or if an axillary nerve was damaged one would not be able to lift her arms.",0
+"None of these conditions has been observed in Charlene.",0
+"Sixth, if there was some type of inflammation in the body one would expect to see a systemic reaction such as fever or loss of appetite.",0
+"Moreover, no tests were conducted to determine if in fact there was inflammation.",0
+"Finally, Dr. Chaudhry testified that one could have referred pain, as Dr. Wamsley suggests, but pains such as local inflammation restrict themselves to the same spot, and in any event the predominant pain should be the site of origin and not the referred site.",0
+"Thus, Dr. Chaudhry testified that Dr. Wamsley’s theory may be possible, however, there is no precedent for it, and the fact that there is no objective evidence of nerve damage makes his theory implausible.",0
+"It is important to realize that this is not a case of denying “causation in a field bereft of complete and direct proof of how vaccines affect the human body.” Althen at 1280.",0
+"This is a case of unreliable expert testimony.",0
+"Dr. Wamsley stated that he had never seen Charlene’s clinical presentation, yet gave an opinion based solely upon his clinical experience.",0
+"Dr. Wamsley referred Charlene to Dr. Smith because Dr. Smith would know more about this pain presentation and the possibility of nerve irritation.",0
+"However, when Dr. Smith reached a different diagnoses, Dr. Wamsley simply chose to disagree, without any further consultation, subsequent referral or explanation.",0
+"Dr. Wamsley did not review the medical records prior to seeing Charlene, has yet to review the records and did not even know the date of her immunization.",0
+"While it is superficially attractive to selectively focus on Charlene’s localized reaction and her subsequent arm pain and the timing of the vaccination to conclude “it must be the vaccination,” there simply is no reliable medical theory to support that conclusion.",0
+"In contrast, there is persuasive testimony from a qualified, credible neurologist, Dr. Chaudhry to resist the urge to blame the vaccine, including that in his extensive experience and knowledge, there is no precedent for such a condition.",0
+"IV.",0
+"CONCLUSION.",0
+"Based on the foregoing, the undersigned finds, after considering the entire record in this case, that petitioner is not entitled to compensation under the Vaccine Act.",0
+"The undersigned finds that this case fails because the medical records and the experts’ testimony do not support the theory that the tetanus vaccination and the immediate reaction to the vaccine is connected to or is the cause of Charlene’s current arm pain.",0
+"Thus, petitioner failed to demonstrate by a preponderance of the evidence that her injuries were caused-in-fact by the vaccination she received on November 3, 2000.",0
+"For the reasons discussed above, petitioner’s case is dismissed.",0
+"The Clerk is directed to enter judgment accordingly.",0
+"IT IS SO ORDERED.",0
+"Footnote 1.",0
+"Because this decision contains a reasoned explanation for the undersigned’s action in this case, the undersigned intends to post this decision on the United States Court of Federal Claims’ website, in accordance with the E-Government Act of 2002, Pub.",0
+"L. No. 107-347, 116 Stat.",0
+"As provided by Vaccine Rule 18(b), each party has 14 days within which to request redaction “of any information furnished by that party (1) that is trade secret or commercial or financial information and is privileged or confidential, or (2) that are medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of privacy.” Vaccine Rule 18(b).",0
+"Otherwise, “the entire” decision will be available to the public.",0
+"Id.Footnote 2.",0
+"The National Vaccine Injury Compensation Program comprises Part 2 of the National Childhood Vaccine Injury Act of 1986, Pub L. No. 99-660, 100 Stat.",0
+"Hereinafter, individual section references will be to 42 U.S.C.A. § 300aa of the Vaccine Act.",0
+"Footnote 3.",0
+"Footnote 4.",0
+"Mere conjecture or speculation will not establish a probability.",0
+"Snowbank Enter.",0
+"v. United States, 6 Cl. Ct. 476, 486 (1984).",0
+"Footnote 5.",0
+"The general acceptance of a theory within the scientific community can have a bearing on the question of assessing reliability while a theory that has attracted only minimal support may be viewed with skepticism.",0
+"Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579, 594 (1993).",0
+"Although the Federal Rules of Evidence do not apply in Program proceedings, the United States Court of Federal Claims has held that “Daubert is useful in providing a framework for evaluating the reliability of scientific evidence.” Terran v. Secretary of HHS, 41 Fed. Cl. 330, 336 (1998), aff’d, 195 F.3d 1302, 1316 (Fed. Cir. 1999), cert. denied, Terran v. Shalala, 531 U.S. 812 (2000).",0
+"In Daubert, the Supreme Court noted that scientific knowledge “connotes more than subjective belief or unsupported speculation.” Daubert, 509 U.S. at 590.",0
+"Rather, some application of the scientific method must have been employed to validate the expert’s opinion.",0
+"Id. In other words, the “testimony must be supported by appropriate validation – i.e., ‘good grounds,’ based on what is known.” Id. Factors relevant to that determination may include, but are not limited to: Whether the theory or technique employed by the expert is generally accepted in the scientific community; whether it’s been subjected to peer review and publication; whether it can be and has been tested; and whether the known potential rate of error is acceptable.",0
+"However, the court also cautioned about rejecting novel scientific theories that have not yet been subjected to peer review and/or publication.",0
+"The court pointed out that the publication “does not necessarily correlate with reliability,” because “in some instances well-grounded but innovative theories will not have been published.” Daubert, 509 U.S. at 594.",0
+"However, the Supreme Court’s only guidance to lower courts in determining the reliability of a novel proposition is that . . . submission to the scrutiny of the scientific community is a component of “good science,” in part because it increases the likelihood that substantive flaws in methodology will be detected.",0
+"The fact of publication (or lack thereof) in a peer reviewed journal thus will be a relevant, though not dispositive, consideration in assessing the scientific validity of a particular technique or methodology on which an opinion is premised.",0
+"Id., Gall v. Secretary of HHS, No. 91-1642V, 1999 WL 1179611, at *8 (Fed. Cl. Spec.",0
+"Mstr.",0
+"Oct. 31, 1999).",0
+"Footnote 6.",0
+"Dr. Wamsley’s curriculum vitae is found at P. Ex. 12.",0
+"Footnote 7.",0
+"Dr. Chaudhry’s curriculum vitae is found at R. Ex. C and F.Footnote 8.",0
+"On re-direct-examination, Dr. Wamsley testified that he believed it was the radial nerve based on a clinical diagnosis of the distribution and the localization of Charlene’s right arm pain.",0
+"Tr. at 118.",0
+"However, because Charlene’s EMG is normal, there would be no way to objectively identify any specific nerve being irritated.",0
+"Dr. Wamsley testified the only other way to identify the nerve is through a clinical examination such as weakness in the radicular or numbness in the distribution of the radial nerve.",0
+"Id. But then Dr. Wamsley testified that Charlene did not have any of these.",0
+"Id.Footnote 9.",0
+"Dr. Wamsley later testified on re-direct-examination that he believes an MRI is superior to a myelogram to test for evidence of anatomic abnormalities of the spinal canal because it is less risky than a myelogram and gives a better picture of the spinal cord and vertebral bodies.",0
+"Tr. at 124.",0
+"He also testified that a myelogram could neither confirm or refute his opinion as to the cause of Charlene’s injuries.",0
+"Id.Footnote 10.",0
+"Dr. Chaudhry testified that the term “itis” means an inflammation to a nerve.",0
+"Tr. at 146.",0
+"Footnote 11.",0
+"Dr. Chaudhry testified that a sed rate test is a simple blood test which tests for inflammation in the body, but is non-specific as to what areas of the body have the inflammatory change.",0
+"Tr. at 147.",0
+"Footnote 12.",0
+"Recently, the Federal Circuit in Capizzano v. Secretary of HHS, 440 F.3d 1317 (Fed. Cir. 2006) opined that treating physicians are likely in the best position to determine whether the vaccine caused a petitioner’s injury.",0
+"Dr. Wamsley is petitioner’s treating neurologist.",0
+"However, Dr. Wamsley first began treating Charlene more than two years after Charlene was vaccinated.",0
+"There are no notations in Charlene’s contemporaneous medical records prior to her visiting Dr. Wamsley which indicate that the vaccine may be the possible cause of her present condition.",0
+"Further, as noted previously, Dr. Wamsley never reviewed any of Charlene’s prior medical records.",0
+"Therefore, Dr. Wamsley is in no better position to evaluate petitioner’s case than respondent’s expert, Dr. Chaudry, who reviewed all of petitioner’s medical records in September 2004 prior to providing his medical opinion.",0
+"Thus, no extra weight should be given to Dr. Wamsley’s testimony or opinion.",0
+"In addition, Dr. Smith, another of Charlene’s treating physicians diagnosed Charlene with muscle irritation, not a nerve injury.",0
+"Dr. Wamsley conceded that he and Dr. Smith had different diagnoses.",0
+"Tr. at 114.",0
+"Footnote 13.",0
+"See P. Ex. 12 and R. Ex. C, F.",0

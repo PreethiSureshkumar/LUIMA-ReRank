@@ -1,0 +1,30 @@
+<experiments>
+    <experiment>
+        <query>united</query>
+        <results>
+            <result>
+                <id>203831</id>
+                <title>United States v. Melendez-Rivas</title>
+                <rank>1</rank>
+                <relevant>1</relevant>
+            </result>
+            <result>
+                <id>203956</id>
+                <title>United States v. Bristol-Martir</title>
+                <rank>2</rank>
+                <relevant>1</relevant>
+            </result>
+        </results>
+    </experiment>
+    <experiment>
+        <query>citation:petition</query>
+        <results>
+            <result>
+                <id>1111111</id>
+                <title>testDocument</title>
+                <rank>1</rank>
+                <relevant>1</relevant>
+            </result>
+        </results>
+    </experiment>
+</experiments>

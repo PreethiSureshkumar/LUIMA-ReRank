@@ -1,0 +1,316 @@
+@relation train
+
+@attribute sentence string 
+@attribute org.luima.types.reasoning.LegalRuleSentence {0, 1}
+
+@data 
+
+"DECISION [fn-1].",0
+"Petitioner, Olivia Wolfe (Ms. Wolfe), as natural guardian of her son, Joseph Wolfe (Joseph), seeks compensation under the National Vaccine Injury Compensation Program (Program).",0
+"[fn-2] Ms. Wolfe filed her initial Program petition on August 11, 2005.",0
+"See Petition (Pet.).",0
+"On January 6, 2006, Ms. Wolfe amended her Program petition.",0
+"See Amended Petition (Am. Pet.).",0
+"Ms. Wolfe maintains that Joseph sustained “an intractable seizure disorder which was ‘caused-in-fact’ by” a Hepatitis B vaccination that he received on September 24, 2002.",0
+"Am. Pet. at 1.",0
+"The special master convened a hearing.",0
+"Leon I. Charash, M.D. (Dr. Charash), [fn-3] testified for Ms. Wolfe.",0
+"Max Wiznitzer, M.D. (Dr. Wiznitzer), [fn-4] testified for respondent.",0
+"THE STATUTORY SCHEME.",0
+"The Act permits Ms. Wolfe to establish causation by pursuing two distinct legal theories.",1
+"First, Ms. Wolfe can present what is commonly referred to as a Table case.",1
+"The Act contains the Vaccine Injury Table (Table) that lists vaccines covered by the Act and certain injuries and conditions that may stem from the vaccines.",1
+"See § 300aa-14;",0
+"If Ms. Wolfe demonstrates by the preponderance of the evidence that following the administration of Joseph’s September 24, 2002 Hepatitis B vaccination, Joseph suffered the onset of an injury listed on the Table for Hepatitis B vaccine, within the time period provided by the Table for the injury, then Ms. Wolfe is entitled to a presumption that the vaccine caused Joseph’s injury. §§ 300aa-11(c)(1)(C)(I);",1
+"[fn-5] Respondent may rebut the presumption of causation if respondent demonstrates by the preponderance of the evidence that the injury was “due to factors unrelated to the administration of” a vaccine. § 300aa-13(a)(1)(B);",1
+"Knudsen v. Secretary of HHS, 35 F.3d 543 (Fed. Cir. 1994).",0
+"The Table governing Ms. Wolfe’s claim lists just one injury or condition that may stem from Hepatitis B vaccine: Anaphylaxis/anaphylactic shock.",1
+"The qualifications and aids to interpretation (QAI) that apply to the Table define anaphylaxis/ anaphylactic shock as “an acute, severe, and potentially lethal systemic allergic reaction.” 42 C.F.R. § 100.3(b)(1).",1
+"Manifestations of anaphylaxis/anaphylactic shock may include “[c]yanosis, hypotension, bradycardia, tachycardia, arrhythmia, edema of the pharynx and/or trachea and/or larynx with stridor and dyspnea.” Id. The first symptom or manifestation of onset of anaphylaxis/anaphylactic shock must occur within four hours after the administration of a Hepatitis B vaccination for the injury to qualify for a presumption of causation.",1
+"In the alternative, Ms. Wolfe may show based upon traditional tort standards that Joseph’s September 24, 2002 Hepatitis B vaccination caused actually a condition that is not listed on the Table for Hepatitis B vaccine. § 300aa-11(c)(1)(C)(ii)(I).",1
+"While “[t]he Act relaxes proof of causation for injuries satisfying the Table,” the Act “does not relax proof of causation in fact for non- Table injuries.” Grant v. Secretary of HHS, 956 F.2d 1144, 1148 (Fed. Cir. 1992).",1
+"The simple temporal relationship between a vaccination and an injury, and the absence of other obvious etiologies for the injury, are patently insufficient to prove actual causation.",0
+"See Grant, 956 F.2d at 1148;",0
+"Wagner v. Secretary of HHS, No. 90-1109V, 1992 WL 144668 (Cl. Ct. Spec.",0
+"Mstr.",0
+"June 8, 1992).",0
+"To prevail under an actual causation theory, Ms. Wolfe must demonstrate by the preponderance of the evidence that (1) “but for” the administration of Joseph’s September 24, 2002 Hepatitis B vaccination, Joseph would not have been injured, and (2) the administration of Joseph’s September 24, 2002 Hepatitis B vaccination was a “substantial factor in bringing about” Joseph’s injury.",1
+"Shyface v. Secretary of HHS, 165 F.3d 1344, 1352 (Fed. Cir. 1999).",0
+"The actual causation standard requires Ms. Wolfe to adduce “a medical theory,” supported by “[a] reliable medical or scientific explanation,” establishing “a logical sequence of cause and effect showing that the vaccination was the reason for the injury.” Grant, 956 F.2d at 1148; see also Knudsen, 35 F.3d at 548 (citing Jay v. Secretary of HHS, 998 F.2d 979, 984 (Fed. Cir. 1993));",1
+"Althen v. Secretary of HHS, 418 F.3d 1274, 1278 (Fed. Cir. 2005);",0
+"Capizzano v. Secretary of HHS, 440 F.3d 1317 (Fed. Cir. 2006).",0
+"“The analysis undergirding” the medical or scientific explanation must fall “within the range of accepted standards governing” medical or scientific research.",1
+"Daubert v. Merrell Dow Pharmaceuticals, Inc., 43 F.3d 1311, 1316 (9th Cir. 1995).",0
+"Ms. Wolfe’s medical or scientific explanation need not be “medically or scientifically certain.” Knudsen, 35 F.3d at 549.",1
+"But, Ms. Wolfe’s medical or scientific explanation must be “logical” and “probable,” given “the circumstances of the particular case.” Knudsen, 35 F.3d at 548-49.",1
+"Congress prohibited special masters from awarding compensation “based on the claims of a petitioner alone, unsubstantiated by medical records or by medical opinion.” § 300aa-13(a).",1
+"Numerous cases construe § 300aa-13(a).",0
+"The cases reason uniformly that “special masters are not medical doctors, and, therefore, cannot make medical conclusions or opinions based upon facts alone.” Raley v. Secretary of HHS, No. 91-0732V, 1998 WL 681467, at *9 (Fed. Cl. Spec.",1
+"Mstr.",0
+"Aug. 31, 1998); see also Camery v. Secretary of HHS, 42 Fed. Cl. 381, 389 (1998).",0
+"BACKGROUND.",0
+"The parties do not dispute the relevant facts.",0
+"Joseph was born on December 20, 1990.",0
+"See, e.g., Pet. ex. 1 at 2.",0
+"Except for typical childhood illnesses, see generally Pet. ex. 1; minor accidents, see, e.g., Pet. ex. 1 at 3;",0
+"Pet. ex. 11 at 1-3, 40-41;",0
+"Pet. ex. 2 at 3, 16; and a diagnosis of asthma as early as June 1998, see Pet. ex. 11 at 35-36; see also Pet. ex. 1 at 21 (12/16/98: “Asthma under control.”);",0
+"Joseph was well essentially before September 24, 2002.",0
+"On September 24, 2002, Joseph received a Hepatitis B vaccination.",0
+"See Pet. ex. 3 at 1.",0
+"At approximately 4:30 a.m., on September 25, 2002, Ms. Wolfe “woke” to a “noise,” Pet. ex. 11 at 56-57; see also Pet. ex. 5 at 1;",0
+"Affidavit of Olivia Wolfe (Wolfe Affidavit), filed August 11, 2005, ¶ 7; that sounded like “gurgling.” Wolfe Affidavit, ¶ 7; see also Pet. ex. 5 at 1;",0
+"Pet. ex. 9 at 1.",0
+"Upon entering Joseph’s room “to check on” Joseph, Ms. Wolfe discovered that Joseph was “having a seizure.” Wolfe Affidavit, ¶ 7; see also Pet. ex. 11 at 56.",0
+"Ms. Wolfe observed that Joseph was “lying flat,” Pet. ex. 5 at 1, with “flaccid” limbs.",0
+"Pet. ex. 11 at 57.",0
+"In addition, Ms. Wolfe observed that Joseph was “foaming at the mouth.” Pet. ex. 5 at 1; see also Pet. ex. 11 at 57;",0
+"Wolfe Affidavit, ¶ 7.",0
+"Further, Ms. Wolfe observed that Joseph’s “eyes” were “rolled upwards.” Pet. ex. 5 at 1; see also Pet. ex. 11 at 57;",0
+"Wolfe Affidavit, ¶ 7.",0
+"To Ms. Wolfe, Joseph appeared “unresponsive.” Pet. ex. 5 at 1.",0
+"Ms. Wolfe instructed her older son to summon an ambulance.",0
+"See Wolfe Affidavit, ¶ 7.",0
+"An ambulance arrived at the Wolfe residence at approximately 4:45 a.m., on September 25, 2002.",0
+"See Pet. ex. 11 at 69.",0
+"Paramedics noted immediately that Joseph exhibited an “altered L[evel]O[f]C[onsciousness]” marked by confusion.",0
+"Id. By 5:00 a.m., on September 25, 2002, paramedics were en route with Joseph to the Placentia Linda Hospital Emergency Department in Placentia, California.",0
+"See id.; see also Pet. ex. 11 at 53-54.",0
+"Upon arriving at the hospital, paramedics noted that Joseph exhibited “improved orient[ation].” Pet. ex. 11 at 69; see also Pet. ex. 5 at 1.",0
+"In the Emergency Department, Joseph was “alert.” Pet. ex. 11 at 55; see also Pet. ex. 11 at 54, 56-57.",0
+"Emergency Department physicians performed a battery of diagnostic tests, including a computed tomography (CT) scan of the head.",0
+"See e.g., Pet. ex. 11 at 55, 59, 68.",0
+"All results were normal.",0
+"See, e.g., Pet. ex. 5 at 1;",0
+"Pet. ex. 11 at 68.",0
+"Emergency Department physicians concluded that Joseph had experienced a “probable 1st seizure.” Pet. ex. 11 at 60; see also Pet. ex. 11 at 59.",0
+"Emergency Department physicians decided to transfer Joseph to Children’s Hospital of Orange County (CHOC) for additional medical attention.",0
+"See, e.g., Pet. ex. 11 at 59-60, 73-76.",0
+"At CHOC, Jill Trice, M.D. (Dr. Trice), a member of the CHOC Pediatric Subspecialty Faculty, Division of Neurology, evaluated Joseph “for seizures.” Pet. ex. 5 at 1.",0
+"Dr. Trice described Joseph as “an awake, alert and cooperative young” man.",0
+"Id. According to Dr. Trice, all aspects of her examination of Joseph were normal, see Pet. ex. 5 at 1-2, although Joseph had “no memory of” his seizure.",0
+"Pet. ex. 5 at 1-2.",0
+"Dr. Trice recommended an electroencephalogram (EEG).",0
+"See Pet. ex. 5 at 2.",0
+"The EEG was “abnormal,” Pet. ex. 6 at 2, reflecting “subclinical seizures.” Pet. ex. 5 at 2.",0
+"Dr. Trice advised a “load” of “Depacon,” followed by “maintenance Depacon.” Id. Dr. Trice planned “serial EEG’s [sic] to determine the effectiveness of” the anticonvulsant medication.",0
+"Id. In addition, Dr. Trice planned an “M[agnetic]R[esonance]I[maging] of the brain.” Id.Joseph underwent an MRI on September 26, 2002.",0
+"See Pet. ex. 1 at 30-31.",0
+"The MRI revealed “small size of the gyri in the parietal regions, bilaterally,” representing possibly a “subtle migrational anomaly such as mild polymicrogyria.” Pet. ex. 1 at 30-31.",0
+"In addition, the MRI revealed a “[s]mall 8 mm focus of abnormal increased signal in the left cerebral peduncle,” characterized as “non-specific,” but representing possibly “an area of demyelination, gliosis, or low grade glioma.” Pet. ex. 1 at 31.",0
+"Michael Muhonen, M.D. (Dr. Muhonen), a pediatric neurosurgeon, evaluated Joseph on October 3, 2002, considering especially Joseph’s “abnormal brain MRI.” Pet. ex. 7 at 1-2.",0
+"Dr. Muhonen reviewed Joseph’s “history” of a “possible seizure,” remarking on the “[c]omplicating” factor that Joseph “had received a hepatitis B vaccine” shortly before the episode.",0
+"Pet. ex. 7 at 1.",0
+"According to Dr. Muhonen, Joseph’s MRI showed “a small unidentified object within [Joseph’s] cerebral peduncle.” Pet. ex. 7 at 2.",0
+"Dr. Muhonen suspected that the “object” was “a small area of demyelination or a very low grade tumor” or “a distant trauma.” Id. Based upon the “the deep and delicate location” of the “object,” Dr. Muhonen suggested simply observation, with a “repeat” MRI “in six months.” Id.After beginning anticonvulsant medication, Joseph experienced “[s]leeping [p]roblems.” Pet. ex. 8 at 5.",0
+"He was “difficult” to wake “for school.” Id. And, he was drowsy “in the afternoon.” Id. In addition, he experienced trouble with his concentration.",0
+"See Pet. ex. 8 at 10.",0
+"On October 18, 2002, Joseph presented to Stephen A. Phillips, M.D. (Dr. Phillips), a member of the CHOC Pediatric Subspecialty Faculty, Division of Neurology, for “f[ollow]/u[p]” regarding the September 24, 2002 seizure.",0
+"Pet. ex. 8 at 15.",0
+"Dr. Phillips noted that although Joseph had not suffered other seizures, he exhibited “daytime sleepiness,” accompanied by “[decreased] overall energy.” Id. Dr. Phillips recommended another EEG.",0
+"See id. The EEG was “abnormal secondary to intermittent frontal slow activity,” representing possibly “an underlying structural abnormality.” Pet. ex. 8 at 16.",0
+"In addition, Joseph appeared “somewhat disoriented” near “the end of the recording.” Id. EEG activity suggested “a brief ictal event.” Id.Between November 11, 2002, and May 7, 2003, Joseph suffered apparently as many as 13 additional seizures despite increasing dosages of anticonvulsant medication.",0
+"See Pet. ex. 9 at 1-2; see also Pet. ex. 8 at 22, 26, 29;",0
+"Pet. ex. 11 at 77-94, 112.",0
+"On May 7, 2003, Joseph presented to Anne Tournay, M.D. (Dr. Tournay), at the University of California-Irvine Medical Center Child Neurology Clinic for an “Outpatient Consultation” regarding “seizures.” Pet. ex. 9 at 1.",0
+"Dr. Tournay noted that Joseph’s seizures “always” occurred when Joseph was “asleep.” Pet. ex. 9 at 1.",0
+"In addition, Dr. Tournay noted that Joseph “reported that he does occasionally drop items for no apparent reason.” Pet. ex. 9 at 2.",0
+"Based upon the “information” and upon Joseph’s age at “[t]he time of onset of” seizures, Dr. Tournay expressed concern about “juvenile myoclonic epilepsy.” Id. Regardless, Dr. Tournay determined that Joseph’s seizures remained “uncontrolled” by anticonvulsant medication that Joseph tolerated “poorly.” Id. Dr. Tournay recommended an alternative anticonvulsant medication, “Lamictal.” Id.Dr. Tournay evaluated Joseph again on July 10, 2003.",0
+"See Pet. ex. 9 at 7.",0
+"According to Dr. Tournay, Joseph was doing “very well” on Lamictal.",0
+"Pet. ex. 9 at 7.",0
+"Dr. Tournay planned to wean Joseph from his initial anticonvulsant medication, with the “goal” of “monotherapy Lamictal.” Id.By April 2004, Joseph was “seizure[-]free.” Pet. ex. 9 at 11.",0
+"An EEG in May 2005 was apparently normal.",0
+"See Wolfe Affidavit, ¶ 16.",0
+"In June 2005, Dr. Tournay instituted apparently a “process” to discontinue “completely” Joseph’s Lamictal regimen by September 2005.",0
+"Wolfe Affidavit, ¶ 16.",0
+"DISCUSSION.",0
+"The special master has canvassed thoroughly the record.",0
+"He determines that Joseph’s medical records alone do not reflect an independent basis for him to find more likely than not that Joseph’s September 24, 2002 Hepatitis B vaccination caused-in-fact Joseph’s seizure disorder.",0
+"Most, if not all, of Joseph’s treating neurologists, as well as Joseph’s consulting neurosurgeon, understood clearly the temporal relationship between Joseph’s September 24, 2002 Hepatitis B vaccination and Joseph’s first seizure.",0
+"See, e.g., Pet. ex. 7 at 1;",0
+"Pet. ex. 8 at 1;",0
+"Pet. ex. 9 at 1.",0
+"While one of the physicians commented that Joseph’s September 24, 2002 Hepatitis B vaccination was a “[c]omplicating” factor in Joseph’s medical history, Pet. ex. 7 at 1, none of the physicians has expressed even remotely in examination records “a medical theory causally connecting” Joseph’s September 24, 2002 Hepatitis B vaccination to Joseph’s seizure disorder.",0
+"Althen, 418 F.3d at 1278.",0
+"Moreover, none of the physicians has concluded ever that Joseph’s September 24, 2002 Hepatitis B vaccination caused probably Joseph’s seizure disorder.",0
+"See, e.g., Capizzano, 440 F.3d at 1326 (A treating physician’s clinical observations can be “quite probative” because treating physicians “are likely to be in the best position to determine” a cause for a petitioner’s condition.).",0
+"As a consequence, Ms. Wolfe depends unquestionably upon Dr. Charash’s opinion to establish her claim.",0
+"DR. CHARASH`S CREDIBILITY.",0
+"Before hearing, the special master reviewed carefully Dr. Charash’s reports.",0
+"See Pet. ex. 13;",0
+"Pet. ex. 15.",0
+"At hearing, the special master observed closely Dr. Charash during direct examination and cross-examination.",0
+"In addition, the special master interrogated intently Dr. Charash.",0
+"Dr. Charash is one of the least impressive medical witnesses that the special master has encountered in his 15-year tenure.",0
+"Dr. Charash exhibited appallingly little facility with the record, resulting, at times, in grossly exaggerated testimony and, at other times, in simply wrong testimony.",0
+"Indeed, in the special master’s view, Dr. Charash’s presentation constituted nothing more than poorly-crafted performance.",0
+"The special master cites specific examples.",0
+"[fn-6]I.Dr. Charash maintained initially that “findings on” Joseph’s “imaging studies,” including a “CT scan,” showed “brain damage.” Tr. at 22.",0
+"Yet, Joseph’s medical records reflect that Joseph’s CT scan was “essentially negative.” Pet. ex. 11 at 68; see also Pet. ex. 5 at 1 (“CT scan of the head” was “reportedly normal.”);",0
+"Pet. ex. 11 at 59 (notation regarding negative CT).",0
+"Indeed, Dr. Charash stated later that findings on Joseph’s CT scan were not significant.",0
+"See Tr. at 25.",0
+"Dr. Charash’s muddled testimony detracts naturally from Dr. Charash’s credibility.",0
+"II.",0
+"Dr. Charash asserted that “[o]ver the years,” Joseph has “had many, many EEGs.” Tr. at 30.",0
+"And, Dr. Charash insisted that Joseph’s most current EEG was “abnormal.” Tr. at 60; see also Tr. at 30 (Joseph has “electrical brain damage which has persisted to the present. . .",0
+"One recent EEG” showed “spike activities.”) (emphasis added);",0
+"However, Joseph’s medical records indicate that Joseph underwent at most four EEGs between September 25, 2002, and Spring 2005: one EEG on September 25, 2002, see Pet. ex. 6 at 1-2; perhaps a second EEG on September 25, 2002, see Pet. ex. 9 at 1 (A “repeat EEG was performed 2 hours” after the first EEG on September 25, 2002.); one EEG on October 23, 2002, see Pet. ex. 8 at 16; and one EEG in May 2005.",0
+"See Wolfe Affidavit, ¶ 16.",0
+"Two, see Pet. ex. 6 at 1-2;",0
+"Pet. ex. 8 at 16, or possibly three, see Pet. ex. 9 at 1, of Joseph’s EEGs–recorded within one month of each other in 2002–were abnormal.",0
+"But, according to Ms. Wolfe, Joseph’s May 2005 EEG was “normal.” Wolfe Affidavit, ¶ 16.",0
+"One may quibble certainly about Dr. Charash’s use of “many, many” to quantify Joseph’s three or four EEGs between September 25, 2002, and May 2005.",0
+"Tr. at 30.",0
+"One cannot dispute that Joseph’s most current EEG was normal.",0
+"See, e.g., Wolfe Affidavit, ¶ 16.",0
+"Indeed, based upon the EEG, Dr. Tournay exercised her professional judgment to remove apparently Joseph from all anticonvulsant medication.",0
+"See Wolfe Affidavit, ¶ 16.",0
+"As Dr. Wiznitzer explained cogently, “the prudent neurologist usually will not try to wean a medication from an individual who has been seizure[-]free if [the individual] still [has] an EEG that shows epileptiform activity.” Tr. at 81.",0
+"Concerned about the basis for several of Dr. Charash’s statements, the special master asked Dr. Charash to identify his source of information that Joseph’s most current EEG was abnormal.",0
+"See Tr. at 60-62.",0
+"Dr. Charash cited Joseph’s first EEG from September 25, 2002.",0
+"See Tr. at 60.",0
+"After correcting Dr. Charash’s error, the special master asked again Dr. Charash to identify his source of information that Joseph’s most current EEG was abnormal.",0
+"See Tr. at 60-61.",0
+"Dr. Charash admitted that he had “no idea” about Joseph’s most current EEG.",0
+"Tr. at 61-62.",0
+"If this case did not involve such serious, emotionally-charged issues, Dr. Charash’s bumbling response to the special master’s questions would be nearly comical.",0
+"Instead, Dr. Charash’s bumbling response to the special master’s questions is pathetic.",0
+"III.",0
+"In a February 16, 2006 report, Dr. Charash recognized that Joseph had “been off all [anticonvulsant] medication since August of 2005.” Pet. ex. 13 at 2.",0
+"In a section of a May 24, 2006 report, Dr. Charash proclaimed that “for the predictable future,” Joseph “is hostage to the requirement that he take regular daily doses of antiseizure medication” that must be “carefully monitored.” Pet. ex. 15 at 2.",0
+"According to Dr. Charash, Joseph “will suffer consequences” if he experiences dramatic changes in his “level of phenobarbital or Dilantin.” Id.The special master explored with Dr. Charash the relevance and the accuracy of the section of Dr. Charash’s May 24, 2006 report.",0
+"See Tr. at 55-59.",0
+"Dr. Charash declared that the section “has everything to do with this case.” Tr. at 56.",0
+"However, Dr. Charash confessed that he did not have “the foggiest idea” if Joseph received ever phenobarbital or Dilantin.",0
+"Tr. at 56-57.",0
+"[fn-7] Nevertheless, Dr. Charash argued that “Depakote” and “a variety of other antiseizure medications” could “cause serious complications.” Tr. at 56-57.",0
+"Then, Dr. Charash declared that when he drafted his May 24, 2006 report, he “did not have [the] knowledge” that Dr. Tournay had weaned Joseph from anticonvulsant medication.",0
+"Tr. at 57.",0
+"The special master directed Dr. Charash to his February 16, 2006 report indicating his understanding that Joseph had “been off all [anticonvulsant] medication since August of 2005.” See Tr. at 57-58, citing Pet. ex. 13 at 2.",0
+"Dr. Charash was loathe to acknowledge his mistake, requiring the special master to repeat a question three times before Dr. Charash provided a responsive answer.",0
+"See Tr. at 58-59.",0
+"Based upon his exchange with Dr. Charash, the special master decides that Dr. Charash lacks altogether candor as a witness.",0
+"DR. CHARASH`S OPINION.",0
+"Even if the special master were to accord Dr. Charash’s testimony a modicum of credit, the special master would rule still that Dr. Charash’s opinion fails wholly to carry Ms. Wolfe’s legal burden.",0
+"The centerpiece of the actual causation standard is the “medical theory” that connects a vaccine to an injury.",0
+"Althen, 418 F.3d at 1278.",0
+"The medical theory must consist of “more than subjective belief.” Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579, 590 (1993); see also Daubert, 43 F.3d at 1316 (An “expert’s bald assurance of validity is not enough.”).",1
+"Thus, the medical theory must be grounded “in the methods and procedures of” medicine.",1
+"Daubert, 509 U.S. at 590.",0
+"Ms. Wolfe may not rest her case solely upon the obvious temporal relationship between Joseph’s September 24, 2002 Hepatitis B vaccination and Joseph’s first seizure and upon the lack of alternative causes for Joseph’s condition, see, e.g., Grant, 956 F.2d at 1148, although both elements are probative in the analysis of certain prongs of the actual causation standard.",1
+"See, e.g., Althen, 418 F.3d 1274;",0
+"Capizzano, 440 F.3d 1317.",0
+"Rather, Ms. Wolfe must proffer through Dr. Charash some reliable evidence supporting a proposition that Hepatitis B vaccine can cause seizures.",1
+"Dr. Charash prepared a report on February 16, 2006.",0
+"See Pet. ex. 13.",0
+"He discussed Joseph’s medical history.",0
+"See generally Pet. ex. 13.",0
+"He posited: “The temporal relationship between the immunization and the chain of seizure activity which followed, starting within the 12 hours after the immunization, compel [sic] one to conclude that there is a causal relationship between the two.” Pet. ex. 13 at 2.",0
+"Because the special master could not discern that Dr. Charash had expressed a medical theory in his February 16, 2006 report, the special master directed Ms. Wolfe to submit a supplemental report from Dr. Charash.",0
+"See Wolfe v. Secretary of HHS, No. 05-0878V, Order of the Special Master (Fed. Cl. Spec.",0
+"Mstr.",0
+"May 9, 2006).",0
+"Dr. Charash prepared a second report on May 24, 2006.",0
+"See Pet. ex. 15.",0
+"At the outset, Dr. Charash challenged the “medical basis” for “the requirement that” Joseph receive a Hepatitis B vaccination.",0
+"Pet. ex. 15 at 2.",0
+"Regardless, Dr. Charash opined that the case “conforms to a classic picture of causation.” Id. According to Dr. Charash, Joseph “responded to” his September 24, 2002 Hepatitis B vaccination “by having a seizure within twelve hours.” Pet. ex. 15 at 1.",0
+"In Dr. Charash’s view, given “[t]he combination of the spectacular temporal relationship between” Joseph’s September 24, 2002 Hepatitis B vaccination and Joseph’s first seizure and “the absence of every other identifiable basis for a convulsive seizure at that time, one must conclude with an overwhelming degree of medical certainty that there was a causal relationship between” Joseph’s September 24, 2002 Hepatitis B vaccination and Joseph’s first seizure.",0
+"Id.At hearing, Dr. Charash advanced that using a “technique of inclusion and exclusion,” Tr. at 28; see also Tr. at 29, 34-35, 62-63, based partly “on literature,” Tr. at 35, and partly on his “life experience,” id.; see also Tr. at 46-47, he can conclude that Joseph’s September 24, 2002 Hepatitis B vaccination caused Joseph’s seizure disorder.",0
+"See Tr. at 20-21, 28-29, 34-35, 41-42, 62-63.",0
+"Dr. Charash contended that “idiosyncratic reactions to vaccination” leading to neurological conditions, Tr. at 29; see also Tr. at 34-35, are “accepted universally.” Tr. at 34-35; see also Tr. at 21.",0
+"According to Dr. Charash, “there is always a clear relationship between the intimate interval between the time a vaccine is given and the onset of” a condition.",0
+"Tr. at 21.",0
+"Dr. Charash “cannot ignore” the fact that Joseph’s first seizure occurred shortly after Joseph received a vaccination.",0
+"Tr. at 36; see also Tr. at 28-29, 63.",0
+"And, according to Dr. Charash, the absence of “alternative causes” renders “the premise” of causation “even more compelling.” Tr. at 29.",0
+"Dr. Charash depicted Joseph’s “examination” following Joseph’s first seizure as otherwise “entirely normal.” Tr. at 28; see also Tr. at 34, 41-42.",0
+"In fact, Dr. Charash considered the timing of Joseph’s first seizure and the dearth of other identifiable causes for Joseph’s seizure disorder to be the “substantial” components of his opinion that Joseph’s September 24, 2002 Hepatitis B vaccine caused Joseph’s condition.",0
+"Tr. at 45.",0
+"Prompted perhaps by Ms. Wolfe’s counsel, see Tr. at 32, Dr. Charash urged that Joseph suffered “[a] toxic reaction” to his September 24, 2002 Hepatitis B vaccination.",0
+"Tr. at 33; see also Tr. at 35-36.",0
+"[fn-8] Dr. Charash said that “the most common cause of brain damage” from vaccines occurs “because of leakage of endotoxins from the killed pertussis,” referring to diphtheria-pertussis-tetanus (DPT) vaccine.",0
+"Tr. at 35.",0
+"Dr. Charash classified endotoxins as “poisonous.” Tr. at 36.",0
+"Dr. Charash proclaimed that, “of course,” his discourse on endotoxins and DPT vaccine applies equally to Hepatitis B vaccine.",0
+"Id. Thus, Dr. Charash related Joseph’s seizure on September 25, 2002, to endotoxins that were “leaked from a killed organism” in Hepatitis B vaccine.",0
+"Id.Dr. Charash’s opinion cannot withstand the slightest intellectual scrutiny under the actual causation standard.",0
+"Dr. Charash did not cite any sustainable medical justification for a proposition that Hepatitis B vaccine can cause seizures.",0
+"Dr. Charash said merely that “[t]he extraordinary temporal relationship” between Joseph’s September 24, 2002 Hepatitis B vaccination and Joseph’s first seizure allows him to include Hepatitis B vaccine as a potential cause of Joseph’s condition.",0
+"Tr. at 63.",0
+"Likewise, Dr. Charash claimed that “literature” and his “life experience” are foundations of his methodology.",0
+"Tr. at 35; see also Tr. at 46-47.",0
+"Yet, Dr. Charash offered that “medical literature” he consulted to confirm his opinion was not “terribly helpful.” Tr. at 45.",0
+"Moreover, Dr. Charash conceded that in his 56 years of practice, he has never treated a child who suffered allegedly a seizure related to a Hepatitis B vaccination.",0
+"See Tr. at 46-47.",0
+"Finally, Dr. Charash acknowledged that he is “not able to say” that Hepatitis B vaccine contains endotoxins “with any degree of confidence.” Tr. at 47-48.",0
+"Dr. Charash revealed ultimately in his own words the pivotal legal deficiency of his opinion.",0
+"In a final question, Ms. Wolfe’s counsel prodded Dr. Charash about his “medical theory” and “the unfolding of the events” in the case.",0
+"Tr. at 68.",0
+"Dr. Charash stressed: I really would prefer to say it’s my belief, not a theory.",0
+"It’s my belief.",0
+"Id.; see also Tr. at 20 (Dr. Charash possesses “a belief” that there exists “clearly a causal relationship” between Joseph’s September 24, 2002 Hepatitis B vaccination and Joseph’s seizure disorder.).",0
+"CONCLUSION.",0
+"Ms. Wolfe has not established by the preponderance of the evidence that Joseph’s September 24, 2002 Hepatitis B vaccination was the legal cause of Joseph’s seizure disorder.",0
+"As a consequence, Ms. Wolfe is not entitled to Program compensation.",0
+"In the absence of a motion for review filed under RCFC Appendix B, the clerk of court shall enter judgment dismissing the petition.",0
+"The clerk of court shall send Ms. Wolfe’s copy of this decision to Ms. Wolfe by overnight express delivery.",0
+"Footnote 1.",0
+"As provided by Vaccine Rule 18(b), each party has 14 days within which to request redaction “of any information furnished by that party (1) that is trade secret or commercial or financial information and is privileged or confidential, or (2) that are medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of privacy.” Vaccine Rule 18(b).",1
+"Otherwise, “the entire decision” will be available to the public.",1
+"Id.Footnote 2.",0
+"The statutory provisions governing the Vaccine Program are found in 42 U.S.C. §§ 300aa- 10 et seq.",0
+"For convenience, further reference will be to the relevant section of 42 U.S.C.Footnote 3.",0
+"Dr. Charash received his medical degree from Cornell University Medical College in 1950.",0
+"He completed a fellowship in pediatric neurology at New York Hospital in 1956.",0
+"See id. Since 1957 or 1958, he has maintained a private practice in pediatric neurology.",0
+"See Transcript (Tr.), filed October 4, 2006, at 8.",0
+"He holds an academic appointment from Cornell University Medical College as an associate clinical professor of pediatrics.",0
+"See Pet. ex. 14 at 2.",0
+"He is certified in pediatrics by the American Board of Pediatrics.",0
+"See id.;",0
+"Tr. at 17-19.",0
+"Footnote 4.",0
+"Dr. Wiznitzer received his medical degree from Northwestern University in 1977.",0
+"D at 1.",0
+"He completed a fellowship in pediatric neurology at Children’s Hospital of Philadelphia in 1984.",0
+"See id. For 20 years, he has been a staff physician and child neurologist at Rainbow Babies and Children’s Hospital in Cleveland, Ohio.",0
+"See Tr. at 71.",0
+"He holds an academic appointment from Case Western Reserve University School of Medicine as an associate professor of pediatrics, neurology and international health.",0
+"See id. He is certified in pediatrics by the American Board of Pediatrics; in neurology with special competence in child neurology by the American Board of Psychiatry and Neurology; and in neurodevelopmental disabilities by the American Board of Psychiatry and Neurology.",0
+"See R. ex. D at 5;",0
+"Tr. at 72.",0
+"Footnote 5.",0
+"The preponderance of the evidence standard requires the special master to believe that the existence of a fact is more likely than not.",1
+"Mere conjecture or speculation will not meet the preponderance of the evidence standard.",1
+"Snowbank Enter.",0
+"v. United States, 6 Cl. Ct. 476, 486 (1984);",0
+"Centmehaiey v. Secretary of HHS, 32 Fed. Cl. 612 (1995), aff’d, 73 F.3d 381 (Fed. Cir. 1995).",0
+"Footnote 6.",0
+"In Parrella v. Bowling, 796 A.2d 1091 (R.I. 2002), the Rhode Island Supreme Court reviewed Dr. Charash’s participation as a medical expert for plaintiffs/appellants.",0
+"The Court concluded that Dr. Charash’s testimony was not “helpful” to the jury.",0
+"Id. at 1096.",0
+"The Court cited Dr. Charash’s “dubious integrity and credibility” that “were readily displayed to the jury through more than 200 pages of [Dr. Charash’s] deposition testimony shown on videotape.” Id. The Court elaborated: Dr. Charash admitted during his deposition that he had submitted affidavits in the past swearing he was an obstetrician/gynecologist, anesthesiologist, neonatologist, and perinatologist, when in fact he is not certified in any of those specialty areas of practice.",0
+"Id. The Court identified other inconsistencies in Dr. Charash’s testimony, too.",0
+"See id. During hearing, Dr. Charash discussed his participation as a medical expert for plaintiffs/appellants in Parrella.",0
+"See Tr. at 12-17;",0
+"The special master is not satisfied entirely by Dr. Charash’s explanation.",0
+"For instance, on direct examination, Dr. Charash said: . . .",0
+"I sign the paragraphs which I’ve generated.",0
+"Five pages earlier [in a document] somebody may have introduced me by saying[, “T]his is a document having to do with Dr. Charash, a duly[-]licensed physician in the state of New York, board-certified in[,”] let’s say, [“]anesthesiology or neonatology.[”] Tr. at 14.",0
+"Yet, on examination by the special master, Dr. Charash denied outright that he had suggested that others had added to his affidavits material claiming particular expertises.",0
+"See Tr. at 50.",0
+"As the highest Court of a State, the Rhode Island Supreme Court is a venerable institution.",0
+"Thus, the Court’s depiction of Dr. Charash’s character is extremely troubling.",0
+"Nevertheless, because the special master has not had the opportunity to observe the deposition videotape that the Rhode Island Supreme Court considered, the special master cannot assess fairly the context, or the propriety, of the Court’s remarks.",0
+"Therefore, in his evaluation of Dr. Charash’s credibility in this case, the special master disregards completely all negative inferences about Dr. Charash’s veracity in Parrella.",0
+"Footnote 7.",0
+"The special master appreciates that one medical record refers to a “previous phenobarbital dosage.” Pet. ex. 8 at 7.",0
+"But, the record identifies clearly a female patient, not Joseph.",0
+"See id.Footnote 8.",0
+"In his two written reports, Dr. Charash never mentioned a toxic process as an explanation for Joseph’s seizure following Joseph’s September 24, 2002 Hepatitis B vaccination.",0
+"See generally Pet. ex. 13;",0
+"Pet. ex. 15.",0

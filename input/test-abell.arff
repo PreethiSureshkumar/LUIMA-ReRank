@@ -1,0 +1,845 @@
+@relation train
+
+@attribute sentence string 
+@attribute org.luima.types.reasoning.LegalRuleSentence {0, 1}
+
+@data 
+
+"ENTITLEMENT DECISION [fn-1].",0
+"[fn-2] was filed by Mr. and Mrs. Thomas on behalf of their daughter, Kenidi, alleging that she suffered an acute encephalopathy as the result of a diphtheria- pertussis-tetanus vaccine administered 18 November 1998.",0
+"During the pendency of this petition, Kenidi passed away.",0
+"Petitioners therefore amended their petition to allege that her death was sequela to the injury caused by the vaccination.",0
+"This petition was reassigned to my chambers on 22 December 2004.",0
+"Respondent's Exhibit (Resp.",0
+"Shortly thereafter an evidentiary hearing was scheduled for 1 April 2005 in Montgomery, Alabama.",0
+"At that time, the Court heard from Petitioners, from an additional fact witness, and from Petitioners' expert, Dr. Jean-Ronel Corbier.",0
+"A second hearing took place on 20 May 2005 whereupon the Court heard from Respondent's medical expert, Dr. Max Wiznitzer.",0
+"Due to the nature of Dr. Wiznitzer's testimony and on agreement from Petitioners, this decision was held in abeyance while further testing was sought to determine whether a specific genetic disorder, sulfite oxidase deficiency, [fn-3] could be identified.",0
+"If such were shown to have caused Kenidi's death, all were concerned that Petitioners' future issue could be at risk.",0
+"Petitioners later filed an opinion from a well- respected expert, Dwight D. Koeberl, M.D., Ph.D., indicating that sulfite oxidase deficiency should be ruled out based on his interpretation of prior test results.",0
+"Petitioners' Exhibit (Pet.",0
+"Both parties agreed with Dr. Koeberl's assessment.",0
+"Thereafter, at the request of the Petitioners and over Respondent's objections, the Court conducted a third hearing wherein Dr. Wiznitzer was recalled to the stand.",0
+"The Court, concerned that the introduction of sulfite oxidase deficiency at the second hearing might well have compromised Petitioners' ability to properly examine Dr. Wiznitzer, heard from him again on 25 April 2006.",0
+"Afterwards a full briefing schedule was had, and this case is now ripe for a decision.",0
+"[fn-4]The Vaccine Act authorizes the Office of Special Masters to make decisions on petitions which shall include findings of fact and conclusions of law.",1
+"§12(d)(3)(A)(I).",0
+"I. FINDINGS OF FACT.",0
+"The Vaccine Act indicates that the Court may not rule in favor of a petitioner based on his asseverations alone.",0
+"Rather, a petitioner's claims must be substantiated at the very least by medical records or by medical opinion. § 13(a)(1).",0
+"Therefore, the Court turns first to the recorded facts and then to the opinions offered thereon.",0
+"All are in agreement that Kenidi died as the result of a neuro-degenerative disorder that dates back at least to 11 December 1998 when she was first hospitalized with seizures.",0
+"However, there are significant factual issues raised in this case regarding the time that passed following vaccination and up until that hospitalization.",0
+"The primary contentions involve alleged discrepancies between the fact witness testimony and the contemporaneous medical records.",0
+"Therefore, it behooves the Court to explain the legal standard by which factual findings are made.",0
+"It is axiomatic to say that the Petitioners bear the burden of proving, by a preponderance of the evidence – which this Court has likened to fifty percent and a feather – that a particular fact occurred.",0
+"Put another way, it is required that a special master, believe that the existence of a fact is more probable than its nonexistence before [he] may find in favor of the party who has the burden to persuade the [special master] of the fact's existence.",1
+"Moreover, mere conjecture or speculation does not meet the preponderance standard.",1
+"Snowbank Enterprises v. United States, 6 Cl. Ct. 476, 486 (1984).",0
+"As is often the case, the Court must decide what weight to afford parental testimony as compared to the contemporaneous medical records.",1
+"In such instances, the following standard is routinely applied: It has generally been held that oral testimony which is in conflict with contemporaneous documents is entitled to little evidentiary weight.",1
+"[Citations omitted.] That rule has been followed in Program cases.",0
+"See, e.g., Flynn v. Secretary of HHS, No. 89-54V, slip op. at 7 (Cl. Ct. Spec.",0
+"Mstr.",0
+"May 17, 1990).",0
+"The rule should not be applied blindly, however.",0
+"Written records which are, themselves, inconsistent, should be accorded less deference than those which are internally consistent.",1
+"Records which are incomplete may be entitled to less weight than records which are complete.",1
+"If a record was prepared by a disinterested person who later acknowledged that the entry was incorrect in some respect, the later correction must be taken into account.",1
+"Further, it must be recognized that the absence of a reference to a condition or circumstance is much less significant than a reference which negates the existence of the condition or circumstance.",1
+"Murphy v. Secretary of HHS, 23 Cl. Ct. 726, 733 (1991), aff'd, No. 92-5002 (Fed. Cir., May 6, 1992).",0
+"The reason medical records are accorded greater weight than oral testimony has been elucidated by this Court and by the Federal Circuit: Medical records, in general, warrant consideration as trustworthy evidence.",1
+"The records contain information supplied to or by health professionals to facilitate diagnosis and treatment of medical conditions.",1
+"With proper treatment hanging in the balance, accuracy has an extra premium.",1
+"These records are also generally contemporaneous to the medical events.",1
+"Cucuras v. Secretary of HHS, 993 F.2d 1525, 1528 (Fed. Cir.1993).",0
+"This Court recognizes that contemporaneous written documentation from a disinterested party may well be more reliable than a petitioner's recollection some years after the fact.",1
+"However, that is not the end of the matter.",0
+"When inconsistencies arise between the parental testimony and contemporaneous records, such discrepancies may be overcome by clear, cogent and consistent testimony explaining the discrepancy.",1
+"Stevens v. Secretary of HHS, No. 90-221V, 1990 WL 608693, at *3.",0
+"Mstr.",0
+"Dec. 21, 1990);",0
+"Blustein v. Secretary of HHS, No. 90-2808.",0
+"However, parental testimony that is inconsistent or unclear, particularly where it is at odds with contemporaneous medical records, may not be relied upon when making a decision.",1
+"The Court will first examine the information provided by the fact witness including any affidavits, supplemental affidavits and live testimony.",0
+"The Court will then turn to the contemporaneous medical records.",0
+"A. FACT WITNESS TESTIMONY.",0
+"As aforementioned, the Court received fact witness testimony from the parents, Patrick and Camille Thomas as well as from Mrs. Sandra Hill, Kenidi's aunt and owner of Second Mom's Child Care Learning Center where Kenidi received day care.",0
+"MRS. CAMILLE THOMAS.",0
+"In her original affidavit filed with the Petition as Exhibit 1, Mrs. Thomas reports that, following the administration of DPT on 18 November 1998, Kenidi became fussy and cried often later that evening.",0
+"Id. at 2.",0
+"They did not take her to daycare the following day because she was crying almost uncontrollably.",0
+"Id. She avers that the daycare workers likewise indicated to her on 20 November 1998 that Kenidi was unconsolable and had cried the entire day.",0
+"Id. She notes that, by 25 November 1998, Kenidi stopped nursing.",0
+"On 28 November 1998, she took Kenidi to the pediatrician for a possible ear infection.",0
+"Id. And on 3 December 1998, Kenidi was taken again to the pediatrician.",0
+"She was fussy, crying often, and had a low-grade fever.",0
+"She was diagnosed as having lymphocytosis, [fn-5] BSOM, [fn-6] and a possible urinary tract infection.",0
+"Id. On 8 December 1998, Kenidi returned to the pediatrician noting, Kenidi's colic was worse.",0
+"She was screaming and crying, like she was in pain.",0
+"An x-ray showed Kenidi having excess gas.",0
+"Kenidi was diagnosed as having a possible cefril sensitivity and thrush.",0
+"[fn-7] Id.On 11 December 1998, day care workers noticed Kenidi was acting strangely.",0
+"Id. at 3.",0
+"Hence, Mrs. Thomas and her husband took Kenidi to the hospital.",0
+"According to the mother, Kenidi's right arm twitched, her back arched, and her eyes rolled backwards.",0
+"Id.The remainder of the mother's original affidavit reiterates the medical intervention and course of treatment for Kenidi's condition.",0
+"The Court is not aware of any dispute in this regard and will set forth those facts infra.",0
+"In March 2004, Mrs. Thomas filed a supplemental affidavit.",0
+"That affidavit is signed and dated 6 December 2003, less than a month before Kenidi passed away.",0
+"In that affidavit, Mrs. Thomas notes that after the DPT shot given 18 November 1998: Kenidi screamed and cried throughout the evening, stopping only when she fell asleep out of exhaustion.",0
+"Her crying sounded different than how it usually sounded before her vaccination.",0
+"I stayed home with Kenidi the next day, November 19, 1998.",0
+"I remember Kenidi no longer moved, kicked, smiled, or laughed; she had not done any of this since her vaccination one day earlier.",0
+"Pet.",0
+"Ex. 44 at 1.",0
+"Mrs. Thomas reports that on 20 November 1998 her husband was contacted by the day care workers to pick Kenidi up early.",0
+"Mrs. Thomas reports: coming home and seeing Patrick on the phone with the doctor that afternoon while Kenidi was arching her back and screaming in his arms.",0
+"Kenidi continued this behavior throughout the day.",0
+"For brief periods Kenidi would stop crying, and then she would just lay there and would not respond to anything.",0
+"Knowing what I know now, I believe that Kenidi's behavior was seizure activity.",0
+"Id. at 2.",0
+"Her supplemental affidavit states that Kenidi's feeding had decreased since the vaccination and stopped altogether by 25 November 1998.",0
+"Id. at 2.",0
+"She also reports that Kenidi had a bout of extreme coughing on 28 November 1998 which coincided with a visit to the pediatrician that day where she was diagnosed with an ear infection.",0
+"Though given medication, Kenidi continued to cry and act strangely.",0
+"Id. at 2.",0
+"Regarding the doctor’s visit on 3 December 1998, Mrs. Thomas reports that in addition to the general fussiness, screaming and crying reported in the previous affidavit, Kenidi was arching her back, would not suck, and had a low-grade fever.",0
+"Id. at 2.",0
+"She reiterates the diagnosis of lymphocytosis, BSOM, and a possible urinary tract infection.",0
+"Concerning the next doctors visit on 8 December 1998, there is a slight but significant change from the original affidavit in that the mother avers Kenidi's symptoms were worse rather than her colic was worse.",0
+"Id. at 2.",0
+"As to the hospitalization on 11 December 1998, Mrs. Thomas reports that the day care workers noticed Kenidi was acting strangely.",0
+"She was completely non-responsive.",0
+"Id. at 2.",0
+"The parents took Kenidi to the hospital.",0
+"She would roll her head around with her mouth open, and [t]he doctors saw Kenidi's right arm twitch, her back arch, and her eyes roll backwards.",0
+"Id.Mrs. Thomas notes that Kenidi's medical course continued to decline to the point where she was in a coma-like state and has a tracheotomy that has to be cleared continuously throughout the day and night.",0
+"She requires constant supervision.",0
+"Her eyes are open but she does not blink.",0
+"Kenidi has about fifty seizures per day.",0
+"Id.During the trial held 1 April 2005, Mrs. Thomas indicated that, prior to the DPT vaccination, Kenidi was a very content and happy baby.",0
+"Hearing Transcript, 1 April 2005, (Tr. I) at 20.",0
+"According to Mrs. Thomas, Kenidi received the DPT vaccine in the morning and in the afternoon began screaming and was inconsolable.",0
+"Id. at 21.",0
+"Kenidi nursed that day, but Mrs. Thomas had difficulty getting her to take naps.",0
+"Id. Mrs. Thomas avers that, following the immunization, she did not smile any more after that.",0
+"She was not a happy baby after that.",0
+"Id. at 28.",0
+"The day after the vaccination, Mrs. Thomas stayed home with Kenidi because it was too hard for me to try to even get ready to go to work, and so I just kept her at home that day.",0
+"Id. at 21.",0
+"That day she had issues getting Kenidi to take a bottle.",0
+"And while Kenidi did not have a fever, she would cry out intermittently as if she were in pain.",0
+"Tr. I at 23-24.",0
+"Mrs. Thomas testified: As a mother, I wanted to do something to stop this screaming, and just normal things that you would do, like pick her up, or hold her, and try to console her, and when she would cry the expression on her face was not -- she would not interact with me like normal.",0
+"Id. at 24.",0
+"The next morning, on 20 November 1998, Mrs. Thomas prepared for work and took Kenidi to daycare.",0
+"Kenidi was not screaming and was doing halfway okay.",0
+"Id. at 25.",0
+"However, Kenidi did even more of that unconsolable [sic] screaming and so the daycare, run by Mrs. Hill, contacted Mr. Thomas to pick up the child.",0
+"That day Mrs. Thomas continued to note that Kenidi was eating less.",0
+"However, she does not recall that the child was ever feverish.",0
+"Id. at 25-26.",0
+"On 21 November 1998, a Saturday, Mrs. Thomas continued to observe intermittent screaming, fussiness and difficulty feeding.",0
+"Id. at 28.",0
+"Mrs. Thomas was a little bit confused as to the date Kenidi first saw the doctor.",0
+"But she does recall her husband called the doctor's office on several occasions throughout the intervening few days.",0
+"Id. at 30.",0
+"Specifically: I remember coming in on a Friday afternoon, which I think was the first Friday after she received her immunizations, and I remember walking in and she [sic] was on the telephone with them, and I think that this was his second time being on the telephone them, and he had the baby in his arms, Kenidi, and she was just screaming, arched back and screaming, and I remember him talking with them.",0
+"Id. at 30.",0
+"According to Mrs. Thomas, though they took her to see several doctors, Kenidi's condition continued to worsen to the point they decided to take her to the emergency room at Baptist hospital and to the emergency room at Children's hospital.",0
+"Id. at 30.",0
+"At Children's Hospital, on 11 December 1998, the emergency room staff noted that Kenidi was having fish mouth seizures.",0
+"Id. at 32.",0
+"This is the first time Mrs. Thomas had seen that sort of activity.",0
+"In retrospect, however, she had seen arching of the back, and the non-responsiveness on the Thursday and Friday following vaccination, at which time she was arching her back, clenching her fists, and screaming all at the same time.",0
+"Id.At the hearing, Mrs. Thomas says she took Kenidi to see Dr. Brannon the morning of 28 November 1998 because: That came about because that morning, she developed -- she started developing -- well, it started out like a normal cold, but her coughing was very sphere [sic], and I was real worried about her.",0
+"She wouldn't sleep, and again doing the screaming, the spells of screaming, and again not eating.",0
+"Id. at 34.",0
+"According to Mrs. Thomas, Kenidi received antibiotics from that first visit and, while the cold symptoms resolved, she continued to scream, arch her back, and was unresponsive.",0
+"Tr. I at 36.",0
+"During the next doctor's visit, though she is unsure of the date or of the doctor's diagnosis, Mrs. Thomas testified that she does remember Kenidi was clenching her fists, screaming and arching her back in the waiting room but did not do so in the presence of the doctor.",0
+"Id. at 37-38.",0
+"She recalled Kenidi being diagnosed with thrush but disputes that diagnosis.",0
+"Id. at 40.",0
+"Mrs. Thomas testified as to the course of Kenidi's medical issues and notes that, while her daughter did improve somewhat for a few months around the time she turned two years old, she subsequently succumbed to pneumonia and went into a coma state that lasted for 3 1⁄2 years.",0
+"Id. at 44.",0
+"Going back to the doctors' visits prior to the hospitalization for seizures, Mrs. Thomas testified that she did not tell any of the doctors about the back arching or other symptomatology but did tell them about the inconsolable crying.",0
+"At the office visits she was more concerned about Kenidi not eating and about her cold symptoms.",0
+"Id. at 44-45.",0
+"And while she was the one who gave Kenidi's history to those doctors, at the time of hospitalization on 11 December, both she and her husband gave the history.",0
+"Id. at 47.",0
+"On December 11, the daycare called Kenidi's grandmother with concerns about odd movements.",0
+"Mrs. Thomas picked Kenidi up at the normal time after work.",0
+"The parents took her to the emergency room at Children's Hospital later that evening.",0
+"Tr. I at 57-58.",0
+"MRS. SANDRA HILL.",0
+"Petitioners filed an affidavit with the Court, dated 11 December 2003, from Mrs. Sandra Hill, Kenidi's aunt and the owner of the daycare that Kenidi attended following her mother's return to work on 16 November 1998.",0
+"In that capacity and as a family member she had occasion to observe Kenidi prior to vaccination on 18 November 1998.",0
+"According to Mrs. Hill, in the first two months of her life, Kenidi was observed to be a beautiful, happy baby who was playful and smiled just about all the time.",0
+"Pet.",0
+"Ex. 42 at 2.",0
+"She recalls that Kenidi received a vaccination soon after enrolling at the daycare center.",0
+"And, as it is their policy for children who are vaccinated to remain absent for a day following vaccination, she recalled Kenidi being out for a day or two after her vaccination.",0
+"Id.After Kenidi returned to daycare, Mrs. Hill recalled her acting quite differently.",0
+"She cried and screamed all the time and could not be quieted and would not take the bottles that had been prepared for her.",0
+"Continuing: She would clench her fists and tighten her body up, holding her head way back.",0
+"She had contraction-like tensing spells.",0
+"It used to be easy to make eye contact with Kenidi, but now she would not look me in the eye at all or focus and did not recognize me.",0
+"Kenidi was so inconsolable that I called Patrick to come pick her up early.",0
+"I remember all this was immediately after Kenidi came back after her vaccination because she was at Thomas Childcare for such a short time, about five days total.",0
+"I cannot be one hundred percent certain exactly when I first noticed the changes in Kenidi.",0
+"It could have been the first day she was back; it could have been the second day.",0
+"I know it was right after she came back, though.",0
+"I remember that we called Cammie to tell her we were concerned about Kenidi.",0
+"Pet.",0
+"Ex. 42 at 2-3.",0
+"At trial, Mrs. Hill confirmed that Kenidi was enrolled in her daycare in mid-November and attended approximately three weeks, but did not go every day.",0
+"Tr. I at 74.",0
+"She likewise confirmed their policy not to allow children to return to daycare for twenty-four hours post-vaccination.",0
+"Hence, she would have first seen Kenidi on Friday, 20 November 1998, the second day after the vaccination.",0
+"According to Mrs. Hill's testimony, following the vaccination, Kenidi underwent a definite change in personality.",0
+"To elaborate: She didn't respond to my voice, and she cried a lot.",0
+"I couldn't get her to follow my eyes, and if I put a toy in front of her, I couldn't get her to follow anything with her eyes.",0
+"She just cried a whole lot, and she tried to sleep, but she was just very irritable at all times.",0
+"￼Tr. I at 75.",0
+"Mrs. Hill was concerned about Kenidi because right after she returned to daycare, she was acting differently: She would clench her fists like this, and she would like throw her head back, and she would scream like she was having stomach pains or something, and she kept doing that over and over again, and I couldn't get her to eat or anything.",0
+"Tr. I at 76.",0
+"According to Mrs. Hill's recollection Kenidi spent perhaps seven or nine days under her supervision due to health issues but also due to an intervening Thanksgiving holiday.",0
+"Tr. I at 77, 79.",0
+"She would come back, but I would call Pat or Camilla to come pick her up because she kept being irritable.",0
+"We could not figure out what it was.",0
+"They kept taking her to the doctors and bringing her back.",0
+"They thought it was a cold, and they thought it was colic, and I thought that she was having stomach pains.",0
+"And I couldn't get her to eat, and Camilla would come to try and breast feed, and she wouldn't do that either.",0
+"So that went on for a few days.",0
+"Tr. I at 77.sked by Petitioner's counsel to explain in greater detail about the events of 20 November, Mrs. Hill testified: Q: Okay.",0
+"I do want to ask you one question, and if I could take you back to that Friday, which would be the 20th of November.",0
+"Do you recall having to call your brother, which would be Mr. Thomas, regarding Kenidi?",0
+"A: Right.",0
+"Q: And why did you decide to call him that day?",0
+"A: I became very concerned, because she was doing something that I hadn't seen before, and I called him to tell him to come and pick her up.",0
+"Q: What was she doing that day?",0
+"A: That was the day that she was doing the thing with her fists and holding her head back, and just constantly crying.",0
+"She couldn't sleep, or wouldn't eat, or anything.",0
+"Tr. I at 78.",0
+"But on Cross examination regarding the events of 20 November versus those of 11 December, Mrs. Hill stated: Q: Do you recall whether she was in day care on the 11th of December?",0
+"A: The dates I am not sure of.",0
+"Q: If I told you that was the same day that on that night she was admitted to the hospital?",0
+"A: Yes, that was the day.",0
+"Q: And she was in day care that day?",0
+"A: Yes.",0
+"She was there that day, and I think that is the day that I called Pat, and he picked her up.",0
+"And that same day when I got off from work, I called my mom because she was going to keep Kenidi that evening, and to ask her to please watch her and see what I had been seeing.",0
+"Q: And that is Kenidi's grandmother, is your mom?",0
+"A: Yes.",0
+"Right.",0
+"Tr. I at 78-79 (emphasis added).",0
+"MRS. PATRICK THOMAS.",0
+"Mr. Thomas in his original affidavit filed 30 August 2002 indicates that on the day after her vaccination, 19 November 1998, Kenidi was very fussy and cried inconsolably.",0
+"He recalls phoning the pediatrician's office at 2:00 a.m. the morning of 20 November 1998.",0
+"Pet Ex. 26 at 1-2.",0
+"It was the pediatrician's opinion that, as a new parent, Mr. Thomas was overreacting and should take a wait and see approach.",0
+"Id. at 2.",0
+"On the night of 20 November 1998: I noticed when I came home from work that Kenidi did not respond at all to my singing.",0
+"She did not play or interact with me at all.",0
+"She stopped smiling, even when I smiled at her.",0
+"She stopped playing on her own when she lay down, but simply stared with a blank expression on her face.",0
+"Her eyes appeared glazed over.",0
+"All of these problems continued for the next several days.",0
+"Since that night, she has not responded at all to me the way she did prior to 11/18/98.",0
+"Pet.",0
+"Ex. 26 at 2.",0
+"That night he also noticed that in addition fits of crying and staring spells when she cried she also started arching her back, pulling her arms above her head, and rolling her eyes back.",0
+"I was unable to straighten out her arms.",0
+"Id.Mr. Thomas claims these symptoms progressed till she was finally hospitalized at Children's Hospital on 11 December 1998.",0
+"Id.In a supplemental affidavit signed 6 December 2003, Mr. Thomas recalled on the night of 19 November 1998 phoning the doctor's office and within the first week post-vaccination called as many as five times.",0
+"Pet.",0
+"Ex. 43 at 1.",0
+"The remainder of that affidavit repeats the original.",0
+"On the witness stand, Mr. Thomas testified that Kenidi was fussy the day of 19 November 1998 to the point that his wife opted to stay home with the child.",0
+"Tr. I at 85-86.",0
+"He recalled phoning the doctor that night and more than five times within the next week.",0
+"Id. at 86.",0
+"As a new parent, he was thought to be overreacting, and that she is probably just irritable, and probably needs to sleep.",0
+"Tr. I at 86.",0
+"At trial, Mr. Thomas testified that he was called early from work on 20 November to pick Kenidi up at the day care because she was inconsolable.",0
+"When he arrived, he observed Mrs. Hill holding Kenidi.",0
+"The child had her head tilted back, holding her arms up, fist clenched, and she was screaming.",0
+"In hindsight, he believes her back was arching as well.",0
+"Id. at 88-91.",0
+"He recalls phoning his wife, but she was unable to come home as she was at work.",0
+"Id. at 90.",0
+"He testifies that Kenidi's condition progressively worsened.",0
+"While there were times when she could be consoled, during those times she was non-responsive.",0
+"Id. at 92.",0
+"He accompanied Kenidi to her doctor's appointment with Dr. Brannon on 28 November 1998.",0
+"While his wife gave most of the history, he recalls that he may have chimed in regarding her cough, which was very bad, and the screaming.",0
+"Tr. at 93.",0
+"When confronted with the discrepancy between his affidavits and his live testimony concerning the events of 20 November 1998, he explains that he did pick Kenidi up from the daycare as described but then also went to a night job doing part time janitorial work, and so it was possible for him to have come home to find her in the condition as described in his affidavits later that night.",0
+"Tr. I at 95.",0
+"He recalls having to pick Kenidi up early on several occasions and had to work that out with his day job.",0
+"Tr. I at 98.",0
+"Mr. Thomas recalls being telephoned to pick up Kenidi early on 11 December 1998 as well, because she was inconsolable.",0
+"He took Kenidi and his wife to his mother's house who was going to help watch Kenidi while he attended a church meeting, but soon thereafter he received an urgent call indicating they should take Kenidi to the hospital.",0
+"Tr. I at 97.",0
+"Having been to all the doctors in Montgomery, they opted to go to Children's Hospital.",0
+"Tr. I at 97.",0
+"In addition to calling him on 11 December 1998, the daycare also called his mother.",0
+"[T]hey didn't tell me what they thought she was doing at that particular time, because as time went on the seizures had gotten worse and more noticeable by Ms. Hill.",0
+"And also my mom noticed that it seemed like it was a seizure that day also.",0
+"Id. at 97.",0
+"B. MEDICAL RECORS.",0
+"The medical records from Kenidi's birth through the first two months of life are relatively uneventful.",0
+"She had a Well Child visit at two weeks and another at one month.",0
+"Though congested during the one month visit, she seemed otherwise a normal, healthy baby girl.",0
+"Pet.",0
+"Ex. 4 at 1.",0
+"Similarly, during her two-month office visit on 18 November 1998, where she received a number of vaccinations including DPT, she was noted to be cooing, smiling, and nursing well.",0
+"Id. at 2.",0
+"The next medical record on file is from 3 December 1998.",0
+"It indicates that Kenidi had visited the pediatrician's office on Saturday, 28 November 1998 where she had seen a Dr. Brannon and that she presented with an ear infection along with crying episodes, stomach cramps, and cried/fussy.",0
+"Ex. 4 at 2;",0
+"In that 3 December 1998 visit, it was noted that Kenidi had a low grade fever and was taking breast milk by bottle 10 oz yesterday drank well here.",0
+"On physical examination everything is marked normal, including neurologic, with the sole exception being abdomen, which is marked abnormal.",0
+"Dr. Outland, who saw Kenidi during that visit, notes that she was Alert [and] smiling and has a wet mouth.",0
+"The diagnosis is lymphocytosis, bilateral serious otitis media, and possible urinary tract infection (UTI).",0
+"Pet.",0
+"Ex. 5 at 1;",0
+"On 8 December 1998, Kenidi was seen again at her pediatricians office.",0
+"The record from that visit indicates that Kenidi had been taken the night of 3 December 2006 to the emergency room at Baptist Hospital where she had been diagnosed possibly with colic and an x-ray had revealed elevated gas.",0
+"[fn-8] The record from the pediatric visit, penned by Dr. Wood, goes on to indicate colic is a lot [sic] worse and screams [and] cries all the time like in pain.",0
+"It was also noted that a urine culture showed evidence of multiple organisms.",0
+"Pet.",0
+"Ex. 5 at 2.",0
+"At the pediatrician visit, no ear infection was noted; however, there was a concern that Kenidi was sensitive to a medicine she had been given, Ceftil, and was also diagnosed with thrush.",0
+"Otherwise, on physical examination, all indicia are marked normal including neurologic.",0
+"Kenidi's medication was changed, and she was given medicine for colic.",0
+"[fn-9] Pet.",0
+"Ex. 5 at 2.",0
+"On 11 December 1998, Kenidi was taken to Children's Hospital with seizure activity involving nervous twitch of [right] arm.",0
+"Intermittent back arching [with] head, eyes rolling back.",0
+"Pet.",0
+"Ex. 6 at 1.",0
+"The medical history taken on admission notes that Kenidi showed symptoms of an upper respiratory infection (URI) and otitis media three weeks ago for which she was treated with Biaxin.",0
+"She was having screaming spells and her medication was changed to ceftil.",0
+"She was having bad gas and given mylecon for that.",0
+"Four days prior to admission she got thrush and was taken off her medications and instead given diflucan as well as hyoscyamine.",0
+"At the hospital it was noted that Kenidi was afebrile and was awake alert in no acute distress and with good tone, grasp, suck.",0
+"Id. Thrush was also noted.",0
+"Id. The diagnosis on admission was prob[able] seizures vs infantile spasms.",0
+"Id.At the hospital, Kenidi was treated with phenobarbital which terminated the seizure activity.",0
+"She was admitted to Children's Hospital on 12 December 1998.",0
+"She continued to seize intermittently over the next two days.",0
+"These were similarly treated with phenobarbital and came under control.",0
+"She had no more seizures thereafter.",0
+"Pet.",0
+"Ex. 6 at 22.",0
+"Kenidi was kept at Children's Hospital from 12 December through 19 December 1998.",0
+"Pet.",0
+"Ex. 6 at 21.",0
+"A note from 12 December 1998 indicates that the history taken on admission is somewhat confusing in that Kenidi was well until 3 week ago when had onset cough, URI [symptoms], treated [with] Robitussin [and] Biaxin, then developed some episode of pain, felt to be due to gas, Then yesterday had onset [symptoms] which sound generalized tonic.",0
+"Her parents do feel that mental status has been different even the past 3 weeks.",0
+"Pet.",0
+"Ex. 6 at 3.",0
+"The notes from 12 December 1998, also indicate that Kenidi was sleeping but arousable and moved eyes [illegible] moving all extremities, good tone [and] build.",0
+"Id. at 3.",0
+"Numerous tests were conducted while Kenidi was with Children's Hospital.",0
+"A CT scan conducted 12 December 1998 revealed the following: Abnormal low attenuation seen diffusely throughout the brain as described above.",0
+"The differential would include the sequela of diffuse infection to include herpes symplex virus, diffuse hypoxic ischemic injury [fn-10] which would not be acute but would be postulated to have occurred within the third trimester with perinatal or early natal, and metabolic etiologies.",0
+"Pet.",0
+"Ex. 6 at 14.",0
+"This abnormal scan prompted the medical staff in the direction of a metabolic disorder and numerous studies commenced thereto.",0
+"In one test, Kenidi demonstrated high elevation of her serum lactic acid.",0
+"Repeat testing confirmed this elevation.",0
+"An EEG conducted 14 December 1998 showed diffuse slowing in both hemispheres with some sharp waves noted during the sleep portion.",0
+"No seizure was witnessed clinically or eletrographically on the EEG.",0
+"Pet.",0
+"Ex. 6 at 16.",0
+"An MRI conducted 14 December 1998 showed a diffuse symmetric process involving gray and white matter.",0
+"Overall it was felt that the test revealed [s]ome features of a severe hypoxic ischemic event (anoxia).",0
+"Pet.",0
+"Ex. 6 at 17.",0
+"Based on that MRI, the neurologists felt it to be a convincing feature of mitochondrial disorder such as Lee [sic] disease, and based on the MRI finding and the high lactate level, that was believed to be the diagnosis at the time.",0
+"Id. at 23.",0
+"A battery of tests were performed to rule out infectious diseases and other causes.",0
+"A skin biopsy was sent off to check for fibroblasts, and blood work was sent out to a lab in Atlanta for evaluation concerning a mitochondrial disorder.",0
+"Meanwhile, an opthamological exam and a skeletal exam was conducted regarding the possible hypoxic ischemic event shown on the CT scan.",0
+"The opthamological exam revealed no hemorrhage and was a normal retina exam.",0
+"Pet.",0
+"Ex. 6 at 48.",0
+"The skeletal exam was likewise negative.",0
+"Pet.",0
+"Ex. 6 at 23.",0
+"This hypoxic-ischemic event was ruled out on discharge.",0
+"It was recommended that Kenidi follow up with the neurologist Dr. Rutledge and with her pediatrician.",0
+"Id. at 24.",0
+"The diagnosis on discharge 19 December 1998 was inborn error of metabolism – probable Leigh's [disease].",0
+"[fn-11] Id. 6 at 2.",0
+"The next medical record on file with the Court is from 1 February 1999, at which time Kenidi was electively admitted to the University of California at San Diego Medical Center for evaluation in a study being conducted by Dr. Richard Haas on lactic acidemia.",0
+"[fn-12] Pet.",0
+"Ex. 7 at 4.",0
+"She was referred by Dr. Rutledge for probable leigh syndrome.",0
+"Pet.",0
+"Ex. 7 at 21.",0
+"The history taken there indicates the following: At age 3 months, she developed a URI and cough with lymphocytosis but no fever.",0
+"The patient was treated with Cefzil, Biaxin, IM ceftriaxone as well as Robitussin with codeine cough syrup.",0
+"The patient developed thrush which was treated with Nystatin and then fluconazole.",0
+"Two weeks into the illness, she stopped smiling, developed very poor suck, began having periods of arching.",0
+"She was seen in the emergency department and diagnosed with colic . . .",0
+"Three weeks into the illness, she developed episodes of eyes rolling back, head turning to the right, movements of the arms and sucking motions lasting three to five minutes.",0
+"She was seen in the emergency department and admitted for seizures.",0
+"Id. at 21, 49 (emphasis added).",0
+"The history indicates that Kenidi's seizures were under control until ten days before admission to the UC San Diego Medical Center, when they changed to brief jerks concurrent with the raising of both arms, upper body [and] head turns to [right], occasionally a small vocalization, occur in clusters lasting up to 5 minutes, occur upon awakening [and approximately] every 2 hours throughout day, have become more frequent over the last 10 days.",0
+"Id. at 22.",0
+"Numerous tests were conducted while Kenidi was at the University of California’s Medical Center.",0
+"DNA and other lab studies were unhelpful.",0
+"Pet.",0
+"Ex. 7 at 19-20, 55-87.",0
+"An EEG showed findings consistent with the diffuse encephalopathy and a clinical seizure disorder.",0
+"Id. at 43.",0
+"Standing out in particular, an MRI conducted 4 February 1999 demonstrates, when compared to her previous MRI scan, severe brain atrophy with diminution of size between one-fourth and one-third of the brain mass since December.",0
+"Id. at 48 (emphasis added).",0
+"Severe brain atrophy. ",0
+"Id. at 49.",0
+"Kenidi was advised to follow up with Dr. Rutledge and with a Dr. Jeffrey Simon who is listed as her primary care physician.",0
+"Id. at 49.",0
+"A medical notation from her 8 February 1999 visit to Dr. Elias Gutierrez with the Bio Medical Center in California does note that Kenidi received several vaccinations before the symptoms appeared: hepatitis,, [sic] trippe vaccine and others.",0
+"Pet.",0
+"Ex. 8 at 3.",0
+"A letter from Dr. Gutierrez dated 17 December 1999 indicates, In our opinion, her problem was triggered by the simultaneous application of five immunization dosis (sic) when she was 3 month old.",0
+"Pet.",0
+"Ex. 8 at 8.",0
+"On 16 February 1999, Kenidi was admitted to the Baptist Hospice with a primary diagnosis of Leigh's disease and a secondary diagnosis of elevated lactic acid.",0
+"Pet.",0
+"Ex. 9 at 1.",0
+"The history at intake indicates that Kenidi [b]egan having seizures at 2 [months] 3 [weeks] of age.",0
+"Id. at 1a.",0
+"A chronology indicates the following: 11/27/99 ?",0
+"Seen for ear infection - Auralgan, tylenol 12/3/98 Seen for crying, fussy, stomach cramps, cefzil, lymphoglosis, possible UTI 12/3/98 Seen at ER - x-rays - gas 12/8/98 Seen for screaming, crying all the time like in pain - nystatin for thrush 12/12/98 Hospitalized - history of problems beginning three weeks earlier with cough that lasted 6-7 days, then onset of episodes where she was screaming in pain, then two weeks into the course, abnormal movements, then on 12/11/98, stiffening, head rolling . . .",0
+"It appears that the first manifestation of problems began either on 11/27/98 or 12/3/98, which are remote in time from the 11/18/98 vaccinations.",0
+"There is no history of anything occurring within 3 days of the DTP shot.",0
+"Id. at 3 (emphasis added).",0
+"On 1 December 1999, Kenidi was seen at Children's Rehabilitation Services.",0
+"At that visit, Dr. William Watson notes that she has a diagnosis suggestive of Leigh's Disease.",0
+"The people in California are not convinced that it is Leigh's Disease.",0
+"Pet.",0
+"Ex. 10 at 1.",0
+"And on 9 June 2000, a muscle biopsy was obtained for further testing.",0
+"It is noted to be an [e]xtremely tiny specimen, and [b]ecause of the limited size, only cross section of tissue was submitted for frozen section cuts.",0
+"Pet.",0
+"Ex. 11 at 1.",0
+"The muscle biopsy showed essentially normal findings and no histological feature indicative of a mitochondrial disorder.",0
+"Id.Subsequent records indicate that Kenidi was a very sick little girl who struggled with a neuro- degenerative condition and seizure disorder that eventually took her life.",0
+"Despite extensive testing, a definitive diagnosis for her condition has never been identified.",0
+"DISCUSSION.",0
+"What concerns the Court at this juncture is the question of what can be found, by preponderant evidence, to have occurred from the time Kenidi received the DPT vaccination to the time she was hospitalized on 11 December 1998 with seizure activity and, as will be discussed at length infra, whether those findings are attributable to the vaccination in question.",0
+"In this case, there is no doubt, as the bard said, Something is rotten in the state of Denmark.",0
+"Hamlet, Act I, Scene 4.",0
+"Obviously, Kenidi's parents believed their daughter was ill and therefore took her to the pediatrician beginning on 28 November 1998 and numerous times thereafter, culminating with her hospitalization with seizures on 11 December 1998.",0
+"However, there is a disconnect between the various factual asseverations and the contemporaneous medical records.",0
+"In such instances, only clear, cogent and consistent testimony can overcome the medical records.",1
+"The discrepancies between the medical records and among the fact witnesses' own averments are legion.",0
+"Whereas the parents describe a child who exhibited significantly diminished mental capacity almost immediately after the vaccine, no such indication is given in the medical records.",0
+"Mrs. Thomas avers that Kenidi had not moved, kicked, smiled or laughed since receiving the DPT vaccination and had begun nursing poorly.",0
+"Mr. Thomas says much the same.",0
+"Yet, records from the pediatrician's office, visited by the Petitioners on several occasions between 28 November 1998 and 8 December 1998, gave no such indication.",0
+"On physical examination neurological is marked normal.",0
+"And the child was noted to be alert and smiling.",0
+"While she is noted to have only taken 20 ounces the day before, Kenidi was eating well here with a moist mouth.",0
+"Even upon hospitalization on 11 December 1998, Kenidi was observed to be awake and alert with good grasp, tone, and suck.",0
+"And yet, the parents did tell personnel at the hospital that Kenidi's mental status has been different even over the past 3 weeks.",0
+"But such timing is also concurrent with a possible URI and a severe cough three weeks prior.",0
+"Mrs. Thomas testified that she took Kenidi to the doctor on 28 November 1998 not because she felt her daughter had diminished mental capacity but because she had a severe cough.",0
+"At that visit, Kenidi was also diagnosed with an ear infection.",0
+"Many other histories taken contemporaneously indicate that Kenidi's history, though somewhat confusing, began three weeks prior to her hospitalization with a URI and cough.",0
+"She was later diagnosed with numerous other conditions including colic.",0
+"In this case, the fact witness testimony is neither clear nor cogent.",0
+"Regarding the timing of Kenidi's seizure activity, Petitioners claim that it began as early as Friday, 20 November 1998.",0
+"Though nowhere to be found in her original affidavit, in her first supplemental affidavit, Mrs. Thomas says that, on Friday, 20 November 1998, her husband picked Kenidi up from daycare, and, later that night she came home to find him calling the pediatrician's office while Kenidi was arching her back and screaming in pain.",0
+"In his original affidavit, however, Mr. Thomas makes no such indication.",0
+"Rather, he indicates that, when he came home on 20 November 1998, he noted that Kenidi did not seem her usual self.",0
+"Instead, that night she began the episodes where she would cry, arch her back, put her hands over her head, and roll her eyes back.",0
+"Yet, while both Mr. and Mrs. Thomas accompanied Kenidi to the doctor's office on 28 November 1998, neither of them made mention of these unusual and dramatically-described activities.",0
+"And in fact, it was not until trial that Mr. Thomas first claimed to have picked Kenidi up from daycare the afternoon of 20 November 1998, and at which time he claims to have observed some very abnormal activity on her part.",0
+"As for the daycare owner, Mrs. Hill, she seemed rather imprecise as to the timing of specific events.",0
+"In fact, she thought it was on Friday, 11 December 1998, rather than on Friday, 20 November, that she called Mr. Thomas to come retrieve Kenidi who was exhibiting suspected seizure movements.",0
+"Numerous other inconsistencies are patent on the face of the parental testimony.",0
+"That is not to say that the Court believes Petitioners to have been in any way disingenuous.",0
+"Rather, it appears to the Court that, given the passage of time and the pendency of this suit, by and large the parents may well have conflated the events encapsulated in those three weeks prior to hospitalization and in particular the night of Friday, 20 November 1998, with the night of Friday, 11 December 1998.",0
+"Granted, the child appears to have been quite ill during that time frame, as is evidenced by the medical records filed.",0
+"But as regards the contemporaneous medical records, where there are inconsistencies between these and fact witness testimony, such can only be overcome by clear, cogent and consistent testimony explaining the discrepancy.",1
+"The Court finds the parental testimony neither clear, cogent nor consistent.",0
+"Therefore, those elements of their asseverations inconsistent with the contemporaneous medical records are accorded lesser weight.",0
+"The medical records describe a child with a URI and a cough who presented to her pediatrician for the first time on 28 November 1998 with crying, stomach cramps and ultimately an ear infection.",0
+"On 3 December, that condition was upgraded to a bilateral serious otitis media along with lymphocytosis and a possible UTI.",0
+"That night, an x-ray performed at an emergency room revealed elevated gas.",0
+"And on 8 December 1998, it was noted that, while the ear infection had resolved, Kenidi's colic was a good deal worse and she was screaming as though in pain.",0
+"During that visit, Kenidi was also diagnosed with thrush.",0
+"These records do not indicate a child who is neurologically compromised or who is uncontrollably and inconsolably screaming with back arching, eyes rolling back, or anything of that nature.",0
+"Rather, these records indicate a child who is crying and fussy and sometimes screaming but also indicate a child with a serious ear infection, a possible URI with a serious cough, possibly a UTI and colic.",0
+"This medical course paints the picture of an unwell child that would certainly have concerned first-time parents or any parents for that matter.",0
+"No doubt due to these conditions, Kenidi was perceived to be unwell and difficult to console.",0
+"Even without the intervening Thanksgiving holiday, the Court has no difficulty believing that, what with the illnesses and several doctors visits, Kenidi spent little time at daycare and that the parents may well have been called several times to pick her up early.",0
+"However, as to what is perhaps a key element in this case, the Court is not persuaded that Kenidi exhibited a significant diminution of her mental capacity immediately following vaccination as described by the parents.",0
+"Those claims are not consistent with the medical records.",0
+"To the parents, it may well have seemed that their ill child had diminished capacity, but such is not noted by the trained health care providers who observed Kenidi contemporaneously, nor by the histories given to those providers.",0
+"One record goes so far as to say [t]here is no history of anything occurring within 3 days of the DTP shot.",0
+"Pet.",0
+"Ex. 9 at 3.",0
+"Therefore, the Court is not persuaded that Kenidi's seizure activity began on 20 November 1998.",0
+"In fact, from the medical records presented, it appears, at the outermost, that abnormal movements may have been spotted a week before Kenidi was hospitalized and that the first manifestation of her seizure disorder occurred on 11 December 1998.",0
+"When the Court finds, as it does here, that parental testimony is not credible, it does not mean the Court doubts the veracity of the statements; rather, the Court may be forced to conclude that the parents’ recollections are imprecise as to the specific timing of particular events.",1
+"Put another way, when the Court does not accept certain statements or facts, it does not mean those statements or facts are necessarily untrue.",1
+"Rather, it may means there is not enough evidence for this Court to conclude that such may be relied upon when making a decision.",1
+"In fine, the medical records filed by the Petitioners contain little corroboration of their allegations.",0
+"Pediatrician Dr. Brannon saw the child on 28 November 1998 and reported no indicia of neurological deficiency; neither did pediatrician Dr. Outland who saw her on 3 December 1998; neither did the emergency room staff who saw her the evening of 3 December 1998; neither did pediatrician Dr. Wood who saw her 8 December 1998.",0
+"And of the medical records that document the course of her condition after the manifestation of seizures on 11 December 1998, there is perhaps only one medical provider contained therein, excepting Petitioners' expert of course, who hypothesizes a possible connection between Kenidi's vaccination and her subsequent medical course.",0
+"Dr. Gutierrez claims her condition was triggered by the simultaneous application of five immunization dosis (sic) but who, unfortunately for Petitioners, fails to provide a basis for that opinion or to lay blame specifically at the feet of the DPT vaccine.",0
+"D. MEDICAL OPINIONS.",0
+"According to the Vaccine Act, the Court may not hold in favor of the Petitioners based on their asseverations alone; rather, the claim must be substantiated either by medical records or by medical opinion. § 13(a)(1).",1
+"As the medical records in this case do not substantiate their claim, the Petitioners here must rely on medical opinion.",0
+"The Petitioners offer a written and supplemental opinion as well as live testimony from Dr. Jean-Ronel Corbier.",0
+"Dr. Corbier is certified in neurology with special qualification in child neurology.",0
+"As of the time of the original hearing in 2005, Dr. Corbier had practiced pediatric neurology for 4 1/2 years.",0
+"He is a member of numerous professional organizations and in addition to his schooling at Michigan State University studied in pediatrics, adult and child neurology in various locales and did additional training at Johns Hopkins University and the Mayo clinic in Minnesota.",0
+"Dr. Corbier was Kenidi's treating neurologist from 2002 till she died.",0
+"The Respondent offered a written opinion followed by two supplements, as well as live testimony, from Dr. Max Wiznitzer.",0
+"Dr. Wiznitzer, presently with Rainbow Babies and Children's Hospital in Cleveland, Ohio is a child neurologist with board certifications in pediatrics, neurology with special competence in child neurology, and in neuro-developmental disabilities.",0
+"He has practiced pediatric neurology for twenty years and is a respected specialist in neural developmental disabilities, a field which includes a broad spectrum of disorders including autism, ADHD, stroke and chromosomal disorders.",0
+"Hearing Transcript, 20 May 2005, (Tr. II) at 177-79.",0
+"DR. CORBIER.",0
+"Dr. Corbier presents several alternate theories throughout the course of his participation in these proceedings.",0
+"First, he alleges that the DPT vaccination resulted in the Table Injury known as an acute encephalopathy.",0
+"His opinion regarding the Table injury is based on the parental asseverations regarding her mental status in the 72 hours post-vaccination.",0
+"He finds the behavior they described, which included inconsolable crying alternating with staring into space, arching of the back, pulling her arms above her head, and rolling her eyes back, as well as a blank expression on her face and a glazed-over look that lasted several days, and failing to make eye to eye contact, to be consistent with an acute encephalopathy.",0
+"Tr. I at 104, 112.",0
+"Regarding the pediatricians and other health care providers who saw Kenidi between the time of vaccination and hospitalization, Dr. Corbier explains that it is all too easy for a general practitioner to mistake the signs of seizure activity and in particular to mis-diagnose the onset of certain seizure disorders as colic which he described as a a waste basket term for an infant who is crying and with no other apparent reason.",0
+"Tr. I. at 128.",0
+"And he is not overly impressed with an x- ray's utility as a diagnostic tool for colic.",0
+"Id. at 128, 142.",0
+"According to Dr. Corbier such a mis-diagnosis is actually a common occurrence, especially for infants or small children, simply because seizures often present in non-specific ways in young children, such as staring, or tonic stiffening, that often can be mislabeled as something else.",0
+"Id. at 106.",0
+"When presented with Dr. Outland's record from 3 December 1998 which indicates the child was alert and smiling, Dr. Corbier avers that, considering the picture as a whole, it does not appear accurate for the doctor to have described Kenidi in that manner.",0
+"Id. at 112.",0
+"[W]hen she makes the comment that the child is alert and smiling, that would entail that the child was normal neurologically.",0
+"And I don't know if for a brief period of time the child appeared better or less fussy than before.",0
+"But that statement, if it implies that the child is neurologically intact, it might be a little misleading if it is based on just a few seconds of observation.",0
+"Id. at 110 (emphasis added).",0
+"Regarding Kenidi's trip to the emergency room at Children's Hospital on 11 December 1998 with subsequent admission on 12 December, he agrees that the initial notation by medical personnel, there that Kenidi wasawake alert in no acute distress and with good tone, grasp, suck, does indicate that Kenidi appeared normal to the medical examiner.",0
+"Id. at 145;",0
+"Pet.",0
+"Ex. 6 at 1.",0
+"While Dr. Corbier maintains that Kenidi suffered an acute encephalopathy defined in the Vaccine Injury Table, 42 C.F.R. §100.3, he later acknowledges that this opinion is based not on any objective medical records but solely on the testimony of the family.",0
+"Id. at 139.",0
+"In the alternative, Dr. Corbier maintains that the DPT vaccine caused in fact Kenidi's neuro- degenerative condition with seizure disorder.",0
+"As he explains: My opinion is based on all the investigations that were done to try to identify a specific cause for her encephalopathy, given the temporal relationship with the DPT vaccine, and given that she had a completely normal perinatal course, that the DPT vaccine more likely than not caused the chronic encephalopathy, acute and chronic.",0
+"Tr. I at 113.",0
+"Therefore, according to Dr. Corbier, while her condition bore resemblance to several clinical pictures, including an inborn error of metabolism, because these were ruled out by medical tests, the vaccination more likely than not caused her condition and death.",0
+"He elaborates on his position a bit.",0
+"First, the high Apgar scores seem to eliminate an insult encountered perinatally.",0
+"Tr. I at 114.",0
+"Moreover, there is no evidence of trauma or of infectious disease.",0
+"Id. In addition, all work ups for metabolic disorders, which are a big category in Dr. Corbier's words, were inconclusive.",0
+"Id. He agrees that lactic acidosis is a hallmark of a metabolic and particularly a mitochondrial disorder.",0
+"However, none such was identified.",0
+"The muscle biopsy, which is very important in identifying mitochondrial disorders, was negative.",0
+"Id. at 114, 117.",0
+"In addition, Dr. Corbier ran his own tests and repeated some tests.",0
+"He could identify no specific etiology.",0
+"Id. at 115.",0
+"And he believes it very likely that Kenidi did not have Leigh's disease.",0
+"Id. at 119.",0
+"While Kenidi carried a diagnosis of Leigh's disease to her death and while her clinical picture bore a close resemblance to that condition, Dr. Corbier felt that such had been eliminated as an explanation by the muscle biopsy testing, even though it was done with a limited sample, and even more so by subsequent DNA testing.",0
+"Id. at 154-56, 159.",0
+"According to Dr. Corbier, any potential cause known then to science had been tested for and had been ruled out.",0
+"[S]he had seen all the appropriate specialists.",0
+"She had both non-evasive [sic] and evasive [sic] tests specifically to try to identify a particular condition that might explain her neuro-degeneration.",0
+"She had something that was a very significant insult of some sort to the brain, and you should see some type of red flag or hallmark that could lead you to a certain direction.",0
+"I think that Leigh's was probably the strongest possible lead at the time based on her MRI appearance, and her clinical course, and the detailed analysis was not able to confirm that.",0
+"Tr. I at 161.",0
+"Hence, for lack of an alternate cause and given the close temporal relationship between the DPT vaccination and the onset of her injury and knowing what I know about the association, and in rare cases causing chronic encephalopathy, I reached the conclusion that it is more likely than not that the DPT caused the acute and chronic encephalopathy.",0
+"Id. at 115.",0
+"According to Dr. Corbier, Kenidi suffered an acute encephalopathy that persisted, and then became a chronic encephalopathy, leading to her ultimate demise.",0
+"Id. at 120.",0
+"And, therefore, he concludes: In Kenidi's case, I think responsibly from a diagnostic standpoint, before one would say, okay, it is the DPT, and it seems temporally related, would be to rule out other conditions that can present similarly, whether it is infection, metabolic, mitochondrial genetic.",0
+"And if you can't find any cause, then at the very least I would say it is more likely than not that this event that triggered that insult caused the acute and subsequent encephalopathy.",0
+"Id. at 123.",0
+"On questioning by the Court, Dr. Corbier elaborates that a viral infection, such as is possibly identified by the URI and severe cough, would not usually cause seizures in a child under five months absent some additional indicia such as a febrile seizure or indication that such had gained access to the central nervous system à la herpes encephalitis.",0
+"Id. at 129-30.",0
+"The medical tests, including a spinal tap, showed no such viral infection.",0
+"And yet, Dr. Corbier does acknowledge that a viral illness could trigger the manifestation of an underlying condition, as explained in the following dialogue on cross examination: Question: . . .",0
+"Isn't it true that viral infections can trigger underlying neuro-degenerative disorders to manifest themselves?",0
+"Answer: . . .",0
+"So it is possible, at least in a subset of individuals of children that they can have an underlying abnormality, whether it is metabolic, genetic, that awakes an external environmental trigger to cause the chain of reaction.",0
+"Question: And one of those environmental triggers could be a viral infection?",0
+"Answer: Yes, it could be a viral infection, although if it is a viral infection, usually you -- with a viral infection, it is just to set the ball in motion if you will.",0
+"Id. at 161-62.",0
+"Dr. Corbier believes the back arching exhibited by Kenidi was indicative of a tonic seizure.",0
+"[fn-13] Usually during such seizures the infant is non-responsive, but at times they may exhibit some crying.",0
+"Id. at 130.",0
+"However, Dr. Corbier acknowledges those symptoms could also be attributable to other, non-neurological problems.",0
+"Absent EEG evidence, there is no way to tell.",0
+"Id. at 131.",0
+"Nevertheless, his opinion is that these episodes were more likely than not a combination of seizure activity, and also of an encephalopathy, because an encephalopathy irritates the brain, and can cause screaming, arching, and so forth.",0
+"Id. at 135.",0
+"Similarly, Dr. Corbier indicated that, while he had some concern that Kenidi took only ten ounces of fluid on 2 December 1998, which is based on Dr. Outland's notation, that lack of intake could also have been related to the ear infection and possible UTI.",0
+"Id. at 140.",0
+"Regarding the CT scan taken 12 December 1998, Dr. Corbier agreed that its findings were not consistent with an acute insult.",0
+"Tr. I at 147.",0
+"Explaining in more detail, Dr. Corbier says, If you see lesions that are very dark, the darker it is, it means the longer the lesion could have been.",0
+"It doesn't tell you exactly when, but that it was there for a period of time.",0
+"Id. at 149.",0
+"However, he later states that he has seen cases, particularly with viral encephalitis, where an acute insult causes changes in the brain that appear to have been a chronic insult.",0
+"Id. At 154-55.",0
+"In formulating his opinion, Dr. Corbier relies in part on studies done by the Institute of Medicine with reference to the one large scale study of DPT conducted under the National Childhood Encephalopathy Study in England.",0
+"After reviewing the NCES study and its follow up, the IOM concludes there is insufficient evidence to indicate a causal relation between DPT vaccine and afebrile seizures, permanent neurologic damage, or chronic nervous system dysfunction.",0
+"Pet.",0
+"Ex. 34 at 18;",0
+"Pet.",0
+"Ex. 39 at 15.",0
+"And yet, according to Dr. Corbier, while the IOM cannot prove a causal connection, neither can it eliminate a connection.",0
+"In fact, Dr. Corbier explains that, according to the Institute of Medicine (IOM) studies of pertussis, there are three likely scenarios in which DPT could cause lasting brain damage: One is where a normal child after being exposed to pertussis would develop acute and subsequent chronic encephalopathy.",0
+"The second scenario that they posit would be a situation where there may be an underlying brain disfunction or metabolic problem, and a pertussis toxin, for example, might be a trigger.",0
+"But for that matter, another trigger can exist.",0
+"And a third possibility is that there could be an underlying, say metabolic or neurological, problem, that itself could then result in a chronic problem.",0
+"Id. at 122.",0
+"However, Dr. Corbier acknowledges that, as stated in the IOM report, In particular, it should be noted that the chronic nervous system dysfunctions associated with DPT followed a serious acute neurologic illness that occurred in children within 7 days after receiving DPT.",0
+"Pet.",0
+"Ex. 39 at 16 (emphasis added).",0
+"The Court next heard from Dr. Corbier in conjunction with the testimony offered from Respondent's expert.",0
+"At that time, Dr. Corbier indicated the following: As far as possible underlying metabolic problems in Kenidi, it is my opinion that there was something that was underlying to begin with.",0
+"However, the question is could the vaccine, and in particular pertussis, could she have been susceptible to that.",0
+"Tr. II at 263.",0
+"In his opinion, the DPT vaccination was an aggravating factor, or, in other words: [I]t is my position that in someone who is susceptible genetically, metabolically, that certain outside triggers, environmental triggers, including pertussis, even though it may occur very rarely, can cause neuro[-]degenerative problems that can resemble either metabolic problems, hypoxic ischemic problems, or encephalopathy, like a herpes encephalopathy, which could also devastate various brain regions.",0
+"Tr. at 265.",0
+"DR. WIZNITZER.",0
+"Opining at the behest of Respondent, Dr. Wiznitzer avers that, while adverse reactions have been associated with the DPT vaccination, Kenidi's condition is not consistent with any such known reaction, including an acute encephalopathy as defined by the Vaccine Injury Table, but is most consistent with a neuro[-]degenerative disorder that comes with an inborn error of metabolism.",0
+"Tr. II at 218.",0
+"According to Dr. Wiznitzer, there is no evidence in the medical records that Kenidi suffered an acute encephalopathy as set forth by the Vaccine Injury Table.",0
+"The physical examination from December 3rd does not describe a child with any type of encephalopathy.",0
+"If you are alert and smiling, there are several things going on.",0
+"Alert means that you are fully conscious of what is going on around you, and smiling in a child this age means that you are aware of individuals in your environment, and you are smiling at them.",0
+"So in other words, it is not just that you are smiling, but that you are doing something with them.",0
+"So that is not consistent with a description of an encephalopathy that would fall within the table.",0
+"Tr. II at 183.",0
+"He also notes that the chid was seen at an emergency room the night of 8 December 1998 and was sent home.",0
+"Whereas, if the child had an injury that fit the Vaccine Table, she should never have been sent home.",0
+"Id. at 187.",0
+"Furthermore, according to Dr. Wiznitzer, a pediatrician is well-equipped to identify an acute encephalopathy or a significant decrease in your level of consciousness that would entail being admitted to hospital because their stock in trade is basically identifying when a child is sick.",0
+"Tr. II at 186.",0
+"And when the child was hospitalized, it was not due to a decreased level of consciousness but rather because she was having seizures.",0
+"At the hospital, it was noted that Kenidi was awake and alert and with good grasp and suck.",0
+"Id. at 189.",0
+"Dr. Wiznitzer disagreed with the prior assessment that Kenidi's episodes of back arching and screaming were seizures.",0
+"According to Dr. Wiznitzer, children do not scream during a seizure event.",0
+"And so a description of Kenidi with back arching and screaming is more indicative of opisthotonos, [fn-14] which can occur if a child is irritable.",0
+"And here there is evidence that Kenidi had colic.",0
+"In addition, the episodes described do not match the seizures identified on 11 December 1998 or thereafter which involved stiffening with her head turned to the side and twitching in her extremities.",0
+"Id. at 192.",0
+"Dr. Wiznitzer referenced the imaging studies conducted on Kenidi soon after hospitalization and showed the Court and those present the significant abnormalities contained therein.",0
+"Id. at 194- 95.",0
+"Had these abnormalities been caused by an acute insult which took place on or about 18 November 1998 as hypothesized by the Petitioners, Dr. Wiznitzer believes the child should have appeared significantly impaired or have been comatose.",0
+"Id. at 196-97.",0
+"Instead, Dr. Wiznitzer hypothesizes that whatever it was – a mitochondrial disorder, an inborn error of metabolism, or some other biochemical defect of the brain – had been gradually gnawing away at Kenidi's brain such that she appeared well until the time of her hospitalization.",0
+"Id. at 197-98.",0
+"According to Dr. Wiznitzer, the seizures Kenidi first documented on 11 December 1998 did not cause the abnormalities seen on neural imaging but rather resulted from those abnormalities.",0
+"Id. at 198.",0
+"The areas of the brain that are abnormal on imaging are not those that are typically damaged by seizures.",0
+"Id. at 199.",0
+"Moreover, damage related to DPT is not known to be degenerative.",0
+"In Kenidi's case, the treating physicians felt they were dealing with a neuro-degenerative condition; however, with DPT insults, the course is an acute insult whose results are worst at the outset and which gradually improve.",0
+"With Kenidi, however, she grew progressively worse and eventually died.",0
+"Id. at 203.",0
+"In addition, Dr. Wiznitzer expressed some concern that the definitive test for mitochondrial disorders had not been conducted.",0
+"As the muscle biopsy conducted on Kenidi resulted in an extremely small sample, a microscopic study was done on it which was negative, but they apparently did not send the sample off for certain enzyme testing.",0
+"And, instead, the only mitochondrial testing that was done was a check of the mitochondrial DNA which can demonstrate some, but not all, abnormalities.",0
+"Id. at 220-21.",0
+"According to Dr. Wiznitzer: The definitive test, which was the test of the oxidative phosphorylation and the respiratory enzymes, to my knowledge is not documented in the record.",0
+"Yet, no one can say -- and forget about anything else that is going on.",0
+"Without that test available, you can't say that you have ruled out a mitochondrial disorder, even if this child did have or had had one.",0
+"Id. at 268.",0
+"In the opinion of Dr. Wiznitzer, Kenidi's condition is not really related to the vaccination at all.",0
+"This is an unfortunate confluence of an inborn error of metabolism that was going to happen one way or the other, but it became manifest at around the time of her vaccination, with the irritability that was described.",0
+"Id. at 210.",0
+"Dr. Wiznitzer originally postulated that Kenidi's condition was related to sulfite oxidase deficiency, an inborn error of metabolism that involves the mutation of the sulfite oxidase gene, and based his opinion on a test result which showed an elevated thiosulfate level 20 times higher than normal.",0
+"Id. at 202;",0
+"Pet.",0
+"Ex. 31 at 1579.",0
+"In addition, the imaging studies and clinical history were an exact match for sulfite oxidase deficiency.",0
+"Id. at 207.",0
+"However, on further consideration, and in light of further information received from other experts in the field, Dr. Wiznitzer withdrew the opinion regarding sulfite oxidase deficiency while still maintaining that Kenidi's neuro-degenerative disorder was related to an inborn error of metabolism.",0
+"Hearing Transcript, 25 April 2006, (Tr. III) at 7.",0
+"According to Dr. Wiznizter's additional testimony, the original imaging of Kenidi's brain could have been due either to an acute insult such as a severe hypoxic-ischemic event [t]hat could be due to stopping breathing, or having poor circulation for many reasons or due to an inborn error of metabolism.",0
+"Tr. III at 10.",0
+"Were Kenidi's injury were due to an acute insult, Dr. Wiznitzer testifies that the timing of such would have placed it at the end of November or early December and not circa 18 November 1998.",0
+"Tr. III at 16.",0
+"THE WITNESS: Something happened, we will just say, around the end of November, or the beginning of December.",0
+"I think that would be the best way of saying it.",0
+"THE COURT: All right.",0
+"So at the end of November, the beginning of December, something occurred, whatever that was.",0
+"THE WITNESS: Yes, something started to brew and continued to brew.",0
+"THE COURT: And it showed up probably on the 11th of December, if I am not mistaken.",0
+"The child was brought into a hospital then, and then shows up on the 12th of December with a CAT scan [sic], and on the 14th of December with an MRI, and people have been discussing what is the significance of that.",0
+"But everybody, I am presuming, would say that there is something rotten in Denmark.",0
+"THE WITNESS: Yes, sir.",0
+"Tr. III at 50.",0
+"Presumably one of the doctors who saw her during this period would have caught such an insult, which Dr. Wiznitzer previously stated would have resulted in immediate severe impairment or even a coma.",0
+"Instead, her clinical course is in no way consistent with an acute insult, but is consistent with an inborn error of metabolism.",0
+"Dr. Wiznitzer testified that he is only able to give a specific diagnosis to one-half or at best two-thirds of his patients who have inborn errors of metabolism because, in some instances, the gene that contributes to the error has not yet been identified.",0
+"Tr. III at 19.",0
+"While he cannot specify the inborn error of metabolism, yet Dr. Wiznitzer is of the opinion, more likely than not, that Kenidi's condition falls within the universe of inborn errors of metabolism.",0
+"Id. at 46.",0
+"However, as of her death, definitive testing was never done and now can never be done.",0
+"Id. at 48II.",0
+"CONCLUSIONS OF LAW.",0
+"In addition to factual findings, decisions issued by this Court must also include conclusions of law.",1
+"§12(d)(3)(A)(I).",0
+"According to the plain language of the Vaccine Act, Compensation shall be awarded under the Program to a petitioner if the special master or court finds on the record as a whole– (A) that the petitioner has demonstrated by a preponderance of the evidence the matters required in the petition by section 300aa-11(c)(1) of this title, and (B) that there is not a preponderance of the evidence that the illness, disability, injury, condition, or death described in the petition is due to factors unrelated to the administration of the vaccine described in the petition.",0
+"The special master or court may not make such a finding based on the claims of a petitioner alone, unsubstantiated by medical records or by medical opinion.",0
+"§13(a)(1).",0
+"Petitioners are valid legal representatives;",0
+"Additionally, the § 300aa-16(a) requirement that the petition be timely filed has been met.",0
+"The dispute rather is whether the Petitioners can demonstrate that Kenidi suffered an injury recognized by the Vaccine Injury Table, 42 C.F.R. § 100.3, (Vaccine Table or Table) within the statutorily prescribed time period or, in the alternative, that she sustained, or had significantly aggravated, any illness, disability, injury, or condition not set forth in the Vaccine Injury Table but which was caused by a vaccine referred to in subparagraph (A). § 11(c)(1)(C)(I) and (ii)(I).",0
+"A. LEGAL STANDARDS.",0
+"The Petitioners may prove entitlement to compensation under the Program in one of two ways.",0
+"They can prove entitlement via a statutorily prescribed presumption of causation or by proving that a vaccine caused in fact the injury alleged.",0
+"First, the Petitioners may prove that Kenidi's death resulted from an injury or condition listed in the Vaccine Injury Table.",1
+"If they establish by a preponderance of the evidence that Kenidi suffered such an injury within the statutorily-prescribed time period, they are entitled to a presumption of causation.",1
+"The burden would then shift to the Respondent to prove that the injury or condition is due to factors unrelated to the administration of the vaccine described in the petition. § 13(a)(1)(B).f the Petitioners do not qualify for the statutorily-prescribed presumption, they may yet prevail if they can demonstrate by preponderant evidence that the vaccination in question, more likely than not, caused the injury that led to Kenidi's death. § 11(c)(1)(C)(I) and (ii)(I).",1
+"Once again, if a petitioner is successful in that showing, the burden shifts to Respondent to prove that the injury or condition is due to factors unrelated to the administration of the vaccine described in the petition. § 13(a)(1)(B);",1
+"Whitecotton v. Secretary of HHS, 17 F.3d 374, 376 (Fed Cir. 1994).",0
+"TABLE INJURY.",0
+"Encephalopathy.",0
+"For purposes of the Vaccine Injury Table, a vaccine recipient shall be considered to have suffered an encephalopathy only if such recipient manifests, within the applicable period, an injury meeting the description below of an acute encephalopathy, and then a chronic encephalopathy persists in such person for more than 6 months beyond the date of vaccination.",0
+"Those children less than 18 months of age who present following a seizure shall be viewed as having an acute encephalopathy if their significantly decreased level of consciousness persists beyond 24 hours and cannot be attributed to a postictal state (seizure) or medication . . .",0
+"Decreased or absent response to environment (responds, if at all, only to loud voice or painful stimuli);",0
+"Inconsistent or absent responses to external stimuli (does not recognize familiar people or things).",0
+"Seizures in themselves are not sufficient to constitute a diagnosis of encephalopathy.",0
+"In the absence of other evidence of an acute encephalopathy, seizures shall not be viewed as the first symptom or manifestation of the onset of an acute encephalopathy.",0
+"In the present instance, the Petitioners claim that Kenidi suffered an acute encephalopathy following receipt of the DPT vaccination.",0
+"However, that claim is based on the Petitioners' asseverations alone and not on any objective medical records.",0
+"Even Petitioners' expert, Dr. Corbier indicates that his opinion in this regard is based solely on the statements made by the parents.",0
+"There is no indication either in the medical records or in the medical histories given contemporaneously that Kenidi suffered an acute encephalopathy within 72 hours of receiving the vaccination.",0
+"While the parents testify that such did occur, as has previously been indicated, the Court finds the parental recollections regarding the weeks following vaccination somewhat problematic.",0
+"It certainly appears that they have conflated certain occurrences.",0
+"Moreover, no clear or compelling rationale was offered for why, if the child did indeed suffer an acute encephalopathy, such was not observed by or reported to any of the several doctors who saw her between the time of vaccination and her hospitalization.",0
+"In addition, when Kenidi was hospitalized it was not due to a significantly decreased level of consciousness but rather due to the manifestation of seizure activity.",0
+"Under the Vaccine Act, this Court may not find in favor of the Petitioners based on their claims alone, unsubstantiated by medical records or by medical opinion.",1
+"§13(a)(1).",0
+"Here their claim is supported only by Dr. Corbier's opinion which, in turn, is based solely on their asseverations.",0
+"Regardless, while there are indications that the child was ill, was fussy and irritable, and was taken to the doctor on several occasions and even to the emergency room on 3 December 1998, the Court finds that Petitioners have not demonstrated by a preponderance of the evidence that Kenidi suffered an encephalopathy as defined by the Qualification and Aids to Interpretation within seventy-two hours following vaccination on 18 November 1998.",0
+"CAUSATION-IN-FACT.",0
+"While the Petitioners are not entitled to a presumption of causation afforded by the Vaccine Injury Table, they may yet prevail if they can demonstrate by a preponderance of the evidence that the vaccination in question, more likely than not, caused the injury leading to Kenidi's death.",1
+"[fn-15] See 11(c)(1)(C)(ii)(I) and (II);",0
+"Grant v. Secretary of HHS, 956 F.2d 1144 (Fed. Cir. 1992);",0
+"Strother v. Secretary of HHS, 21 Cl. Ct. 365, 369-70 (1990), aff’d, 950 F.2d 731 (Fed. Cir. 1991).",0
+"The Federal Circuit has indicated that every petitioner must: show a medical theory causally connecting the vaccination and the injury.",1
+"Causation in fact requires proof of a logical sequence of cause and effect showing that the vaccination was the reason for the injury.",1
+"A reputable medical or scientific explanation must support this logical sequence of cause and effect.",1
+"Grant, 956 F.2d at 1148 (citations omitted); see also Strother, 21 Cl. Ct. at 370.",0
+"However, merely showing an absence of an alternative cause of injury does not meet a petitioner's burden of proof.",1
+"Grant, 956 F.2d at 1149.",0
+"In addition, the Court cannot infer causation from temporal proximity alone.",1
+"In fact, it has been held, that where a petitioner's expert views the temporal relationship as the key indicator of causation, the claim must fail.",1
+"Thibaudeau v. Secretary of HHS, 24 Cl. Ct. 400, 403 (1991).",0
+"Rather, a petitioner must explain how and why the injury occurred.",1
+"Strother, 21 Cl. Ct. at 370.",0
+"After all, inoculation is not the cause of every event that follows.",1
+"Hasler v. United States, 718 F.2d 202, 205 (6th Cir. 1993), cert. denied, 469 U.S. 817 (1984).",0
+"That being said, where several potential causes present themselves, a petitioner need not show that the vaccination was the sole cause of the injury but may demonstrate that it was a substantial factor in causing the alleged injury which would not have occurred but for the vaccine.",1
+"Shyface v. Secretary of HHS, 165 F.3d 1344, 1352 (Fed. Cir.1999).",0
+"In addition, the Federal Circuit recently articulated an alternative three-part causation-in-fact analysis as follows: [Petitioners’] burden is to show by preponderant evidence that the vaccination brought about [the] injury by providing: (1) a medical theory causally connecting the vaccination and the injury;",0
+"Althen v. Secretary of HHS, 418 F.3d 1274, 1278 (Fed. Cir. 2005).",0
+"Furthermore, [R]equiring that the claimant provide proof of medical plausibility, a medically-acceptable temporal relationship between the vaccination and the onset of the alleged injury, and the elimination of other causes--is merely a recitation of this court's well-established precedent.",0
+"Id. at 1281.",0
+"While the Petitioners are not required to propose or prove that a specific biological mechanism can and did cause the injury leading to Kenidi's death, they must still proffer a plausible medical theory that causally connects the vaccine with the injury alleged.",1
+"See Knudsen v. Secretary of HHS, 35 F.3d 543, 549 (1994).",0
+"But even where a medical theory involves a sequence hitherto unproven in medicine, the purpose of the Vaccine Act's preponderance standard is to allow the finding of causation in a field bereft of complete and direct proof of how vaccines affect the human body.",0
+"Althen, 418 F.3d at 1280.",0
+"Not just any plausible medical theory will suffice.",0
+"In order to prevail under the causation in fact standard provided in Althen, a petitioner must demonstrate by preponderant evidence a reliable medical theory that links, via a logical sequence of cause and effect, the vaccination and the injury alleged, thereby showing that the vaccination was the reason for the injury.",1
+"Hence, though these Petitioners need not identify or prove that a specific biological mechanism occurred, Knudsen, 35 F.3d at 549, they cannot prevail simply by bootstrapping a plausible medical theory to their petition based solely on a proximate temporal relationship and lack of alternative causation.",0
+"Moreover, this Court has the obligation, in light of the ''gatekeeping function required by Daubert v. Merrell Dow Pharm.",0
+"Inc., 509 U.S. 579, 597 (1993), to assess the reliability of medical or scientific opinion or testimony and the logical sequence of cause and effect attendant thereto.",0
+"See, Terran v. Secretary of HHS, 195 F.3d 1302, 1316 (Fed. Cir. 1999); see also Ryman v. Secretary of HHS, 65 Fed. Cl. 35, 40 (2005) (a special master acts properly as a gatekeeper when he determines whether expert testimony may be admitted, credited, or otherwise relied upon).",1
+"In the present instance, the Petitioner's expert, Dr. Corbier, bases his opinion specifically on the lack of alternative causation identified in the records and on the temporal relationship between the vaccination and the onset of Kenidi's condition.",0
+"In his own words: My opinion is based on all the investigations that were done to try to identify a specific cause for her encephalopathy, given the temporal relationship with the DPT vaccine, and given that she had a completely normal perinatal course, that the DPT vaccine more likely than not caused the chronic encephalopathy, acute and chronic.",0
+"Tr. I at 113.",0
+"Yet, according to the Federal Circuit, a petitioner does not meet his burden of proof by showing a lack of alternative causation identified in the medical records.",1
+"And, as aforementioned, neither can this Court infer causation based on temporal proximity alone.",1
+"Therefore, Dr. Corbier's opinion must be based on more than just these grounds, else it will not suffice.",0
+"However, the Court is less than convinced by Dr. Corbier's reliance on the medical literature proffered.",0
+"Respondent's expert, and more importantly the Vaccine Injury Table, recognizes that certain adverse consequences can follow from DPT.",0
+"However, as this Court has found on numerous occasions and as is referenced in the medical literature, such injuries have been documented within seven days of vaccination and were marked by events that required hospitalization whether the child was actually hospitalized or not.",0
+"Kenidi was first seen by a medical care provider on 28 November 1998 and was seen for a severe cough rather than any diminished mental capacity.",0
+"At the next doctor's visit, on 3 December 1998, Kenidi was noted to be alert and smiling.",0
+"That is certainly not what one would expect if Kenidi suffered an encephalopathic insult from the 18 November 1998 DPT vaccination.",0
+"And there appears to be no support for such a sequence of events in the medical literature provided.",0
+"In addition, the Court questions the differentiation in Dr. Corbier's original testimony wherein the vaccine caused Kenidi's injury with his latter testimony wherein the vaccine was a potential trigger for a pre-existing, underlying condition.",0
+"In fact, Dr. Corbier indicated that a viral infection could also trigger the manifestation of an underlying disorder.",0
+"And there is evidence in the medical records, whether it reaches a preponderance or not, that Kenidi suffered from a possible upper respiratory infection concurrent with the severe cough and her doctor's visit on 28 November 1998.",0
+"As between these two alternatives, it is doubtful that the Court could say whether the vaccine was a but for cause or a substantial factor.",0
+"In fine, The Court finds Dr. Corbier's testimony in this regard too speculative and conjectural rather than based on any reliable medical or scientific evidence.",0
+"Concerning the testimony offered by Dr. Wiznitzer, the Court found it more credible, for the most part, than that proffered by Dr. Corbier.",0
+"Particularly as concerned the neural imaging results from 12 and 14 December 1998, and his explanations of such, the Court found most helpful.",0
+"As to his categorization of Kenidi's illness as an inborn error of metabolism, the Court found this argument persuasive, though of course no definitive diagnosis was ever made of her condition.",0
+"However, the Court does note its concern regarding Dr. Wiznitzer's allegation of sulfite oxidase deficiency as a potential alternative cause and the extensive delay that resulted while Petitioners sought to confirm or deny this diagnosis.",0
+"Yet, the Court will extend Dr. Wiznitzer the benefit of the doubt in that regard and will also note that such an evaluation, time-consuming as it may have been, was deemed critical with reference to Petitioners' future issue as this condition carries a one in four chance of being communicated thereupon.",0
+"Returning to the legal standard surrounding causation in fact, as stated by the Federal Circuit in Grant and then reiterated in Althen, a petitioner must show a medical theory causally connecting the vaccination and the injury.",1
+"Causation in fact requires proof of a logical sequence of cause and effect showing that the vaccination was the reason for the injury.",1
+"Grant, 956 F.2d at 1148;",0
+"Althen, 418 F.3d 1274, 1278.",0
+"Here the Petitioners have not demonstrated a medical theory causally connecting the vaccination and the injury, nor have they set forth a logical sequence of cause and effect showing that the vaccination was the reason for the injury.",0
+"Althen, 418 F.3d 1274, 1278.",0
+"As for the timing between the vaccination and the injury, Petitioners have presented little evidence beyond Dr. Corbier's opinion that such is a medically-acceptable temporal relationship.",0
+"Id. at 1281.",0
+"True enough, the Federal Circuit has indicated that treating physicians such as Dr. Corbier are likely to be in the best position to determine whether 'a logical sequence of cause and effect show[s] that the vaccination was the reason for the injury.'",1
+"Capizzano v. HHS, No. 00-759V, 2004 WL 1399178 (Fed. Cl. Spec.",0
+"Mstr.",0
+"However, aside from a cryptic reference by a Dr. Gutierrez, none of Kenidi's other treating physicians attributed her condition to the vaccination.",0
+"And while the Vaccine Act adjures the Court to consider any diagnosis, conclusion, medical judgment, or autopsy or coroner's report which is contained in the record regarding the nature, causation, and aggravation of the petitioner's illness, disability, injury, condition, or death, even so, it explicitly states that [a]ny such diagnosis, conclusion, judgment, test result, report, or summary shall not be binding on the special master but must be accorded proper weight in light of the entire record and the course of the injury, disability, illness, or condition. § 13(b)(1) (emphasis added).",1
+"The sort of post hoc ergo propter hoc [fn-16] reasoning offered by Dr. Corbier has been consistently rejected by the Court and is regarded as neither good logic nor good law.",0
+"Fricano v. U.S., 22 Cl. Ct. 796, 800 (1991).",0
+"Petitioners' alleged sequence of cause and effect, based predominantly on the parental asseverations and finding no purchase in the medical records, does not satisfy the preponderance of the evidence standard.",0
+"There is no dispute that Kenidi Thomas suffered from a neuro-degenerative disorder that manifested within the several weeks following vaccination and which eventually took her life in a manner most foul.",0
+"However, while we may never know in this life what caused Kenidi's death, the Court holds as a legal matter that the Petitioners have not demonstrated by preponderant evidence that her death was caused by the vaccine in question.",0
+"Hence the petition is denied.",0
+"§13(a)(1)(A).",0
+"In the absence of a motion for review filed pursuant to RCFC, Appendix B, the clerk is directed to enter judgment accordingly.",0
+"Footnote 1: Petitioners are reminded that, pursuant to 42 U.S.C. § 300aa-12(d)(4) and Vaccine Rule 18(b), a petitioner has 14 days from the date of this decision within which to request redaction of any information furnished by that party (1) that is trade secret or commercial or financial information and is privileged or confidential, or (2) that are medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of privacy.",1
+"Vaccine Rule 18(b).",0
+"Otherwise, the entire decision may be made available to the public per the E- Government Act of 2002, Pub.",0
+"L. No. 107-347, 116 Stat.",0
+"Footnote 2: The statutory provisions governing the Vaccine Act are found in 42 U.S.C. §§300aa-10 et seq.",0
+"Hereinafter, reference will be to the relevant subsection of 42 U.S.C.A. §300aa.",0
+"Footnote 3: Sulfite oxidase is a mitochondrial molybdoenzyme and [d]eficiency of enzyme activity, due to defect in the enzyme protein or to molybdenum cofactor deficiency (q.v.), results in progressive neurologic abnormalities, lens dislocation, and mental retardation.",0
+"DORLAND'S ILLUSTRATED MEDICAL DICTIONARY (30th ed.",0
+"Footnote 4: On 2 November 2006, Petitioners filed a second amended petition arguing that, as per the recent decision in Zatuchni v. Secretary HHS, 73 Fed. Cl. 451 (2006), should the Court hold in Petitioners' favor, damages to be awarded should include certain compensation allowable for a vaccine-related injury as well as the $250,000 death benefit.",0
+"While that argument is aptly made, as the Court does not find for Petitioners on the issue of causation, this question has not been reached.",0
+"Footnote 5: Lymphocytosis is excess of normal lymphocytes in the blood or in any effusion.",0
+"DORLAND'S ILLUSTRATED MEDICAL DICTIONARY (30th ed.",0
+"Footnote 6: BSOM stands for bilateral serious otitis media.",0
+"MEDICAL ABBREVIATIONS (12th ed.",0
+"Otitis media in layman's terms is an ear infection and, apparently in this case, a serious one affecting both ears.",0
+"Footnote 7: Cefril is an antibiotic that had been prescribed at a previous appointment.",0
+"Thrush is a condition in the mouth characterized by white plaques of soft curdlike material that may be stripped off, leaving a raw bleeding surface.",0
+"It usually affects sick or weak infants, individuals in poor health, immunocompromised patients, and less often those who have had treatment with antibiotics.",0
+"DORLAND'S ILLUSTRATED MEDICAL DICTIONARY (30th ed.",0
+"Footnote 8: The Petitioners presented no record of this emergency room visit.",0
+"Footnote 9: Colic is acute abdominal pain; characteristically, intermittent visceral pain with fluctuations corresponding to smooth muscle peristalsis, and infantile colic is defined as benign paroxysmal abdominal pain during the first three months of life.",0
+"DORLAND'S ILLUSTRATED MEDICAL DICTIONARY (30th ed.",0
+"Footnote 10: A hypoxic-ischemic encephalopathy is defined as an encephalopathy resulting from asphyxia.",0
+"In infants presumed to have suffered prenatal or perinatal asphyxia, common symptoms are lethargy, feeding difficulties, and convulsions; serious cases may involve necrosis of neurons in the brain with psychomotor retardation and spastic motor deficits such as cerebral palsy.",0
+"DORLAND'S ILLUSTRATED MEDICAL DICTIONARY (30th ed.",0
+"Footnote 11: Leigh's disease is defined as subacute necrotizing encephalomyelopathy which in the infantile form may be the same as pyruvate carboxylase deficiency, is characterized by degeneration of gray matter with necrosis and capillary proliferation in the brain stem; hypotonia, seizures, and dementia; anorexia and vomiting; slow or arrested development; and ocular and respiratory disorders.",0
+"Death usually occurs before age 3.",0
+"DORLAND'S ILLUSTRATED MEDICAL DICTIONARY (30th ed.",0
+"Footnote 12: Lactic acidemia or lactacidemia is an excess of lactic acid in blood; moderate elevations occur during heavy exercise, and severe elevations (lactic acidosis) can occur in diabetes mellitus and in genetic deficiencies of enzymes involved in gluconeogenesis.",0
+"DORLAND'S ILLUSTRATED MEDICAL DICTIONARY (30th ed.",0
+"Footnote 13: To the Court's knowledge, a tonic seizure involves a static contraction of muscles, in contrast to a clonic seizure, which is characterized by alternating contraction and relaxation of the affected muscles.",0
+"Footnote 14: Opisthotonos is a form of spasm consisting of extreme hyperextension of the body; the head and the heels are bent backward and the body bowed forward.",0
+"DORLAND'S ILLUSTRATED MEDICAL DICTIONARY (30th ed.",0
+"Footnote 15: Of course it is a sine qua non that the Petitioners must also prove that the death was sequella to a vaccine-related injury.",1
+"See, e.g., Hossack v. Secretary of HHS, 32 Fed. Cl. 769, 776 (1995).",0
+"Footnote 16: Latin for after this, therefore because of this.",0

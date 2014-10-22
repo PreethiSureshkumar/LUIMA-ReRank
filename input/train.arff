@@ -1,0 +1,11 @@
+@relation train
+
+@attribute Document string
+@attribute class {yes, no}
+
+@data
+
+"this is an apple", yes
+"this is not an apple", no
+"this might be an apple",  yes
+"this might not be an apple", no
