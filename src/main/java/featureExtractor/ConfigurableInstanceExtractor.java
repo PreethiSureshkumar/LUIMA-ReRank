@@ -17,7 +17,7 @@ public class ConfigurableInstanceExtractor implements InstanceExtractor<String> 
 		Instance instance = new DenseInstance(FeatureExtractors.length + 1);
     for (int i = 0; i < FeatureExtractors.length; i++) {
       try {
-        Class fe = Class.forName("rerankerFeatureExtractor."
+        Class fe = Class.forName("featureExtractor."
             + FeatureExtractors[i].trim());
         Method methodToBeInvoked = fe.getMethod("getFeature", new Class[] { String.class });
         String val = (String) methodToBeInvoked.invoke(null, line);

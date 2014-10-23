@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import letor.PairwiseLeToR;
+import letor.PointwiseLeToR;
 import featureExtractor.InstanceExtractor;
 import featureExtractor.ConfigurableInstanceExtractor;
 import weka.classifiers.Classifier;
@@ -32,6 +33,7 @@ public class ExperimentPipeline {
     	//ReRanking Feature Extractor
     	InstanceExtractor<String> rrfe = new ConfigurableInstanceExtractor();
     	Classifier c = new LinearRegression();
+//    	PointwiseLeToR p =  PointwiseLeToR.getInstance(c);
     	PairwiseLeToR p =  PairwiseLeToR.getInstance(c);
     	p.loadModel(Parameters.rankModelFile);
     	List<Object> reranked = p.rank(resultLines, rrfe);
