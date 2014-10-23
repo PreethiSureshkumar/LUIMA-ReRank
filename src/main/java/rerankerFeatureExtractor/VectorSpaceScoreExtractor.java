@@ -26,56 +26,56 @@ public class VectorSpaceScoreExtractor {
 	public static String getFeature(String line) throws IOException {
 		BufferedReader br = new BufferedReader(new FileReader(
 				Parameters.searchQuery));
+		Map<String, Integer> queryVector = new HashMap<String, Integer>();
 		String query = "";
 		while ((query = br.readLine()) != null) {
-			Map<String, Integer> queryVector = new HashMap<String, Integer>();
+			
 			Matcher m = Pattern.compile("\\w+Mention\\b").matcher(query);
 			while (m.find()) {
 				queryVector.put(m.group(), 1);
 			}
 		}
 		br.close();
-		String[] docId = line.split("\\s([\\d\\.]+)");
+		String[] docId = line.split("\\s+");
+		Map<String, Integer> docVector = new HashMap<String, Integer>();
 		try {
 			File fXmlFile = new File(Parameters.searchDocument);
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory
 					.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 			Document doc = dBuilder.parse(fXmlFile);
-			
+
 			doc.getDocumentElement().normalize();
 
-			System.out.println("Root element :"
-					+ doc.getDocumentElement().getNodeName());
-
 			NodeList nList = doc.getElementsByTagName("doc");
-
-			System.out.println("----------------------------");
-
 			for (int temp = 0; temp < nList.getLength(); temp++) {
 
 				Node nNode = nList.item(temp);
-
-				System.out.println("\nCurrent Element :" + nNode.getNodeName());
 
 				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
 					Element eElement = (Element) nNode;
 
-					System.out.println("Id : "
-							+ eElement.getElementsByTagName("id")
-									.item(0).getTextContent());
-					System.out.println("about : "
-							+ eElement.getElementsByTagName("about").item(0)
-									.getTextContent());
+					if (docId[1].trim().equals(
+							eElement.getElementsByTagName("field").item(0)
+									.getTextContent())) {
+						String about = eElement.getElementsByTagName("field")
+								.item(5).getTextContent();
+						String[] aboutMentions = about.split(";");
+						for(int i=0;i<aboutMentions.length; i++){
+							docVector.put(aboutMentions[i].trim(), 1);
+						}
+
+					}
 
 				}
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
-		return line;
+        
+		double vsm = computeCosineSimilarity(queryVector, docVector);
+		return ""+vsm;
 	}
 
 	/**
@@ -87,7 +87,7 @@ public class VectorSpaceScoreExtractor {
 	 * @param docVector
 	 * @return
 	 */
-	private double computeCosineSimilarity(Map<String, Integer> queryVector,
+	private static double computeCosineSimilarity(Map<String, Integer> queryVector,
 			Map<String, Integer> docVector) {
 		double cosine_similarity = 0.0;
 		double query = 0.0;
@@ -114,7 +114,7 @@ public class VectorSpaceScoreExtractor {
 
 		}
 
-		cosine_similarity = numerator / Math.sqrt(query) / Math.sqrt(docum);
+		cosine_similarity = 1.0 * numerator / Math.sqrt(query) / Math.sqrt(docum);
 		return cosine_similarity;
 	}
 
