@@ -1,4 +1,4 @@
-package rerankPipeline;
+package main;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -6,9 +6,9 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-import rerankPipeline.letor.PairwiseLeToR;
-import rerankerFeatureExtractor.ReRankingFeatureExtractor;
-import util.FeaturesExtractor;
+import letor.PairwiseLeToR;
+import featureExtractor.InstanceExtractor;
+import featureExtractor.ConfigurableInstanceExtractor;
 import weka.classifiers.Classifier;
 import weka.classifiers.functions.LinearRegression;
 
@@ -30,7 +30,7 @@ public class ExperimentPipeline {
       br.close();
       
     	//ReRanking Feature Extractor
-    	FeaturesExtractor<String> rrfe = new ReRankingFeatureExtractor();
+    	InstanceExtractor<String> rrfe = new ConfigurableInstanceExtractor();
     	Classifier c = new LinearRegression();
     	PairwiseLeToR p =  PairwiseLeToR.getInstance(c);
     	p.loadModel(Parameters.rankModelFile);
@@ -39,17 +39,5 @@ public class ExperimentPipeline {
     	  System.out.println(ranked);
     	}
     	
-    	// Learning to Rank
-        /*WekaPredictor nb = new WekaNaiveBayesPredictor();
-        nb.loadTrainData(Parameters.trainFile);
-        nb.loadTestData(Parameters.testFile);
-        nb.stringToVector();
-        //nb.loadModel(Parameters.modelFile);
-        //nb.trainAndPrintResultInDetail();
-        nb.trainAndPrintResultInDetail();
-        nb.saveModel(Parameters.modelFile);*/
-        //nb.crossValidationAndPrintResult(Parameters.folds);
-        
-        //Evaluator
     }
 }

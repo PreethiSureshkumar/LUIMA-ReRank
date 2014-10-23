@@ -1,4 +1,4 @@
-package rerankPipeline.letor;
+package letor;
 
 import weka.classifiers.Classifier;
 import weka.core.DenseInstance;

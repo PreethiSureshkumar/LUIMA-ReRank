@@ -1,9 +1,10 @@
-package rerankPipeline;
+package main;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import rerankPipeline.letor.PairwiseLeToR;
-import rerankerFeatureExtractor.ReRankingFeatureExtractor;
+
+import letor.PairwiseLeToR;
+import featureExtractor.ConfigurableInstanceExtractor;
 import weka.classifiers.Classifier;
 import weka.classifiers.functions.LinearRegression;
 import weka.core.Instances;
@@ -18,7 +19,7 @@ public class TrainRerankModel {
     
     Classifier c = new LinearRegression();
     PairwiseLeToR p =  PairwiseLeToR.getInstance(c);
-    ReRankingFeatureExtractor rr = new ReRankingFeatureExtractor();
+    ConfigurableInstanceExtractor rr = new ConfigurableInstanceExtractor();
     
     p.trainModel(instances);
     p.saveModel(Parameters.rankModelFile);

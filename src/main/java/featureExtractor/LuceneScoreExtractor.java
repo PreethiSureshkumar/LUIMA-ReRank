@@ -1,4 +1,4 @@
-package rerankerFeatureExtractor;
+package featureExtractor;
 
 public class LuceneScoreExtractor {
 

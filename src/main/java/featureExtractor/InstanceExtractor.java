@@ -1,6 +1,6 @@
-package util;
+package featureExtractor;
 import weka.core.Instance;
 
-public interface FeaturesExtractor<E> {
+public interface InstanceExtractor<E> {
   public abstract Instance getFeatures(E obj);
 }

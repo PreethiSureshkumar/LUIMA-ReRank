@@ -1,4 +1,4 @@
-package rerankPipeline;
+package main;
 
 /**
  * Configuration file to perform feature extraction and re ranking

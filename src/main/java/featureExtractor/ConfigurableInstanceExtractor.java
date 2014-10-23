@@ -1,4 +1,4 @@
-package rerankerFeatureExtractor;
+package featureExtractor;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -6,12 +6,11 @@ import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-import rerankPipeline.Parameters;
-import util.FeaturesExtractor;
+import main.Parameters;
 import weka.core.DenseInstance;
 import weka.core.Instance;
 
-public class ReRankingFeatureExtractor implements FeaturesExtractor<String> {
+public class ConfigurableInstanceExtractor implements InstanceExtractor<String> {
 
 	public Instance getFeatures(String line) {
 		String[] FeatureExtractors = Parameters.FeaturesToBeExtracted.split(";");

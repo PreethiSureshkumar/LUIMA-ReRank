@@ -1,4 +1,4 @@
-package rerankerFeatureExtractor;
+package featureExtractor;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -15,12 +15,12 @@ import java.util.regex.Pattern;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
+import main.Parameters;
+
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-
-import rerankPipeline.Parameters;
 
 public class VectorSpaceScoreExtractor {
 	public static String getFeature(String line) throws IOException {

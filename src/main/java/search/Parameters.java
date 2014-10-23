@@ -1,4 +1,4 @@
-package Search;
+package search;
 /**
  * User: Ran Chen <ranc@cs.cmu.edu>
  * Date: 10/9/14

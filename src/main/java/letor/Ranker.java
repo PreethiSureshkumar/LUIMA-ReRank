@@ -1,10 +1,11 @@
-package rerankPipeline.letor;
+package letor;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
+
 import edu.stanford.nlp.util.FixedPrioritiesPriorityQueue;
-import util.FeaturesExtractor;
+import featureExtractor.InstanceExtractor;
 import weka.classifiers.Classifier;
 import weka.classifiers.misc.SerializedClassifier;
 import weka.core.Instance;
@@ -41,7 +42,7 @@ public abstract class Ranker {
     return classifier.classifyInstance(instance);
   }
   
-  public List<Object> rank(List<? extends Object> obj, FeaturesExtractor fe) throws Exception {
+  public List<Object> rank(List<? extends Object> obj, InstanceExtractor fe) throws Exception {
     FixedPrioritiesPriorityQueue queue = new FixedPrioritiesPriorityQueue();
     for (Object o: obj) {
       Instance i = fe.getFeatures(o);
