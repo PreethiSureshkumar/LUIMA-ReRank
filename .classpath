@@ -32,5 +32,6 @@
 	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/lucene-queryparser-4.10.1.jar"/>
 	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/nekohtml-1.9.17.jar"/>
 	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRank/libs/stanford-corenlp-3.4.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

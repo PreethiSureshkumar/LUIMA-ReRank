@@ -11,7 +11,7 @@ import java.util.List;
 
 import rerankPipeline.Parameters;
 
-public class ReRankingFeatureExtractor {
+public class ReRankingFeatureExtractor  {
 
 	public void performFeatureExtraction() throws ClassNotFoundException,
 			IOException, NoSuchMethodException, SecurityException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {

@@ -37,34 +37,39 @@ public class VectorSpaceScoreExtractor {
 		br.close();
 		String[] docId = line.split("\\s([\\d\\.]+)");
 		try {
-			File file = new File(Parameters.searchDocument);
-			DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-			DocumentBuilder db = dbf.newDocumentBuilder();
-			Document doc = db.parse(file);
+			File fXmlFile = new File(Parameters.searchDocument);
+			DocumentBuilderFactory dbFactory = DocumentBuilderFactory
+					.newInstance();
+			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+			Document doc = dBuilder.parse(fXmlFile);
+			
 			doc.getDocumentElement().normalize();
-			NodeList nodeLst = doc.getElementsByTagName("doc");
-			for (int s = 0; s < nodeLst.getLength(); s++) {
 
-				Node fstNode = nodeLst.item(s);
+			System.out.println("Root element :"
+					+ doc.getDocumentElement().getNodeName());
 
-				if (fstNode.getNodeType() == Node.ELEMENT_NODE) {
+			NodeList nList = doc.getElementsByTagName("doc");
 
-					Element fstElmnt = (Element) fstNode;
-					NodeList fstNmElmntLst = fstElmnt
-							.getElementsByTagName("id");
-					Element fstNmElmnt = (Element) fstNmElmntLst.item(0);
-					
-					NodeList fstNm = fstNmElmnt.getChildNodes();
-					System.out.println("First Name : "
-							+ ((Node) fstNm.item(0)).getNodeValue());
-					NodeList lstNmElmntLst = fstElmnt
-							.getElementsByTagName("lastname");
-					Element lstNmElmnt = (Element) lstNmElmntLst.item(0);
-					NodeList lstNm = lstNmElmnt.getChildNodes();
-					System.out.println("Last Name : "
-							+ ((Node) lstNm.item(0)).getNodeValue());
+			System.out.println("----------------------------");
+
+			for (int temp = 0; temp < nList.getLength(); temp++) {
+
+				Node nNode = nList.item(temp);
+
+				System.out.println("\nCurrent Element :" + nNode.getNodeName());
+
+				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
+
+					Element eElement = (Element) nNode;
+
+					System.out.println("Id : "
+							+ eElement.getElementsByTagName("id")
+									.item(0).getTextContent());
+					System.out.println("about : "
+							+ eElement.getElementsByTagName("about").item(0)
+									.getTextContent());
+
 				}
-
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
