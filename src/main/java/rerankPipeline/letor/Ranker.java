@@ -41,10 +41,10 @@ public abstract class Ranker {
     return classifier.classifyInstance(instance);
   }
   
-  public List<Object> rank(List<Object> obj, FeaturesExtractor fe) throws Exception {
+  public List<Object> rank(List<? extends Object> obj, FeaturesExtractor fe) throws Exception {
     FixedPrioritiesPriorityQueue queue = new FixedPrioritiesPriorityQueue();
     for (Object o: obj) {
-      Instance i = fe.getFeatures(obj);
+      Instance i = fe.getFeatures(o);
       queue.add(o, predict(i));
     }
     return queue.toSortedList();

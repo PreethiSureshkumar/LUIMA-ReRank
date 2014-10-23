@@ -15,4 +15,6 @@ public class Parameters {
 	public static String inputDirectory = "";
 	public static String modelFile = "model/NaiveBayesUpdateable.model";
 	public static Integer folds = 2;
+	public static String rankTrainFile = "input/traintrain.arff";
+	public static String rankModelFile = "model/LRRerankModel.model";
 }
