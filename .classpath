@@ -22,16 +22,16 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/commons-compress-1.7.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/lucene-analyzers-common-4.10.1.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/lucene-benchmark-4.10.1.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/lucene-codecs-4.10.1.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/lucene-core-4.10.1.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/lucene-demo-4.10.1.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/lucene-queries-4.10.1.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/lucene-queryparser-4.10.1.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/nekohtml-1.9.17.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRanker/libs/xercesImpl-2.9.1.jar"/>
-	<classpathentry kind="lib" path="/Users/psureshk/Documents/Fall&apos;14/LUIMA-ReRank/libs/stanford-corenlp-3.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-compress-1.7.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-analyzers-common-4.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-benchmark-4.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-codecs-4.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-core-4.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-demo-4.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-queries-4.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-queryparser-4.10.1.jar"/>
+	<classpathentry kind="lib" path="libs/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="libs/xercesImpl-2.9.1.jar"/>
+        <classpathentry kind="lib" path="libs/stanford-corenlp-3.4.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
