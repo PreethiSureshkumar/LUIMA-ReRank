@@ -68,7 +68,7 @@ public class ResultCalculator {
 		for (String id : predictResult.getIdList()) {
 			if (trueResult.containsId(id)) {
 				if (index > 1) {
-					dcg += Integer.parseInt(trueResult.results.get(trueResult
+					dcg += 1.0 * Integer.parseInt(trueResult.results.get(trueResult
 							.getIdIndex(id)).relevant) / log(index, 2);
 				}
 			}
@@ -79,7 +79,7 @@ public class ResultCalculator {
 		int ideal_index = 1;
 		for (String id : trueResult.getIdList()) {
 			if (ideal_index > 1) {
-				idcg += Integer.parseInt(trueResult.results.get(trueResult
+				idcg += 1.0 * Integer.parseInt(trueResult.results.get(trueResult
 						.getIdIndex(id)).relevant) / log(ideal_index, 2);
 			}
 			ideal_index++;
