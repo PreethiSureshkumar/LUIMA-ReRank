@@ -1,1 +1,1 @@
-level:sentence ; type:LegalRuleSentence ; about:"AdverseMedicalConditionMention"
+level:sentence ; type:LegalRuleSentence ; about:”AdverseMedicalConditionMention and (VaccineMention or VaccinationEventMention) and (CausalityConceptMention or CausalityRelationMention)” 

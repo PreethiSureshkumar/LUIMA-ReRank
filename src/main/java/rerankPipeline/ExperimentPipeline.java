@@ -14,17 +14,17 @@ public class ExperimentPipeline {
     public static void main(String[] args) throws Exception {
     	
     	//ReRanking Feature Extractor
-    	//ReRankingFeatureExtractor rrfe = new ReRankingFeatureExtractor();
-    	//rrfe.performFeatureExtraction();
+    	ReRankingFeatureExtractor rrfe = new ReRankingFeatureExtractor();
+    	rrfe.performFeatureExtraction();
     	// Learning to Rank
-        WekaPredictor nb = new WekaNaiveBayesPredictor();
+        /*WekaPredictor nb = new WekaNaiveBayesPredictor();
         nb.loadTrainData(Parameters.trainFile);
         nb.loadTestData(Parameters.testFile);
         nb.stringToVector();
         //nb.loadModel(Parameters.modelFile);
         //nb.trainAndPrintResultInDetail();
         nb.trainAndPrintResultInDetail();
-        nb.saveModel(Parameters.modelFile);
+        nb.saveModel(Parameters.modelFile);*/
         //nb.crossValidationAndPrintResult(Parameters.folds);
         
         //Evaluator
